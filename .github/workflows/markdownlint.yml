@@ -1,4 +1,4 @@
-name: CI
+name: markdownlint
 on: push
 jobs:
   build:

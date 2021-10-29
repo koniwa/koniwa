@@ -10,5 +10,8 @@
     "scripts": {
         "pyright": "pyright"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "devDependencies": {
+        "markdownlint-cli": "^0.29.0"
+    }
 }

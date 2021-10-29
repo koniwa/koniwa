@@ -1,6 +1,9 @@
 
 # 声庭 (Koniwa): オープンな日本語音声とアノテーションのコレクション
 
+[![markdownlint](https://github.com/koniwa/koniwa/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/markdownlint.yml)
+[![Typos](https://github.com/koniwa/koniwa/actions/workflows/typos.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/typos.yml)
+
 Koniwa (声庭): An open collection of annotated voices in Japanese language
 
 ## 概要

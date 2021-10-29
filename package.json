@@ -1,8 +1,5 @@
 {
     "author": "",
-    "dependencies": {
-        "pyright": "^1.1.178"
-    },
     "description": "",
     "license": "",
     "main": "",
@@ -11,6 +8,9 @@
         "pyright": "pyright"
     },
     "version": "1.0.0",
+    "dependencies": {
+        "pyright": "^1.1.182"
+    },
     "devDependencies": {
         "markdownlint-cli": "^0.29.0"
     }

@@ -31,4 +31,4 @@ jobs:
           node-version: '14'
           cache: npm
       - run: npm install
-      - run: make lint_node -j $(nproc)
+      - run: poetry run make lint_node -j $(nproc)

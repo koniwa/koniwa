@@ -43,7 +43,7 @@ class Meta(BaseModel):
 
     @validator("license_sound", "license_text")
     def license(cls, v):
-        allowed = ["PDM", "CC BY 4.0", "CC BY 3.0", "CC BY 2.1 JP"]
+        allowed = ["PDM", "CC0 1.0", "CC BY 4.0", "CC BY 3.0", "CC BY 2.1 JP"]
         if v not in allowed:
             raise ValueError(f"Invalid license: {v}")
         return v

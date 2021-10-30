@@ -1,7 +1,7 @@
 name: CI
 on: push
 jobs:
-  build:
+  ci_python:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -25,3 +25,14 @@ jobs:
       - run: pip install poetry
       - run: poetry install
       - run: poetry run make lint_python -j $(nproc)
+
+  ci_node:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+          cache: npm
+      - run: npm install
+      - run: make lint_node -j $(nproc)

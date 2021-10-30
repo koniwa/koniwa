@@ -17,6 +17,7 @@ pydocstyle = ">=5.1.1"
 pyright = ">=0.0.10"
 # 21.8b0 and 21.9b0 cause ImportError: cannot import name 'TypeGuard' from 'typing_extensions'
 black = "<21.8b0"
+toml = "^0.10.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

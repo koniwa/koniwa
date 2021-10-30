@@ -1,7 +1,7 @@
 name: CI
 on: push
 jobs:
-  ci_python:
+  ci:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -26,10 +26,6 @@ jobs:
       - run: poetry install
       - run: poetry run make lint_python -j $(nproc)
 
-  ci_node:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
           node-version: '14'

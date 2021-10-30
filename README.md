@@ -1,6 +1,7 @@
 
 # 声庭 (Koniwa): オープンな日本語音声とアノテーションのコレクション
 
+[![CI](https://github.com/koniwa/koniwa/actions/workflows/ci.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/ci.yml)
 [![markdownlint](https://github.com/koniwa/koniwa/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/markdownlint.yml)
 [![Typos](https://github.com/koniwa/koniwa/actions/workflows/typos.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/typos.yml)
 

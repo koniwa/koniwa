@@ -70,9 +70,13 @@ class Data(BaseModel):
 
     @validator("meta")
     def status(cls, v, values):
+        size_annotation: int = len(values["annotation"])
         if v.status_annotation is None:
-            if len(values["annotation"]) != 0:
+            if size_annotation != 0:
                 raise ValueError("Size of annotation is not 0")
+        else:
+            if size_annotation == 0:
+                raise ValueError("Size of annotation should not be 0")
         return v
 
 

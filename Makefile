@@ -16,7 +16,12 @@ yamllint:
 	find . \( -name node_modules -o -name .venv \) -prune -o -type f -name '*.yml' -print \
 		| xargs yamllint --no-warnings
 
-lint_python: flake8 black isort pydocstyle yamllint
+check_json:
+	python3 ./scripts/check_json.py -i ./data
+
+lint_python: flake8 black isort pydocstyle yamllint check_json
+
+
 pyright:
 	npx pyright
 

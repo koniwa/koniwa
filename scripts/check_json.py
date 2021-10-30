@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 
 import argparse
+import sys
 from pathlib import Path
 from typing import List
 
-from pydantic import BaseModel
+from pydantic import BaseModel, validator
 
 
 class Span(BaseModel):
@@ -40,31 +41,56 @@ class Meta(BaseModel):
     url_sound: str
     note: str
 
+    @validator("license_sound", "license_text")
+    def license(cls, v):
+        allowed = ["PDM", "CC BY 4.0", "CC BY 3.0", "CC BY 2.1 JP"]
+        if v not in allowed:
+            raise ValueError(f"Invalid license: {v}")
+        return v
+
+    @validator("licenser_sound", "licenser_text")
+    def licenser(cls, v):
+        if len(v.strip()) == 0:
+            raise ValueError(f"Invalid licenser: {v}")
+        return v
+
 
 class Data(BaseModel):
     annotation: List[Annotation]
     meta: Meta
 
 
-def operation(path_dir: Path) -> None:
+def operation(path_dir: Path, write: bool) -> bool:
     assert path_dir.is_dir()
+    ok = True
 
     for path_in in path_dir.rglob("*.json"):
-        d: Data = Data.parse_file(path_in)
-        with path_in.open("w") as outf:
-            outf.write(d.json(ensure_ascii=False, indent=4))
-            outf.write("\n")
+        try:
+            d: Data = Data.parse_file(path_in)
+        except Exception as e:
+            ok = False
+            print(f"{path_in}: {e}")
+            continue
+
+        if write:
+            with path_in.open("w") as outf:
+                outf.write(d.json(ensure_ascii=False, indent=4))
+                outf.write("\n")
+    return ok
 
 
 def get_opts() -> argparse.Namespace:
     oparser = argparse.ArgumentParser()
     oparser.add_argument("--input", "-i", type=Path, required=True)
+    oparser.add_argument("--write", "-w", action="store_true")
     return oparser.parse_args()
 
 
 def main() -> None:
     opts = get_opts()
-    operation(opts.input)
+    ok: bool = operation(opts.input, opts.write)
+    if not ok:
+        sys.exit(1)
 
 
 if __name__ == "__main__":

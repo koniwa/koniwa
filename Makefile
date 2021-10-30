@@ -22,7 +22,8 @@ jsonlint:
 	python3 -c "import sys,json;print(json.dumps(json.loads(sys.stdin.read()),indent=4,ensure_ascii=False,sort_keys=True))" < .markdownlint.json | diff -q - .markdownlint.json
 
 yamllint:
-	find . -name '*.yml' -type f | xargs yamllint --no-warnings
+	find . \( -name node_modules -o -name .venv \) -prune -o -type f -name '*.yml' -print \
+		| xargs yamllint --no-warnings
 	
 
 setup_node_module:

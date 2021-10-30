@@ -3,7 +3,7 @@
 import argparse
 import sys
 from pathlib import Path
-from typing import List
+from typing import List, Optional
 
 from pydantic import BaseModel, validator
 
@@ -39,6 +39,8 @@ class Meta(BaseModel):
 
     url: str
     url_sound: str
+
+    status_annotation: Optional[str]
     note: str
 
     @validator("license_sound", "license_text")
@@ -54,10 +56,24 @@ class Meta(BaseModel):
             raise ValueError(f"Invalid licenser: {v}")
         return v
 
+    @validator("status_annotation")
+    def status(cls, v):
+        if v is not None:
+            if v not in ["annotating", "done"]:
+                raise ValueError(f"Invalid status: {v}")
+        return v
+
 
 class Data(BaseModel):
     annotation: List[Annotation]
     meta: Meta
+
+    @validator("meta")
+    def status(cls, v, values):
+        if v.status_annotation is None:
+            if len(values["annotation"]) != 0:
+                raise ValueError("Size of annotation is not 0")
+        return v
 
 
 def operation(path_dir: Path, write: bool) -> bool:

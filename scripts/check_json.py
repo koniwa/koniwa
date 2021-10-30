@@ -65,17 +65,26 @@ def operation(path_dir: Path, write: bool) -> bool:
     ok = True
 
     for path_in in path_dir.rglob("*.json"):
+        with path_in.open() as inf:
+            d_raw = inf.read()
+
         try:
-            d: Data = Data.parse_file(path_in)
+            d: Data = Data.parse_raw(d_raw)
         except Exception as e:
             ok = False
             print(f"{path_in}: {e}")
             continue
 
+        d_formatted = d.json(ensure_ascii=False, indent=4) + "\n"
+        if d_raw == d_formatted:
+            continue
+
         if write:
             with path_in.open("w") as outf:
-                outf.write(d.json(ensure_ascii=False, indent=4))
-                outf.write("\n")
+                outf.write(d_formatted)
+        else:
+            print(f"{path_in}: Not formatted")
+            ok = False
     return ok
 
 

@@ -89,7 +89,13 @@ class Data(BaseModel):
 
 class Stat(BaseModel):
     total_duration: float = 0
+    total_duration_done: float = 0
     ok: bool = True
+
+    def update(self, meta: Meta):
+        self.total_duration += meta.duration
+        if meta.status_annotation == "done":
+            self.total_duration_done += meta.duration
 
 
 def operation(path_dir: Path, write: bool) -> Stat:
@@ -108,7 +114,7 @@ def operation(path_dir: Path, write: bool) -> Stat:
             print(f"{path_in}: {e}")
             continue
 
-        stat.total_duration += d.meta.duration
+        stat.update(d.meta)
 
         d_formatted = d.json(ensure_ascii=False, indent=4) + "\n"
         if d_raw == d_formatted:

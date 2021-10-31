@@ -26,7 +26,7 @@ class Annotation(BaseModel):
 
 
 class Meta(BaseModel):
-    series: Optional[str]
+    series: str
     album: Optional[str]
     title: str
     part: Optional[int]

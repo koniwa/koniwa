@@ -29,10 +29,10 @@ class Meta(BaseModel):
     series: str
     album: Optional[str]
     title: str
-    part: Optional[int]
-
     chapter_number: Optional[int]
     chapter_name: Optional[str]
+
+    part: Optional[int]
 
     date: Optional[date]
     speaker: Optional[str]

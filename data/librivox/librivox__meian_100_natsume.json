@@ -2,9 +2,9 @@
     "annotation": [],
     "meta": {
         "series": "LibriVox",
-        "album": "明暗",
-        "title": "Hyaku",
-        "part": null,
+        "album": null,
+        "title": "明暗",
+        "part": 100,
         "date": null,
         "speaker": "ekzemplaro",
         "licenser_sound": "ekzemplaro",

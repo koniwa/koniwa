@@ -87,9 +87,15 @@ class Data(BaseModel):
         return v
 
 
-def operation(path_dir: Path, write: bool) -> bool:
+class Stat(BaseModel):
+    total_duration: float = 0
+    ok: bool = True
+
+
+def operation(path_dir: Path, write: bool) -> Stat:
     assert path_dir.is_dir()
-    ok = True
+
+    stat = Stat()
 
     for path_in in path_dir.rglob("*.json"):
         with path_in.open() as inf:
@@ -98,9 +104,11 @@ def operation(path_dir: Path, write: bool) -> bool:
         try:
             d: Data = Data.parse_raw(d_raw)
         except Exception as e:
-            ok = False
+            stat.ok = False
             print(f"{path_in}: {e}")
             continue
+
+        stat.total_duration += d.meta.duration
 
         d_formatted = d.json(ensure_ascii=False, indent=4) + "\n"
         if d_raw == d_formatted:
@@ -111,21 +119,26 @@ def operation(path_dir: Path, write: bool) -> bool:
                 outf.write(d_formatted)
         else:
             print(f"{path_in}: Not formatted")
-            ok = False
-    return ok
+            stat.ok = False
+    return stat
 
 
 def get_opts() -> argparse.Namespace:
     oparser = argparse.ArgumentParser()
     oparser.add_argument("--input", "-i", type=Path, required=True)
+    oparser.add_argument("--output", "-o", default="/dev/stdout", type=Path)
     oparser.add_argument("--write", "-w", action="store_true")
     return oparser.parse_args()
 
 
 def main() -> None:
     opts = get_opts()
-    ok: bool = operation(opts.input, opts.write)
-    if not ok:
+    stat: Stat = operation(opts.input, opts.write)
+
+    with opts.output.open("w") as outf:
+        outf.write(stat.json(ensure_ascii=False, indent=4) + "\n")
+
+    if not stat.ok:
         sys.exit(1)
 
 

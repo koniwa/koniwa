@@ -2,6 +2,7 @@
 all: lint_node lint_python
 
 TARGET_DIRS:=./scripts
+OUTPUT_STAT:=/dev/stdout
 
 flake8:
 	find $(TARGET_DIRS) | grep '\.py$$' | xargs flake8
@@ -17,7 +18,7 @@ yamllint:
 		| xargs yamllint --no-warnings
 
 check_json:
-	python3 ./scripts/check_json.py -i ./data
+	python3 ./scripts/check_json.py -i ./data -o $(OUTPUT_STAT)
 
 lint_python: flake8 black isort pydocstyle yamllint check_json
 

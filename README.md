@@ -1,15 +1,13 @@
 
-# 声庭 (Koniwa): オープンな日本語音声とアノテーションのコレクション
+# 声庭 (Koniwa): An open collection of annotated voices in Japanese language
 
 [![CI](https://github.com/koniwa/koniwa/actions/workflows/ci.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/ci.yml)
 [![CodeQL](https://github.com/koniwa/koniwa/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/codeql-analysis.yml)
 [![Typos](https://github.com/koniwa/koniwa/actions/workflows/typos.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/typos.yml)
 
-Koniwa (声庭): An open collection of annotated voices in Japanese language
-
 ## 概要
 
-Koniwa(声庭)は利用・修正・再配布が自由でオープンな音声とアノテーションのコレクションです．  
+声庭 (Koniwa) は利用・修正・再配布が自由でオープンな音声とアノテーションのコレクションです．  
 （商用目的での利用も可能です．）
 
 アノテーション作業は始まったばかりです．

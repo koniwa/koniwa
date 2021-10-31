@@ -2,11 +2,11 @@
     "annotation": [],
     "meta": {
         "series": "朗読図書館",
-        "album": "",
+        "album": null,
         "title": "山月記",
         "part": 1,
         "date": null,
-        "speaker": "",
+        "speaker": null,
         "licenser_sound": "池田 英生",
         "license_sound": "CC BY 2.1 JP",
         "licenser_text": "中島 敦",

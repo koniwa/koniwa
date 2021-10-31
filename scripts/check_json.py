@@ -26,13 +26,13 @@ class Annotation(BaseModel):
 
 
 class Meta(BaseModel):
-    series: str
-    album: str
+    series: Optional[str]
+    album: Optional[str]
     title: str
     part: Optional[int]
 
     date: Optional[date]
-    speaker: str
+    speaker: Optional[str]
 
     licenser_sound: str
     license_sound: str

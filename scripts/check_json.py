@@ -28,6 +28,7 @@ class Meta(BaseModel):
     series: str
     album: str
     title: str
+    part: Optional[int]
 
     date: str
     speaker: str

@@ -26,6 +26,8 @@ class Annotation(BaseModel):
 
 
 class Meta(BaseModel):
+    duration: float
+
     series: str
     album: Optional[str]
     title: str

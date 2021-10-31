@@ -2,6 +2,7 @@
 
 import argparse
 import sys
+from datetime import date
 from pathlib import Path
 from typing import List, Optional
 
@@ -30,7 +31,7 @@ class Meta(BaseModel):
     title: str
     part: Optional[int]
 
-    date: str
+    date: Optional[date]
     speaker: str
 
     licenser_sound: str

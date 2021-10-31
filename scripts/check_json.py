@@ -31,6 +31,9 @@ class Meta(BaseModel):
     title: str
     part: Optional[int]
 
+    chapter_number: Optional[int]
+    chapter_name: Optional[str]
+
     date: Optional[date]
     speaker: Optional[str]
 

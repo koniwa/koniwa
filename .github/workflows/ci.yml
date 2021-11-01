@@ -41,6 +41,13 @@ jobs:
       - run: npm install
       - run: poetry run make lint_node -j $(nproc)
 
+      - name: Generate badge images
+        if: github.ref == 'refs/heads/master'
+        run: >-
+          node ./scripts/badge.js \
+          ${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_STAT }} \
+          ${{ env.OUTPUT_DIR }}/badge
+
       - name: Deploy stat
         if: github.ref == 'refs/heads/master'
         uses: peaceiris/actions-gh-pages@v3

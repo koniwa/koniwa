@@ -10,7 +10,8 @@
     "version": "1.0.0",
     "dependencies": {},
     "devDependencies": {
-        "pyright": "^1.1.182",
-        "markdownlint-cli": "^0.29.0"
+        "badge-maker": "^3.3.1",
+        "markdownlint-cli": "^0.29.0",
+        "pyright": "^1.1.182"
     }
 }

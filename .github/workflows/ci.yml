@@ -44,8 +44,8 @@ jobs:
       - name: Generate badge images
         if: github.ref == 'refs/heads/master'
         run: >-
-          node ./scripts/badge.js \
-          ${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_STAT }} \
+          node ./scripts/badge.js
+          ${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_STAT }}
           ${{ env.OUTPUT_DIR }}/badge
 
       - name: Deploy stat

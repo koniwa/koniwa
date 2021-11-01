@@ -14,7 +14,6 @@ flake8 = ">=3.8.4"
 isort = ">=5.6.4"
 yamllint = ">=1.25.0"
 pydocstyle = ">=5.1.1"
-pyright = ">=0.0.10"
 black = ">=21.9b0"
 toml = "^0.10.2"
 

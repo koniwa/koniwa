@@ -2,94 +2,9 @@
 
 import argparse
 import sys
-from datetime import date
 from pathlib import Path
-from typing import List, Optional
 
-from pydantic import BaseModel, validator
-
-
-class Span(BaseModel):
-    text_level0: str
-    kana_level0: str
-    text_level1: str
-    text_level2: str
-    kana_level2: str
-    kana_level3: str
-    memo: str
-
-
-class Annotation(BaseModel):
-    start: float
-    end: float
-    data: Span
-
-
-class Meta(BaseModel):
-    duration: float
-
-    series: str
-    album: Optional[str]
-    title: str
-    chapter_number: Optional[int]
-    chapter_name: Optional[str]
-
-    part: Optional[int]
-
-    date: Optional[date]
-    speaker: Optional[str]
-
-    licenser_sound: str
-    license_sound: str
-    licenser_text: str
-    license_text: str
-
-    url: str
-    url_sound: str
-
-    status_annotation: Optional[str]
-    note: str
-
-    @validator("license_sound", "license_text")
-    def license(cls, v):
-        allowed = ["Public Domain", "CC0 1.0", "CC BY 4.0", "CC BY 3.0", "CC BY 2.1 JP"]
-        if v not in allowed:
-            raise ValueError(f"Invalid license: {v}")
-        return v
-
-    @validator("licenser_sound", "licenser_text")
-    def licenser(cls, v):
-        if len(v.strip()) == 0:
-            raise ValueError(f"Invalid licenser: {v}")
-        return v
-
-    @validator("status_annotation")
-    def status(cls, v):
-        if v is not None:
-            if v not in ["annotating", "done"]:
-                raise ValueError(f"Invalid status: {v}")
-        return v
-
-
-class Data(BaseModel):
-    annotation: List[Annotation]
-    meta: Meta
-
-    @validator("meta")
-    def status(cls, v, values):
-        size_annotation: int = len(values["annotation"])
-        if v.status_annotation is None:
-            if size_annotation != 0:
-                raise ValueError("Size of annotation is not 0")
-        else:
-            if size_annotation == 0:
-                raise ValueError("Size of annotation should not be 0")
-        return v
-
-
-class Stat(BaseModel):
-    total_duration: float = 0
-    ok: bool = True
+from schema import Data, Stat
 
 
 def operation(path_dir: Path, write: bool) -> Stat:
@@ -108,7 +23,7 @@ def operation(path_dir: Path, write: bool) -> Stat:
             print(f"{path_in}: {e}")
             continue
 
-        stat.total_duration += d.meta.duration
+        stat.update(d.meta)
 
         d_formatted = d.json(ensure_ascii=False, indent=4) + "\n"
         if d_raw == d_formatted:

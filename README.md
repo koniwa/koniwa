@@ -4,7 +4,7 @@
 [![CI](https://github.com/koniwa/koniwa/actions/workflows/ci.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/ci.yml)
 [![CodeQL](https://github.com/koniwa/koniwa/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/codeql-analysis.yml)
 [![Typos](https://github.com/koniwa/koniwa/actions/workflows/typos.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/typos.yml)
-
+<br>
 [![Progress](https://koniwa.github.io/koniwa/badge/progress.svg)](https://koniwa.github.io/koniwa/stat.json)
 [![Duration](https://koniwa.github.io/koniwa/badge/duration.svg)](https://koniwa.github.io/koniwa/stat.json)
 
@@ -18,9 +18,9 @@
 
 ## ファイルリンク
 
-- [sound: 音声データ (Google Drive)](https://drive.google.com/drive/folders/1edUnYJpT8y0ZmAQSE_fJPQ6VnNBS6qWA)
-- [source: 参考データ (Google Drive)](https://drive.google.com/drive/folders/1yLZtynAznjVepfAgEVFtbiP0xhCGMmo2): 原文などアノテーション時の参考になる資料
-- [data: 書誌情報・アノテーションデータ](data)
+- sound: 音声データ [[Google Drive]](https://drive.google.com/drive/folders/1edUnYJpT8y0ZmAQSE_fJPQ6VnNBS6qWA)
+- source: 参考データ [[Google Drive]](https://drive.google.com/drive/folders/1yLZtynAznjVepfAgEVFtbiP0xhCGMmo2) [[GitHub]](source): 原文などアノテーション時の参考になる資料
+- data: 書誌情報・アノテーションデータ [[GitHub]](data)
     - [Schema](scripts/schema.py)
 
 ## シリーズ

@@ -1,5 +1,3425 @@
 {
-    "annotation": [],
+    "annotation": [
+        {
+            "start": 2.1,
+            "end": 3.71,
+            "data": {
+                "text_level0": "手袋を買いに",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 4.33,
+            "end": 5.19,
+            "data": {
+                "text_level0": "新美南吉",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 7.51,
+            "end": 9.38,
+            "data": {
+                "text_level0": "寒い冬が北方から、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 9.95,
+            "end": 12.7,
+            "data": {
+                "text_level0": "狐の親子の棲んでいる森へもやって来ました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 14.23,
+            "end": 14.78,
+            "data": {
+                "text_level0": "或朝",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 15.53,
+            "end": 16.21,
+            "data": {
+                "text_level0": "洞穴から",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 16.79,
+            "end": 18.82,
+            "data": {
+                "text_level0": "子供の狐が出ようとしましたが、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 19.83,
+            "end": 19.95,
+            "data": {
+                "text_level0": "「あっ」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 20.92,
+            "end": 21.59,
+            "data": {
+                "text_level0": "と叫んで",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 22.23,
+            "end": 26.16,
+            "data": {
+                "text_level0": "眼を抑えながら母さん狐のところへころげて来ました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 27.62,
+            "end": 28.14,
+            "data": {
+                "text_level0": "「母ちゃん、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 28.71,
+            "end": 30.29,
+            "data": {
+                "text_level0": "眼に何か刺さった、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 30.92,
+            "end": 33.58,
+            "data": {
+                "text_level0": "ぬいて頂戴早く早く」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 34.8,
+            "end": 35.47,
+            "data": {
+                "text_level0": "と言いました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 36.87,
+            "end": 46.45,
+            "data": {
+                "text_level0": "母さん狐がびっくりして、あわてふためきながら、眼を抑えている子供の手を恐る恐るとりのけて見ましたが、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 47.22,
+            "end": 49.47,
+            "data": {
+                "text_level0": "何も刺さってはいませんでした。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 51.27,
+            "end": 55.07,
+            "data": {
+                "text_level0": "母さん狐は洞穴の入口から外へ出て",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 55.71,
+            "end": 57.47,
+            "data": {
+                "text_level0": "始めてわけが解りました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": "始めて→初めて?"
+            }
+        },
+        {
+            "start": 59.12,
+            "end": 60.03,
+            "data": {
+                "text_level0": "昨夜のうちに、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 60.55,
+            "end": 63.66,
+            "data": {
+                "text_level0": "真白な雪がどっさり降ったのです。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 65.03,
+            "end": 69.26,
+            "data": {
+                "text_level0": "その雪の上からお陽さまがキラキラと照していたので、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 70.19,
+            "end": 73.24,
+            "data": {
+                "text_level0": "雪は眩しいほど反射していたのです。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 74.69,
+            "end": 77.23,
+            "data": {
+                "text_level0": "雪を知らなかった子供の狐は、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 77.78,
+            "end": 79.82,
+            "data": {
+                "text_level0": "あまり強い反射をうけたので、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 80.76,
+            "end": 83.46,
+            "data": {
+                "text_level0": "眼に何か刺さったと思ったのでした。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 85.84,
+            "end": 88.28,
+            "data": {
+                "text_level0": "子供の狐は遊びに行きました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 89.59,
+            "end": 92.77,
+            "data": {
+                "text_level0": "真綿のように柔かい雪の上を駈け廻ると、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 93.64,
+            "end": 96.45,
+            "data": {
+                "text_level0": "雪の粉が、しぶきのように飛び散って",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 97.13,
+            "end": 99.88,
+            "data": {
+                "text_level0": "小さい虹がすっと映るのでした。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 101.71,
+            "end": 103.84,
+            "data": {
+                "text_level0": "すると突然、うしろで、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 104.44,
+            "end": 107.95,
+            "data": {
+                "text_level0": "「どたどた、ざーっ」と物凄い音がして、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 109.0,
+            "end": 114.21,
+            "data": {
+                "text_level0": "パン粉のような粉雪が、ふわーっと子狐におっかぶさって来ました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 116.01,
+            "end": 117.43,
+            "data": {
+                "text_level0": "子狐はびっくりして、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 117.99,
+            "end": 122.41,
+            "data": {
+                "text_level0": "雪の中にころがるようにして十米も向こうへ逃げました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 123.7,
+            "end": 126.06,
+            "data": {
+                "text_level0": "何だろうと思ってふり返って見ましたが",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 127.07,
+            "end": 128.42,
+            "data": {
+                "text_level0": "何もいませんでした。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 130.1,
+            "end": 134.15,
+            "data": {
+                "text_level0": "それは樅の枝から雪がなだれ落ちたのでした。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 136.21,
+            "end": 142.54,
+            "data": {
+                "text_level0": "まだ枝と枝の間から白い絹糸のように雪がこぼれていました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 145.2,
+            "end": 147.84,
+            "data": {
+                "text_level0": "間もなく洞穴へ帰って来た子狐は、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 149.05,
+            "end": 149.7,
+            "data": {
+                "text_level0": "「お母ちゃん、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 150.38,
+            "end": 151.55,
+            "data": {
+                "text_level0": "お手々が冷たい、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 152.13,
+            "end": 153.58,
+            "data": {
+                "text_level0": "お手々がちんちんする」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 154.59,
+            "end": 155.23,
+            "data": {
+                "text_level0": "と言って、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 155.86,
+            "end": 157.95,
+            "data": {
+                "text_level0": "濡れて牡丹色になった両手を",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 158.59,
+            "end": 160.74,
+            "data": {
+                "text_level0": "母さん狐の前にさしだしました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 162.71,
+            "end": 163.66,
+            "data": {
+                "text_level0": "母さん狐は、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 164.36,
+            "end": 165.0,
+            "data": {
+                "text_level0": "その手に、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 165.69,
+            "end": 168.17,
+            "data": {
+                "text_level0": "は――っと息をふっかけて、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 168.76,
+            "end": 170.33,
+            "data": {
+                "text_level0": "ぬくとい母さんの手で",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 170.93,
+            "end": 172.96,
+            "data": {
+                "text_level0": "やんわり包んでやりながら、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 174.95,
+            "end": 177.2,
+            "data": {
+                "text_level0": "「もうすぐ暖くなるよ、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 178.58,
+            "end": 179.78,
+            "data": {
+                "text_level0": "雪をさわると、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 180.52,
+            "end": 182.76,
+            "data": {
+                "text_level0": "すぐ暖くなるもんだよ」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 183.64,
+            "end": 184.46,
+            "data": {
+                "text_level0": "といいましたが、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 185.66,
+            "end": 189.18,
+            "data": {
+                "text_level0": "かあいい坊やの手に霜焼ができてはかわいそうだから、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 190.26,
+            "end": 191.13,
+            "data": {
+                "text_level0": "夜になったら、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 191.83,
+            "end": 192.81,
+            "data": {
+                "text_level0": "町まで行って、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 193.45,
+            "end": 195.15,
+            "data": {
+                "text_level0": "坊やのお手々にあうような",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 196.05,
+            "end": 198.72,
+            "data": {
+                "text_level0": "毛糸の手袋を買ってやろうと思いました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 201.52,
+            "end": 205.39,
+            "data": {
+                "text_level0": "暗い暗い夜が風呂敷のような影をひろげて",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 205.99,
+            "end": 208.48,
+            "data": {
+                "text_level0": "野原や森を包みにやって来ましたが、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 209.8,
+            "end": 211.73,
+            "data": {
+                "text_level0": "雪はあまり白いので、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 212.37,
+            "end": 215.86,
+            "data": {
+                "text_level0": "包んでも包んでも白く浮びあがっていました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 219.44,
+            "end": 220.75,
+            "data": {
+                "text_level0": "親子の銀狐は",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 221.31,
+            "end": 222.45,
+            "data": {
+                "text_level0": "洞穴から出ました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 223.89,
+            "end": 228.03,
+            "data": {
+                "text_level0": "子供の方はお母さんのお腹の下へはいりこんで、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 228.65,
+            "end": 229.26,
+            "data": {
+                "text_level0": "そこから",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 229.8,
+            "end": 232.28,
+            "data": {
+                "text_level0": "まんまるな眼をぱちぱちさせながら、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 232.91,
+            "end": 235.82,
+            "data": {
+                "text_level0": "あっちやこっちを見ながら歩いて行きました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 237.5,
+            "end": 242.19,
+            "data": {
+                "text_level0": "やがて、行手にぽっつりあかりが一つ見え始めました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 243.58,
+            "end": 245.58,
+            "data": {
+                "text_level0": "それを子供の狐が見つけて、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 246.64,
+            "end": 247.27,
+            "data": {
+                "text_level0": "「母ちゃん、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 247.89,
+            "end": 251.71,
+            "data": {
+                "text_level0": "お星さまは、あんな低いところにも落ちてるのねえ」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 252.55,
+            "end": 253.6,
+            "data": {
+                "text_level0": "とききました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 255.77,
+            "end": 257.95,
+            "data": {
+                "text_level0": "「あれはお星さまじゃないのよ」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 258.93,
+            "end": 259.5,
+            "data": {
+                "text_level0": "と言って、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 260.75,
+            "end": 264.49,
+            "data": {
+                "text_level0": "その時母さん狐の足はすくんでしまいました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 266.72,
+            "end": 267.3,
+            "data": {
+                "text_level0": "「あれは",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 268.04,
+            "end": 269.59,
+            "data": {
+                "text_level0": "町の灯なんだよ」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 272.06,
+            "end": 273.91,
+            "data": {
+                "text_level0": "その町の灯を見た時、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 274.56,
+            "end": 275.5,
+            "data": {
+                "text_level0": "母さん狐は、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 276.22,
+            "end": 279.28,
+            "data": {
+                "text_level0": "ある時町へお友達と出かけて行って、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 280.07,
+            "end": 282.7,
+            "data": {
+                "text_level0": "とんだめにあったことを思出しました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 284.32,
+            "end": 286.53,
+            "data": {
+                "text_level0": "およしなさいっていうのもきかないで、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 287.24,
+            "end": 288.42,
+            "data": {
+                "text_level0": "お友達の狐が、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 289.02,
+            "end": 291.25,
+            "data": {
+                "text_level0": "或る家の家鴨を盗もうとしたので、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 291.85,
+            "end": 297.7,
+            "data": {
+                "text_level0": "お百姓に見つかって、さんざ追いまくられて、命からがら逃げたことでした。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 299.66,
+            "end": 301.39,
+            "data": {
+                "text_level0": "「母ちゃん何してんの、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 301.97,
+            "end": 303.06,
+            "data": {
+                "text_level0": "早く行こうよ」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 304.05,
+            "end": 304.28,
+            "data": {
+                "text_level0": "と",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 305.09,
+            "end": 308.16,
+            "data": {
+                "text_level0": "子供の狐がお腹の下から言うのでしたが、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 309.13,
+            "end": 312.87,
+            "data": {
+                "text_level0": "母さん狐はどうしても足がすすまないのでした。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 314.59,
+            "end": 315.11,
+            "data": {
+                "text_level0": "そこで、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 315.69,
+            "end": 316.68,
+            "data": {
+                "text_level0": "しかたがないので、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 317.74,
+            "end": 321.81,
+            "data": {
+                "text_level0": "坊やだけを一人で町まで行かせることになりました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 324.86,
+            "end": 325.3,
+            "data": {
+                "text_level0": "「坊や",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 326.17,
+            "end": 328.03,
+            "data": {
+                "text_level0": "お手々を片方お出し」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 328.87,
+            "end": 329.19,
+            "data": {
+                "text_level0": "と",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 330.02,
+            "end": 331.57,
+            "data": {
+                "text_level0": "お母さん狐がいいました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 332.99,
+            "end": 336.65,
+            "data": {
+                "text_level0": "その手を、母さん狐はしばらく握っている間に、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 337.96,
+            "end": 341.38,
+            "data": {
+                "text_level0": "可愛いい人間の子供の手にしてしまいました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 342.92,
+            "end": 343.93,
+            "data": {
+                "text_level0": "坊やの狐は",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 344.46,
+            "end": 349.45,
+            "data": {
+                "text_level0": "その手をひろげたり握ったり、抓って見たり、嗅いで見たりしました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 350.94,
+            "end": 356.04,
+            "data": {
+                "text_level0": "「何だか変だな母ちゃん、これなあに？」と言って、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 356.67,
+            "end": 363.61,
+            "data": {
+                "text_level0": "雪あかりに、またその、人間の手に変えられてしまった自分の手をしげしげと見つめました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 365.17,
+            "end": 367.14,
+            "data": {
+                "text_level0": "「それは人間の手よ。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 368.2,
+            "end": 369.09,
+            "data": {
+                "text_level0": "いいかい坊や、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 369.71,
+            "end": 371.0,
+            "data": {
+                "text_level0": "町へ行ったらね、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 371.61,
+            "end": 374.05,
+            "data": {
+                "text_level0": "たくさん人間の家があるからね、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 375.03,
+            "end": 375.37,
+            "data": {
+                "text_level0": "まず",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 376.0,
+            "end": 376.61,
+            "data": {
+                "text_level0": "表に",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 377.12,
+            "end": 380.89,
+            "data": {
+                "text_level0": "円いシャッポの看板のかかっている家を探すんだよ。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 381.94,
+            "end": 383.17,
+            "data": {
+                "text_level0": "それが見つかったらね、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 384.04,
+            "end": 386.3,
+            "data": {
+                "text_level0": "トントンと戸を叩いて、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 387.22,
+            "end": 389.11,
+            "data": {
+                "text_level0": "今晩はって言うんだよ。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 390.46,
+            "end": 391.3,
+            "data": {
+                "text_level0": "そうするとね、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 391.94,
+            "end": 395.71,
+            "data": {
+                "text_level0": "中から人間が、すこうし戸をあけるからね、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 396.46,
+            "end": 397.82,
+            "data": {
+                "text_level0": "その戸の隙間から、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 398.78,
+            "end": 399.7,
+            "data": {
+                "text_level0": "こっちの手、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 400.28,
+            "end": 403.46,
+            "data": {
+                "text_level0": "ほらこの人間の手をさし入れてね、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 404.92,
+            "end": 407.65,
+            "data": {
+                "text_level0": "この手にちょうどいい手袋頂戴",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 408.21,
+            "end": 408.97,
+            "data": {
+                "text_level0": "って言うんだよ、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 409.63,
+            "end": 410.2,
+            "data": {
+                "text_level0": "わかったね、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 411.37,
+            "end": 411.88,
+            "data": {
+                "text_level0": "決して、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 412.52,
+            "end": 414.75,
+            "data": {
+                "text_level0": "こっちのお手々を出しちゃ駄目よ」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 415.86,
+            "end": 416.11,
+            "data": {
+                "text_level0": "と",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 416.74,
+            "end": 419.03,
+            "data": {
+                "text_level0": "母さん狐は言いきかせました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 420.66,
+            "end": 421.49,
+            "data": {
+                "text_level0": "「どうして？」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 422.28,
+            "end": 422.44,
+            "data": {
+                "text_level0": "と",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 422.97,
+            "end": 424.93,
+            "data": {
+                "text_level0": "坊やの狐はききかえしました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 426.38,
+            "end": 427.11,
+            "data": {
+                "text_level0": "「人間はね、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 427.83,
+            "end": 429.55,
+            "data": {
+                "text_level0": "相手が狐だと解ると、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 430.26,
+            "end": 432.69,
+            "data": {
+                "text_level0": "手袋を売ってくれないんだよ、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 432.92,
+            "end": 438.02,
+            "data": {
+                "text_level0": "それどころか、掴まえて檻の中へ入れちゃうんだよ、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 438.74,
+            "end": 442.08,
+            "data": {
+                "text_level0": "人間ってほんとに恐いものなんだよ」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 443.74,
+            "end": 444.55,
+            "data": {
+                "text_level0": "「ふーん」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 446.18,
+            "end": 446.83,
+            "data": {
+                "text_level0": "「決して、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 447.15,
+            "end": 449.25,
+            "data": {
+                "text_level0": "こっちの手を出しちゃいけないよ、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 450.1,
+            "end": 454.81,
+            "data": {
+                "text_level0": "こっちの方、ほら人間の手の方をさしだすんだよ」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 455.67,
+            "end": 456.3,
+            "data": {
+                "text_level0": "と言って、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 457.16,
+            "end": 458.24,
+            "data": {
+                "text_level0": "母さんの狐は、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 458.85,
+            "end": 460.97,
+            "data": {
+                "text_level0": "持って来た二つの白銅貨を、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 461.67,
+            "end": 464.53,
+            "data": {
+                "text_level0": "人間の手の方へ握らせてやりました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 467.58,
+            "end": 468.58,
+            "data": {
+                "text_level0": "子供の狐は、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 469.13,
+            "end": 470.41,
+            "data": {
+                "text_level0": "町の灯を目あてに、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 470.98,
+            "end": 473.97,
+            "data": {
+                "text_level0": "雪あかりの野原をよちよちやって行きました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 476.19,
+            "end": 478.71,
+            "data": {
+                "text_level0": "始めのうちは一つきりだった灯が",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 479.43,
+            "end": 484.11,
+            "data": {
+                "text_level0": "二つになり三つになり、はては十にもふえました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 486.02,
+            "end": 487.79,
+            "data": {
+                "text_level0": "狐の子供はそれを見て、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 488.43,
+            "end": 494.8,
+            "data": {
+                "text_level0": "灯には、星と同じように、赤いのや黄いのや青いのがあるんだなと思いました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 496.53,
+            "end": 498.29,
+            "data": {
+                "text_level0": "やがて町にはいりましたが",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 498.95,
+            "end": 502.95,
+            "data": {
+                "text_level0": "通りの家々はもうみんな戸を閉めてしまって、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 503.62,
+            "end": 506.55,
+            "data": {
+                "text_level0": "高い窓から暖かそうな光が、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 507.17,
+            "end": 509.69,
+            "data": {
+                "text_level0": "道の雪の上に落ちているばかりでした。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 511.04,
+            "end": 516.84,
+            "data": {
+                "text_level0": "けれど表の看板の上には大てい小さな電燈がともっていましたので、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 517.47,
+            "end": 520.05,
+            "data": {
+                "text_level0": "狐の子は、それを見ながら、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 520.63,
+            "end": 522.3,
+            "data": {
+                "text_level0": "帽子屋を探して行きました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 523.67,
+            "end": 524.93,
+            "data": {
+                "text_level0": "自転車の看板や、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 525.46,
+            "end": 526.54,
+            "data": {
+                "text_level0": "眼鏡の看板や",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 527.09,
+            "end": 528.75,
+            "data": {
+                "text_level0": "その他いろんな看板が、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 529.48,
+            "end": 535.92,
+            "data": {
+                "text_level0": "あるものは、新しいペンキで画かれ、或るものは、古い壁のようにはげていましたが、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 537.49,
+            "end": 539.78,
+            "data": {
+                "text_level0": "町に始めて出て来た子狐には",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 540.49,
+            "end": 544.76,
+            "data": {
+                "text_level0": "それらのものがいったい何であるか分らないのでした。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 546.79,
+            "end": 549.1,
+            "data": {
+                "text_level0": "とうとう帽子屋がみつかりました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 550.54,
+            "end": 556.58,
+            "data": {
+                "text_level0": "お母さんが道々よく教えてくれた、黒い大きなシルクハットの帽子の看板が、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 557.45,
+            "end": 559.92,
+            "data": {
+                "text_level0": "青い電燈に照されてかかっていました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 561.85,
+            "end": 562.51,
+            "data": {
+                "text_level0": "子狐は",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 563.04,
+            "end": 564.12,
+            "data": {
+                "text_level0": "教えられた通り、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 565.09,
+            "end": 567.56,
+            "data": {
+                "text_level0": "トントンと戸を叩きました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 569.21,
+            "end": 569.79,
+            "data": {
+                "text_level0": "「今晩は」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 571.54,
+            "end": 572.11,
+            "data": {
+                "text_level0": "すると、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 572.93,
+            "end": 573.55,
+            "data": {
+                "text_level0": "中では",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 574.1,
+            "end": 576.4,
+            "data": {
+                "text_level0": "何かことこと音がしていましたが",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 577.49,
+            "end": 580.81,
+            "data": {
+                "text_level0": "やがて、戸が一寸ほどゴロリとあいて、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 581.34,
+            "end": 585.91,
+            "data": {
+                "text_level0": "光の帯が道の白い雪の上に長く伸びました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 587.96,
+            "end": 594.35,
+            "data": {
+                "text_level0": "子狐はその光がまばゆかったので、めんくらって、まちがった方の手を、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 595.19,
+            "end": 598.73,
+            "data": {
+                "text_level0": "――お母さまが出しちゃいけないと言ってよく聞かせた方の手を",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 599.66,
+            "end": 601.65,
+            "data": {
+                "text_level0": "すきまからさしこんでしまいました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 603.63,
+            "end": 607.07,
+            "data": {
+                "text_level0": "「このお手々にちょうどいい手袋下さい」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 609.01,
+            "end": 610.41,
+            "data": {
+                "text_level0": "すると帽子屋さんは、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 611.14,
+            "end": 612.89,
+            "data": {
+                "text_level0": "おやおやと思いました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 613.74,
+            "end": 615.05,
+            "data": {
+                "text_level0": "狐の手です。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 616.05,
+            "end": 619.19,
+            "data": {
+                "text_level0": "狐の手が手袋をくれと言うのです。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 620.63,
+            "end": 621.56,
+            "data": {
+                "text_level0": "これはきっと",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 622.15,
+            "end": 624.52,
+            "data": {
+                "text_level0": "木の葉で買いに来たんだなと思いました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 625.96,
+            "end": 626.48,
+            "data": {
+                "text_level0": "そこで、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 627.77,
+            "end": 629.83,
+            "data": {
+                "text_level0": "「先にお金を下さい」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 630.69,
+            "end": 631.94,
+            "data": {
+                "text_level0": "と言いました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 632.96,
+            "end": 638.91,
+            "data": {
+                "text_level0": "子狐はすなおに、握って来た白銅貨を二つ帽子屋さんに渡しました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 640.23,
+            "end": 645.78,
+            "data": {
+                "text_level0": "帽子屋さんはそれを人差指のさきにのっけて、カチ合せて見ると、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 646.5,
+            "end": 649.31,
+            "data": {
+                "text_level0": "チンチンとよい音がしましたので、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 650.24,
+            "end": 651.48,
+            "data": {
+                "text_level0": "これは木の葉じゃない、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 652.17,
+            "end": 654.16,
+            "data": {
+                "text_level0": "ほんとのお金だと思いましたので、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 655.23,
+            "end": 658.97,
+            "data": {
+                "text_level0": "棚から子供用の毛糸の手袋をとり出して来て",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 659.76,
+            "end": 661.82,
+            "data": {
+                "text_level0": "子狐の手に持たせてやりました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 663.69,
+            "end": 665.55,
+            "data": {
+                "text_level0": "子狐は、お礼を言って",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 666.13,
+            "end": 668.82,
+            "data": {
+                "text_level0": "また、もと来た道を帰り始めました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 671.0,
+            "end": 677.2,
+            "data": {
+                "text_level0": "「お母さんは、人間は恐ろしいものだって仰有ったがちっとも恐ろしくないや。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 678.05,
+            "end": 681.52,
+            "data": {
+                "text_level0": "だって僕の手を見てもどうもしなかったもの」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 682.48,
+            "end": 683.28,
+            "data": {
+                "text_level0": "と思いました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 684.61,
+            "end": 685.09,
+            "data": {
+                "text_level0": "けれど",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 685.67,
+            "end": 686.38,
+            "data": {
+                "text_level0": "子狐は",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 687.05,
+            "end": 688.88,
+            "data": {
+                "text_level0": "いったい人間なんて",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 689.4,
+            "end": 691.83,
+            "data": {
+                "text_level0": "どんなものか見たいと思いました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 693.41,
+            "end": 695.76,
+            "data": {
+                "text_level0": "ある窓の下を通りかかると、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 696.83,
+            "end": 698.43,
+            "data": {
+                "text_level0": "人間の声がしていました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 700.13,
+            "end": 701.75,
+            "data": {
+                "text_level0": "何というやさしい、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 702.39,
+            "end": 704.02,
+            "data": {
+                "text_level0": "何という美しい、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 704.87,
+            "end": 705.52,
+            "data": {
+                "text_level0": "何と言う",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 706.03,
+            "end": 707.83,
+            "data": {
+                "text_level0": "おっとりした声なんでしょう。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 710.72,
+            "end": 713.06,
+            "data": {
+                "text_level0": "「ねむれ",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 713.89,
+            "end": 716.2,
+            "data": {
+                "text_level0": "ねむれ",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 717.09,
+            "end": 721.27,
+            "data": {
+                "text_level0": "母の胸",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 721.9,
+            "end": 722.67,
+            "data": {
+                "text_level0": "に、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 723.58,
+            "end": 726.03,
+            "data": {
+                "text_level0": "ねむれ",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 726.94,
+            "end": 729.62,
+            "data": {
+                "text_level0": "ねむれ",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 730.69,
+            "end": 736.38,
+            "data": {
+                "text_level0": "母の手に――」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 739.15,
+            "end": 745.52,
+            "data": {
+                "text_level0": "子狐はその唄声は、きっと人間のお母さんの声にちがいないと思いました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 746.18,
+            "end": 753.61,
+            "data": {
+                "text_level0": "だって、子狐が眠る時にも、やっぱり母さん狐は、あんなやさしい声でゆすぶってくれるからです。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 755.54,
+            "end": 756.52,
+            "data": {
+                "text_level0": "するとこんどは、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 757.27,
+            "end": 758.64,
+            "data": {
+                "text_level0": "子供の声がしました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 760.71,
+            "end": 761.43,
+            "data": {
+                "text_level0": "「母ちゃん、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 761.97,
+            "end": 767.44,
+            "data": {
+                "text_level0": "こんな寒い夜は、森の子狐は寒い寒いって啼いてるでしょうね」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 769.0,
+            "end": 770.57,
+            "data": {
+                "text_level0": "すると母さんの声が、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 771.76,
+            "end": 775.4,
+            "data": {
+                "text_level0": "「森の子狐もお母さん狐のお唄をきいて、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 776.28,
+            "end": 779.54,
+            "data": {
+                "text_level0": "洞穴の中で眠ろうとしているでしょうね。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 780.61,
+            "end": 783.52,
+            "data": {
+                "text_level0": "さあ坊やも早くねんねしなさい。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 784.7,
+            "end": 786.73,
+            "data": {
+                "text_level0": "森の子狐と坊やと",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 787.38,
+            "end": 789.16,
+            "data": {
+                "text_level0": "どっちが早くねんねするか、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 790.0,
+            "end": 791.01,
+            "data": {
+                "text_level0": "きっと",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 791.63,
+            "end": 794.29,
+            "data": {
+                "text_level0": "坊やの方が早くねんねしますよ」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 796.66,
+            "end": 798.23,
+            "data": {
+                "text_level0": "それをきくと子狐は",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 798.75,
+            "end": 800.93,
+            "data": {
+                "text_level0": "急にお母さんが恋しくなって、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 801.45,
+            "end": 804.67,
+            "data": {
+                "text_level0": "お母さん狐の待っている方へ跳んで行きました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 806.36,
+            "end": 814.4,
+            "data": {
+                "text_level0": "お母さん狐は、心配しながら、坊やの狐の帰って来るのを、今か今かとふるえながら待っていましたので、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 815.57,
+            "end": 816.47,
+            "data": {
+                "text_level0": "坊やが来ると、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 817.08,
+            "end": 818.9,
+            "data": {
+                "text_level0": "暖い胸に抱きしめて",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 819.42,
+            "end": 821.45,
+            "data": {
+                "text_level0": "泣きたいほどよろこびました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 824.2,
+            "end": 825.27,
+            "data": {
+                "text_level0": "二匹の狐は",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 825.99,
+            "end": 827.98,
+            "data": {
+                "text_level0": "森の方へ帰って行きました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 829.66,
+            "end": 830.76,
+            "data": {
+                "text_level0": "月が出たので、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 831.34,
+            "end": 833.43,
+            "data": {
+                "text_level0": "狐の毛なみが銀色に光り、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 834.14,
+            "end": 835.33,
+            "data": {
+                "text_level0": "その足あとには、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 835.89,
+            "end": 837.75,
+            "data": {
+                "text_level0": "コバルトの影がたまりました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 839.54,
+            "end": 840.03,
+            "data": {
+                "text_level0": "「母ちゃん、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 840.91,
+            "end": 843.68,
+            "data": {
+                "text_level0": "人間ってちっとも恐かないや」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 845.84,
+            "end": 846.46,
+            "data": {
+                "text_level0": "「どうして？」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 848.07,
+            "end": 848.5,
+            "data": {
+                "text_level0": "「坊、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 849.1,
+            "end": 852.15,
+            "data": {
+                "text_level0": "間違えてほんとうのお手々出しちゃったの。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 853.0,
+            "end": 853.2,
+            "data": {
+                "text_level0": "でも",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 853.79,
+            "end": 856.15,
+            "data": {
+                "text_level0": "帽子屋さん、掴まえやしなかったもの。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 856.88,
+            "end": 860.79,
+            "data": {
+                "text_level0": "ちゃんとこんないい暖い手袋くれたもの」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 861.95,
+            "end": 862.64,
+            "data": {
+                "text_level0": "と言って",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 863.35,
+            "end": 867.16,
+            "data": {
+                "text_level0": "手袋のはまった両手をパンパンやって見せました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 868.51,
+            "end": 869.74,
+            "data": {
+                "text_level0": "お母さん狐は、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 870.64,
+            "end": 871.12,
+            "data": {
+                "text_level0": "「まあ！」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 871.86,
+            "end": 873.63,
+            "data": {
+                "text_level0": "とあきれましたが、",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 874.46,
+            "end": 877.09,
+            "data": {
+                "text_level0": "「ほんとうに人間はいいものかしら。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 878.53,
+            "end": 879.3,
+            "data": {
+                "text_level0": "ほんとうに",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 880.17,
+            "end": 880.93,
+            "data": {
+                "text_level0": "人間は",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 881.7,
+            "end": 882.95,
+            "data": {
+                "text_level0": "いいものかしら」",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 884.29,
+            "end": 884.57,
+            "data": {
+                "text_level0": "と",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        },
+        {
+            "start": 885.2,
+            "end": 886.36,
+            "data": {
+                "text_level0": "つぶやきました。",
+                "kana_level0": "",
+                "text_level1": "",
+                "text_level2": "",
+                "kana_level2": "",
+                "kana_level3": "",
+                "memo": ""
+            }
+        }
+    ],
     "meta": {
         "duration": 890.210578,
         "series": "TNCアナウンサー朗読動画",
@@ -16,7 +3436,7 @@
         "license_text": "Public Domain",
         "url": "",
         "url_sound": "https://www.youtube.com/watch?v=XrsgPQSoMog",
-        "status_annotation": null,
+        "status_annotation": "annotating",
         "note": ""
     }
 }

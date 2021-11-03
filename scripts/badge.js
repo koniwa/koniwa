@@ -37,7 +37,7 @@ function generate_badges(prefix, substat, use_label) {
       color: get_color(rate),
     }
     if (use_label) {
-      arg.label = 'Progress' ;
+      arg['label'] = 'Progress' ;
     }
 
     fs.writeFile(path.join(output_dir, `${prefix}.progress.svg`),
@@ -48,21 +48,35 @@ function generate_badges(prefix, substat, use_label) {
 
   {
     const arg = {
-      message: `${sec2pretty(substat.duration_done)} / ${sec2pretty(substat.duration)}`,
       color: get_color(rate),
     };
     if (use_label) {
-      arg.label = 'Duration' ;
+      arg['message'] = `${sec2pretty(substat.duration_done)} / ${sec2pretty(substat.duration)}`;
+      arg['label'] = 'Duration' ;
+    } else {
+      arg['message'] = `${sec2pretty(substat.duration_done)}`;
     }
 
-    fs.writeFile(path.join(output_dir, `${prefix}.duration.svg`),
+    fs.writeFile(path.join(output_dir, `${prefix}.duration_done.svg`),
       makeBadge(arg),
       () => {},
     );
   }
+
+  {
+    fs.writeFile(path.join(output_dir, `${prefix}.duration_total.svg`),
+      makeBadge({
+        color: 'gray',
+        message: sec2pretty(substat.duration),
+      }),
+      () => {},
+    );
+  }
+
+
 }
 
-generate_badges('total', stat.total);
+generate_badges('total', stat.total, true);
 Object.keys(stat.series).forEach(function(name) {
-  generate_badges(name, stat.series[name]);
+  generate_badges(name, stat.series[name], false);
 });

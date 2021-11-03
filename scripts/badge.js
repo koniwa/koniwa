@@ -63,6 +63,6 @@ function generate_badges(prefix, substat, use_label) {
 }
 
 generate_badges('total', stat.total);
-Object.keys(stat.serieses).forEach(function(name) {
-  generate_badges(name, stat.serieses[name]);
+Object.keys(stat.series).forEach(function(name) {
+  generate_badges(name, stat.series[name]);
 });

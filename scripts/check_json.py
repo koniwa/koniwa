@@ -3,14 +3,22 @@
 import argparse
 import sys
 from pathlib import Path
+from typing import Tuple
 
 from schema import Data, Stat
 
 
-def operation(path_dir: Path, write: bool) -> Stat:
+def operation(path_dir: Path, write: bool) -> Tuple[Stat, bool]:
     assert path_dir.is_dir()
 
     stat = Stat()
+    ok: bool = True
+
+    def get_series_name(path_json, path_root) -> str:
+        cand: Path = path_json.parent
+        while cand.parent != path_root:
+            cand = cand.parent
+        return cand.name
 
     for path_in in path_dir.rglob("*.json"):
         with path_in.open() as inf:
@@ -19,11 +27,12 @@ def operation(path_dir: Path, write: bool) -> Stat:
         try:
             d: Data = Data.parse_raw(d_raw)
         except Exception as e:
-            stat.ok = False
+            ok = False
             print(f"{path_in}: {e}")
             continue
 
-        stat.update(d.meta)
+        series_name: str = get_series_name(path_in, path_dir)
+        stat.add(series_name, d.meta)
 
         d_formatted = d.json(ensure_ascii=False, indent=4) + "\n"
         if d_raw == d_formatted:
@@ -34,8 +43,8 @@ def operation(path_dir: Path, write: bool) -> Stat:
                 outf.write(d_formatted)
         else:
             print(f"{path_in}: Not formatted")
-            stat.ok = False
-    return stat
+            ok = False
+    return stat, ok
 
 
 def get_opts() -> argparse.Namespace:
@@ -48,12 +57,12 @@ def get_opts() -> argparse.Namespace:
 
 def main() -> None:
     opts = get_opts()
-    stat: Stat = operation(opts.input, opts.write)
+    stat, ok = operation(opts.input, opts.write)
 
     with opts.output.open("w") as outf:
         outf.write(stat.json(ensure_ascii=False, indent=4) + "\n")
 
-    if not stat.ok:
+    if not ok:
         sys.exit(1)
 
 

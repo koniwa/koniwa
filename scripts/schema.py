@@ -2,7 +2,7 @@
 
 from datetime import date
 from enum import Enum
-from typing import List, Optional
+from typing import Dict, List, Optional
 
 from pydantic import BaseModel, validator
 
@@ -83,12 +83,26 @@ class Data(BaseModel):
         return v
 
 
-class Stat(BaseModel):
-    total_duration: float = 0
-    total_duration_done: float = 0
-    ok: bool = True
+class SubStat(BaseModel):
+    duration: float = 0
+    duration_done: float = 0
+    num_file: int = 0
+    num_file_done: int = 0
 
-    def update(self, meta: Meta):
-        self.total_duration += meta.duration
+    def add(self, meta: Meta):
+        self.duration += meta.duration
+        self.num_file += 1
         if meta.status_annotation == "done":
-            self.total_duration_done += meta.duration
+            self.duration_done += meta.duration
+            self.num_file_done += 1
+
+
+class Stat(BaseModel):
+    total: SubStat = SubStat()
+    serieses: Dict[str, SubStat] = {}
+
+    def add(self, name: str, meta: Meta):
+        self.total.add(meta)
+        if name not in self.serieses:
+            self.serieses[name] = SubStat()
+        self.serieses[name].add(meta)

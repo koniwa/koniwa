@@ -8,9 +8,7 @@ function sec2pretty(second) {
   const hour = Math.floor(second / 3600);
   const min = Math.floor((second - hour * 3600) / 60);
   const p_second = Math.floor(second - hour * 3600 - min * 60);
-  return `${hour.toString().padStart(3, "0")}\
-:${min.toString().padStart(2, "0")}\
-:${p_second.toString().padStart(2, "0")}`;
+  return `${hour.toString().padStart(3, "0")}:${min.toString().padStart(2, "0")}:${p_second.toString().padStart(2, "0")}`;
 }
 
 
@@ -22,27 +20,41 @@ fs.mkdirSync(output_dir, {
   recursive: true
 })
 
-{
-  const percent = (stat.total_duration_done / stat.total_duration * 100).toFixed(2);
-  fs.writeFile(path.join(output_dir, 'progress.svg'),
-    makeBadge({
-      label: 'Progress',
-      message: `${percent}%`,
-      color: 'blue',
-    }),
-    () => {},
-  );
+function get_color(rate) {
+  const red = parseInt(151 * rate);
+  const green = parseInt((202 - 126) * rate) + 126;
+  const blue = parseInt(198 * (1.0 - rate));
+  return `rgb(${red},${green},${blue})`;
 }
 
+function generate_badges(prefix, substat) {
+  const rate = substat.duration_done / substat.duration;
+  const percent = (rate * 100).toFixed(2);
 
+  {
+    fs.writeFile(path.join(output_dir, `${prefix}.progress.svg`),
+      makeBadge({
+        label: 'Progress',
+        message: `${percent}%`,
+        color: get_color(rate),
+      }),
+      () => {},
+    );
+  }
 
-{
-  fs.writeFile(path.join(output_dir, 'duration.svg'),
-    makeBadge({
-      label: 'Duration',
-      message: `${sec2pretty(stat.total_duration_done)} / ${sec2pretty(stat.total_duration)}`,
-      color: 'blue',
-    }),
-    () => {},
-  );
+  {
+    fs.writeFile(path.join(output_dir, `${prefix}.duration.svg`),
+      makeBadge({
+        label: 'Duration',
+        message: `${sec2pretty(substat.duration_done)} / ${sec2pretty(substat.duration)}`,
+        color: get_color(rate),
+      }),
+      () => {},
+    );
+  }
 }
+
+generate_badges('total', stat.total);
+Object.keys(stat.serieses).forEach(function(name) {
+  generate_badges(name, stat.serieses[name]);
+});

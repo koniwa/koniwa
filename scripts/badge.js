@@ -27,28 +27,36 @@ function get_color(rate) {
   return `rgb(${red},${green},${blue})`;
 }
 
-function generate_badges(prefix, substat) {
+function generate_badges(prefix, substat, use_label) {
   const rate = substat.duration_done / substat.duration;
   const percent = (rate * 100).toFixed(2);
 
   {
+    const arg = {
+      message: `${percent}%`,
+      color: get_color(rate),
+    }
+    if (use_label) {
+      arg.label = 'Progress' ;
+    }
+
     fs.writeFile(path.join(output_dir, `${prefix}.progress.svg`),
-      makeBadge({
-        label: 'Progress',
-        message: `${percent}%`,
-        color: get_color(rate),
-      }),
+      makeBadge(arg),
       () => {},
     );
   }
 
   {
+    const arg = {
+      message: `${sec2pretty(substat.duration_done)} / ${sec2pretty(substat.duration)}`,
+      color: get_color(rate),
+    };
+    if (use_label) {
+      arg.label = 'Duration' ;
+    }
+
     fs.writeFile(path.join(output_dir, `${prefix}.duration.svg`),
-      makeBadge({
-        label: 'Duration',
-        message: `${sec2pretty(substat.duration_done)} / ${sec2pretty(substat.duration)}`,
-        color: get_color(rate),
-      }),
+      makeBadge(arg),
       () => {},
     );
   }

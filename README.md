@@ -28,30 +28,16 @@
 本コレクションは現在以下のオープンな音声データを利用しています．
 公開に関わってくださった皆様に深く感謝いたします．
 
-- ``amagasaki``: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
-    - 2011年4月〜2015年11月
-    - [兵庫県 尼崎市](https://www.city.amagasaki.hyogo.jp/)の[ラジオ番組](https://www.city.amagasaki.hyogo.jp/op_data/1000916/1001317/1001355.html) (FMあまがさき)
-        - いなむら市長の「ひと咲き まち咲き あまがさき」
-        - いなむら市長の「い～なこの街 あまがさき」 (2014年11月より改題)
-- ``free_culture_2012``: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.ja)
-    - 2012年8月
-    - [J-WAVE](https://www.j-wave.co.jp/)のラジオ番組 [J-WAVE 360° Forum 〜Seek and Find〜](https://soundcloud.com/jwave360)
-- ``higashiyodogawa``: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
-    - 2017年11月〜2021年7月
-    - [大阪市 東淀川区](https://www.city.osaka.lg.jp/higashiyodogawa/)の[「広報ひがしよどがわ」 音声版](https://www.city.osaka.lg.jp/higashiyodogawa/category/3274-1-0-0-0-0-0-0-0-0.html)
-- ``librivox``: パブリックドメイン
-    - [LibriVox.org](https://librivox.org/)の収録作品
-    - 歌など一部のものは除外している
-- ``minato``: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
-    - 2019年5月〜2020年12月
-    - [大阪市 港区](https://www.city.osaka.lg.jp/minato/)の[「広報みなと」 音声版](https://www.city.osaka.lg.jp/minato/category/3179-4-0-0-0-0-0-0-0-0.html)
-- ``nishiyodogawa``: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
-    - 2018年8月〜2021年7月
-    - [大阪市 西淀川区](https://www.city.osaka.lg.jp/nishiyodogawa/)の[『広報紙「きらり☆にしよど」 音声版』](https://www.city.osaka.lg.jp/nishiyodogawa/category/3258-6-0-0-0-0-0-0-0-0.html)
-- ``roudoku_toshokan``: [CC BY 2.1 JP](https://creativecommons.org/licenses/by-sa/2.1/jp/) (原文はパブリックドメイン)
-    - [池田英生氏](http://nergui.sakura.ne.jp/who.html)の[朗読図書館](http://nergui.sakura.ne.jp/library.html)配信の朗読音声
-- ``tnc``: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.ja) (原文はパブリックドメイン)
-    - [テレビ西日本](https://www.tnc.co.jp/)のアナウンサーによる[朗読音声](https://www.tnc.co.jp/forchildren/roudoku)
+| Prefix | 音声ライセンス | テキストライセンス | 概要 | 時期 | アノテーション状況 |
+| --- | --- | --- | --- | --- | --- |
+| ``amagasaki`` | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) | [兵庫県 尼崎市](https://www.city.amagasaki.hyogo.jp/)の[ラジオ番組](https://www.city.amagasaki.hyogo.jp/op_data/1000916/1001317/1001355.html) (FMあまがさき)<br>『いなむら市長の「ひと咲き まち咲き あまがさき」』<br>(2014年11月より『いなむら市長の「い～なこの街 あまがさき」』に改題) | 2011年4月〜2015年11月 | - |
+| ``free_culture_2012``| [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.ja) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.ja) | [J-WAVE](https://www.j-wave.co.jp/)のラジオ番組 [J-WAVE 360° Forum 〜Seek and Find〜](https://soundcloud.com/jwave360) | 2012年8月 | - |
+| ``higashiyodogawa`` | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) |[大阪市 東淀川区](https://www.city.osaka.lg.jp/higashiyodogawa/)の[「広報ひがしよどがわ」 音声版](https://www.city.osaka.lg.jp/higashiyodogawa/category/3274-1-0-0-0-0-0-0-0-0.html) | 2017年11月〜2021年7月 | - |
+| ``librivox`` | Public Domain | Public Domain |[LibriVox.org](https://librivox.org/)の収録作品<br>歌など一部のものは除外している | - | - |
+| ``minato`` | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) |[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) | [大阪市 港区](https://www.city.osaka.lg.jp/minato/)の[「広報みなと」 音声版](https://www.city.osaka.lg.jp/minato/category/3179-4-0-0-0-0-0-0-0-0.html) | 2019年5月〜2020年12月 | - |
+| ``nishiyodogawa`` | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) | [大阪市 西淀川区](https://www.city.osaka.lg.jp/nishiyodogawa/)の[『広報紙「きらり☆にしよど」 音声版』](https://www.city.osaka.lg.jp/nishiyodogawa/category/3258-6-0-0-0-0-0-0-0-0.html)| 2018年8月〜2021年7月 | - |
+| ``roudoku_toshokan`` | [CC BY 2.1 JP](https://creativecommons.org/licenses/by-sa/2.1/jp/) | Public Domain | [池田英生氏](http://nergui.sakura.ne.jp/who.html)の[朗読図書館](http://nergui.sakura.ne.jp/library.html)配信の朗読音声 | - | - |
+|``tnc`` | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.ja) | Public Domain | [テレビ西日本](https://www.tnc.co.jp/)のアナウンサーによる[朗読音声](https://www.tnc.co.jp/forchildren/roudoku) | 2020年3月 | :white_check_mark: |
 
 ## Licence
 

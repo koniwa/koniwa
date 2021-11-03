@@ -1,5 +1,58 @@
 {
-    "total_duration": 998444.3993000006,
-    "total_duration_done": 3173.975551,
-    "ok": true
+    "total": {
+        "duration": 998444.3993000006,
+        "duration_done": 3173.975551,
+        "num_file": 4417,
+        "num_file_done": 4
+    },
+    "serieses": {
+        "nishiyodogawa": {
+            "duration": 232983.7119999999,
+            "duration_done": 0,
+            "num_file": 403,
+            "num_file_done": 0
+        },
+        "free_culture_2012": {
+            "duration": 3920.4027,
+            "duration_done": 0,
+            "num_file": 4,
+            "num_file_done": 0
+        },
+        "roudoku_toshokan": {
+            "duration": 6049.808774999999,
+            "duration_done": 0,
+            "num_file": 16,
+            "num_file_done": 0
+        },
+        "higashiyodogawa": {
+            "duration": 227178.26299999974,
+            "duration_done": 0,
+            "num_file": 2775,
+            "num_file_done": 0
+        },
+        "amagasaki": {
+            "duration": 38599.01599999999,
+            "duration_done": 0,
+            "num_file": 61,
+            "num_file_done": 0
+        },
+        "minato": {
+            "duration": 92154.79199999994,
+            "duration_done": 0,
+            "num_file": 176,
+            "num_file_done": 0
+        },
+        "librivox": {
+            "duration": 394384.42927400017,
+            "duration_done": 0,
+            "num_file": 978,
+            "num_file_done": 0
+        },
+        "tnc": {
+            "duration": 3173.975551,
+            "duration_done": 3173.975551,
+            "num_file": 4,
+            "num_file_done": 4
+        }
+    }
 }

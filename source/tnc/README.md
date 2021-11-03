@@ -15,8 +15,6 @@
  そして，[aozora_txt_cleaner](https://github.com/shirayu/aozora_txt_cleaner)でJIS外字指定文字は該当する漢字に置き換えています．
 (例: ``※［＃「特のへん＋廴＋聿」、第3水準1-87-71］``→``犍``)
 
-最後に，[Bunkai](https://github.com/megagonlabs/bunkai)で1文1行にしています．
-
 ## ライセンス
 
 Public Domain

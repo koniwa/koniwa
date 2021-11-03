@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from datetime import date
+from enum import Enum
 from typing import List, Optional
 
 from pydantic import BaseModel, validator
@@ -20,6 +21,11 @@ class Annotation(BaseModel):
     start: float
     end: float
     data: Span
+
+
+class StatusAnnotation(str, Enum):
+    done = "done"
+    annotating = "annotating"
 
 
 class Meta(BaseModel):
@@ -44,7 +50,7 @@ class Meta(BaseModel):
     url: str
     url_sound: str
 
-    status_annotation: Optional[str]
+    status_annotation: Optional[StatusAnnotation]
     note: str
 
     @validator("license_sound", "license_text")
@@ -58,13 +64,6 @@ class Meta(BaseModel):
     def licenser(cls, v):
         if len(v.strip()) == 0:
             raise ValueError(f"Invalid licenser: {v}")
-        return v
-
-    @validator("status_annotation")
-    def status(cls, v):
-        if v is not None:
-            if v not in ["annotating", "done"]:
-                raise ValueError(f"Invalid status: {v}")
         return v
 
 

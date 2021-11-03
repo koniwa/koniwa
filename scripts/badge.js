@@ -23,7 +23,7 @@ fs.mkdirSync(output_dir, {
 })
 
 {
-  const percent = (stat.total_duration_done / stat.total_duration * 100).toFixed(2);
+  const percent = (stat.total.duration_done / stat.total.duration * 100).toFixed(2);
   fs.writeFile(path.join(output_dir, 'progress.svg'),
     makeBadge({
       label: 'Progress',
@@ -40,7 +40,7 @@ fs.mkdirSync(output_dir, {
   fs.writeFile(path.join(output_dir, 'duration.svg'),
     makeBadge({
       label: 'Duration',
-      message: `${sec2pretty(stat.total_duration_done)} / ${sec2pretty(stat.total_duration)}`,
+      message: `${sec2pretty(stat.total.duration_done)} / ${sec2pretty(stat.total.duration)}`,
       color: 'blue',
     }),
     () => {},

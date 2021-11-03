@@ -18,6 +18,9 @@ class Parsed:
         offset = 0
         for items in d:
             self.offsets.append(offset)
+            assert len(items[0]) > 0
+            assert len(items[1]) > 0
+            assert len(items[2]) > 0
             surf: str = items[0]
             offset += len(surf)
 

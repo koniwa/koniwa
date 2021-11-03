@@ -20,28 +20,34 @@ fs.mkdirSync(output_dir, {
   recursive: true
 })
 
+function get_color(rate) {
+  const red = parseInt(151 * rate);
+  const green = parseInt((202 - 126) * rate) + 126;
+  const blue = parseInt(198 * (1.0 - rate));
+  return `rgb(${red},${green},${blue})`;
+}
 
 function generate_badges(prefix, substat) {
+  const rate = substat.duration_done / substat.duration;
+  const percent = (rate * 100).toFixed(2);
+
   {
-    const percent = (substat.duration_done / substat.duration * 100).toFixed(2);
     fs.writeFile(path.join(output_dir, `${prefix}.progress.svg`),
       makeBadge({
         label: 'Progress',
         message: `${percent}%`,
-        color: 'blue',
+        color: get_color(rate),
       }),
       () => {},
     );
   }
-
-
 
   {
     fs.writeFile(path.join(output_dir, `${prefix}.duration.svg`),
       makeBadge({
         label: 'Duration',
         message: `${sec2pretty(substat.duration_done)} / ${sec2pretty(substat.duration)}`,
-        color: 'blue',
+        color: get_color(rate),
       }),
       () => {},
     );

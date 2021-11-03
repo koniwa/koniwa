@@ -5,8 +5,8 @@
 [![CodeQL](https://github.com/koniwa/koniwa/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/codeql-analysis.yml)
 [![Typos](https://github.com/koniwa/koniwa/actions/workflows/typos.yml/badge.svg)](https://github.com/koniwa/koniwa/actions/workflows/typos.yml)
 <br>
-[![Progress](https://koniwa.github.io/koniwa/badge/progress.svg)](https://koniwa.github.io/koniwa/stat.json)
-[![Duration](https://koniwa.github.io/koniwa/badge/duration.svg)](https://koniwa.github.io/koniwa/stat.json)
+[![Progress](https://koniwa.github.io/koniwa/badge/total.progress.svg)](https://koniwa.github.io/koniwa/stat.json)
+[![Duration](https://koniwa.github.io/koniwa/badge/total.duration.svg)](https://koniwa.github.io/koniwa/stat.json)
 
 ## 概要
 

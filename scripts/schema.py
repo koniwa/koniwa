@@ -99,10 +99,10 @@ class SubStat(BaseModel):
 
 class Stat(BaseModel):
     total: SubStat = SubStat()
-    name2substat: Dict[str, SubStat] = {}
+    serieses: Dict[str, SubStat] = {}
 
     def add(self, name: str, meta: Meta):
         self.total.add(meta)
-        if name not in self.name2substat:
-            self.name2substat[name] = SubStat()
-        self.name2substat[name].add(meta)
+        if name not in self.serieses:
+            self.serieses[name] = SubStat()
+        self.serieses[name].add(meta)

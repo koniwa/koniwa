@@ -4,7 +4,7 @@ from datetime import date
 from enum import Enum
 from typing import Dict, List, Optional
 
-from pydantic import BaseModel, validator
+from pydantic import BaseModel, root_validator, validator
 
 
 class Span(BaseModel):
@@ -15,6 +15,21 @@ class Span(BaseModel):
     kana_level2: str
     kana_level3: str
     memo: str
+
+    @root_validator
+    def check_blank(cls, values):
+        ok_t: bool = False
+        ok_k: bool = False
+        for k in cls.schema()["properties"].keys():
+            if k.startswith("text_") and len(values[k]) > 0:
+                ok_t = True
+            elif k.startswith("kana_") and len(values[k]) > 0:
+                ok_k = True
+        if not ok_t:
+            raise ValueError("Text is blank")
+        if not ok_k:
+            raise ValueError("Kana is blank")
+        return values
 
 
 class Annotation(BaseModel):

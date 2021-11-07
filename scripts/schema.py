@@ -10,9 +10,7 @@ from pydantic import BaseModel, root_validator, validator
 class Span(BaseModel):
     text_level0: str
     kana_level0: str
-    text_level1: str
     text_level2: str
-    kana_level2: str
     kana_level3: str
     memo: str
 

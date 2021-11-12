@@ -1,5 +1,578 @@
 {
-    "annotation": [],
+    "annotation": [
+        {
+            "start": 7.65,
+            "end": 11.75,
+            "data": {
+                "text_level0": "J-WAVE 360 Forum ~Seek and Find~。",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 12.45,
+            "end": 15.9,
+            "data": {
+                "text_level0": "8月のテーマはフリーカルチャー。",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 16.95,
+            "end": 17.65,
+            "data": {
+                "text_level0": "英語の",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 18.17,
+            "end": 19.37,
+            "data": {
+                "text_level0": "FREE",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 19.79,
+            "end": 21.96,
+            "data": {
+                "text_level0": "フリーには幅広い意味があります",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 22.47,
+            "end": 23.36,
+            "data": {
+                "text_level0": "It's free.",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 23.55,
+            "end": 26.19,
+            "data": {
+                "text_level0": "と言われれば、それは無料ですよという意味ですが",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 26.35,
+            "end": 27.746736421127242,
+            "data": {
+                "text_level0": "Smoke free",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 27.76,
+            "end": 28.38,
+            "data": {
+                "text_level0": "は無煙、",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 28.38,
+            "end": 29.77,
+            "data": {
+                "text_level0": "煙がないという意味。",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 30.25,
+            "end": 32.373974841900086,
+            "data": {
+                "text_level0": "無料でタバコが吸えますという意味じゃないですよ、",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 32.39,
+            "end": 32.66,
+            "data": {
+                "text_level0": "これ。",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 34.06,
+            "end": 35.14,
+            "data": {
+                "text_level0": "Free alcohol",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 35.32,
+            "end": 36.99,
+            "data": {
+                "text_level0": "と入り口に書いてあったらそれは",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 37.13,
+            "end": 39.64,
+            "data": {
+                "text_level0": "「今夜お酒は無料です」。",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 39.81,
+            "end": 40.38,
+            "data": {
+                "text_level0": "でも",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 40.55,
+            "end": 41.64,
+            "data": {
+                "text_level0": "Alcohol Free",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 41.64,
+            "end": 41.95,
+            "data": {
+                "text_level0": "なら",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 42.39,
+            "end": 44.04,
+            "data": {
+                "text_level0": "アルコールゼロとか",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 44.1,
+            "end": 46.58,
+            "data": {
+                "text_level0": "アルコールは出しませんという意味になります。",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 47.61,
+            "end": 47.98,
+            "data": {
+                "text_level0": "では",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 48.51,
+            "end": 49.53,
+            "data": {
+                "text_level0": "Free culture,",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 50.12,
+            "end": 51.95,
+            "data": {
+                "text_level0": "フリーカルチャーとは。",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 53.57,
+            "end": 54.19,
+            "data": {
+                "text_level0": "先日",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 54.74,
+            "end": 58.15,
+            "data": {
+                "text_level0": "フィルムアート社から「フリーカルチャーをつくるためのガイドブック」",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 58.17,
+            "end": 59.56,
+            "data": {
+                "text_level0": "という本を出版された",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 60.07,
+            "end": 61.35,
+            "data": {
+                "text_level0": "NPO法人",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 61.43,
+            "end": 62.87,
+            "data": {
+                "text_level0": "クリエイティブコモンズジャパン",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 62.87,
+            "end": 63.2,
+            "data": {
+                "text_level0": "理事",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 63.71,
+            "end": 65.93,
+            "data": {
+                "text_level0": "ドミニク・チェンさんにお聞きました。",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 66.45,
+            "end": 67.11,
+            "data": {
+                "text_level0": "ドミニクさん、",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 67.58,
+            "end": 70.02,
+            "data": {
+                "text_level0": "フリーカルチャーって何でしょうか?",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 71.24,
+            "end": 73.55598760143418,
+            "data": {
+                "text_level0": "フリーカルチャーってのはまあ直訳するとですね",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 73.55,
+            "end": 75.61,
+            "data": {
+                "text_level0": "自由な文化っていう意味になります。",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 76.1,
+            "end": 76.32,
+            "data": {
+                "text_level0": "でー、",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 76.32,
+            "end": 77.64,
+            "data": {
+                "text_level0": "まあよくある誤解としては",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 77.64,
+            "end": 79.78,
+            "data": {
+                "text_level0": "その英語でフリーって言った時に",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 79.78,
+            "end": 79.85,
+            "data": {
+                "text_level0": "こう",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 79.87,
+            "end": 82.36,
+            "data": {
+                "text_level0": "無料って言うこと意味するフリーと",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 82.58,
+            "end": 84.41,
+            "data": {
+                "text_level0": "あと自由ってこと意味するフリーに",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 84.4,
+            "end": 85.64,
+            "data": {
+                "text_level0": "2つに分かれるんですけども",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 85.67,
+            "end": 87.23,
+            "data": {
+                "text_level0": "最近日本だと",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 87.29,
+            "end": 89.84,
+            "data": {
+                "text_level0": "どちらかというとこう無料を意味するフリー",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 90.05,
+            "end": 91.65,
+            "data": {
+                "text_level0": "という事の方が",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 91.94,
+            "end": 93.41,
+            "data": {
+                "text_level0": "有名になっているのかなと",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 93.56,
+            "end": 94.11,
+            "data": {
+                "text_level0": "でまあ",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 94.13,
+            "end": 94.54791210019069,
+            "data": {
+                "text_level0": "そこで",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 94.55,
+            "end": 97.11,
+            "data": {
+                "text_level0": "無料じゃなくてこう自由っていう価値を",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 97.27,
+            "end": 99.26926745503275,
+            "data": {
+                "text_level0": "そのインターネットはもともと持っていて",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 99.66,
+            "end": 99.91,
+            "data": {
+                "text_level0": "でー、",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 99.9,
+            "end": 102.32,
+            "data": {
+                "text_level0": "それを守ることこそが、あの今重要なんだ",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 102.34,
+            "end": 105.19,
+            "data": {
+                "text_level0": "っていうことを主張したくてまあ今回この本を書きました",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        }
+    ],
     "meta": {
         "duration": 1048.1499,
         "series": "J-WAVE 360°",
@@ -16,7 +589,7 @@
         "license_text": "CC BY 3.0",
         "url": "",
         "url_sound": "https://soundcloud.com/jwave360/360-forum-seek-and-find-vol-1",
-        "status_annotation": null,
+        "status_annotation": "annotating",
         "note": ""
     }
 }

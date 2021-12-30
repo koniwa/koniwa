@@ -2311,10 +2311,109 @@
             }
         },
         {
-            "start": 833.24,
-            "end": 838.34,
+            "start": 1000.8,
+            "end": 1005.0,
             "data": {
-                "text_level0": "うん",
+                "text_level0": "さあ、 今月この360 Forumもフリーカルチャー宣言です。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 1005.47,
+            "end": 1009.96,
+            "data": {
+                "text_level0": "えーこのフォーラムの20分前後、まるまるフリーカルチャーを実践です。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 1009.98,
+            "end": 1014.84,
+            "data": {
+                "text_level0": "え、今月この360 Forumでかける音楽、BGMは、全て、今日もそうです。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 1014.87,
+            "end": 1018.6,
+            "data": {
+                "text_level0": "クリエイティブ・コモンズ・ライセンスで公開されているものばかりです。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 1018.64,
+            "end": 1022.9,
+            "data": {
+                "text_level0": "360 Forum、全てクリエイティブ・コモンズ・ライセンスで公開します。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 1023.19,
+            "end": 1024.68,
+            "data": {
+                "text_level0": "皆さん自由に使ってください。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 1025.14,
+            "end": 1028.8,
+            "data": {
+                "text_level0": "マッシュアップやリミックス、DJミックスもウェルカムです。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 1028.85,
+            "end": 1033.8,
+            "data": {
+                "text_level0": "使用の条件は必ずJ-WAVE 360のウェブサイトで確認してください。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 1034.32,
+            "end": 1035.4,
+            "data": {
+                "text_level0": "360 フォーラム",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 1035.42,
+            "end": 1039.0,
+            "data": {
+                "text_level0": "今月はフリーカルチャーをSeek and Find。",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",

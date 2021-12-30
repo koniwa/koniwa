@@ -2,6 +2,7 @@
 
 import argparse
 import sys
+import traceback
 from pathlib import Path
 from typing import Tuple
 
@@ -29,6 +30,7 @@ def operation(path_dir: Path, write: bool) -> Tuple[Stat, bool]:
         except Exception as e:
             ok = False
             print(f"{path_in}: {e}")
+            print(traceback.format_exc())
             continue
 
         series_name: str = get_series_name(path_in, path_dir)

@@ -37,7 +37,7 @@
             "start": 18.17,
             "end": 19.37,
             "data": {
-                "text_level0": "FREE",
+                "text_level0": "F・R・E・E、",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -48,7 +48,7 @@
             "start": 19.79,
             "end": 21.96,
             "data": {
-                "text_level0": "フリーには幅広い意味があります",
+                "text_level0": "「フリー」には幅広い意味があります。",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -70,7 +70,7 @@
             "start": 23.55,
             "end": 26.19,
             "data": {
-                "text_level0": "と言われれば、それは無料ですよという意味ですが",
+                "text_level0": "と言われれば、それは無料ですよという意味ですが、",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -169,7 +169,7 @@
             "start": 39.81,
             "end": 40.38,
             "data": {
-                "text_level0": "でも",
+                "text_level0": "でも、",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -235,7 +235,7 @@
             "start": 48.51,
             "end": 49.53,
             "data": {
-                "text_level0": "Free culture,",
+                "text_level0": "Free culture、",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -301,7 +301,7 @@
             "start": 61.43,
             "end": 62.87,
             "data": {
-                "text_level0": "クリエイティブコモンズジャパン",
+                "text_level0": "クリエイティブ・コモンズ・ジャパン",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -356,9 +356,9 @@
             "start": 71.24,
             "end": 73.56,
             "data": {
-                "text_level0": "フリーカルチャーってのはまあ直訳するとですね",
+                "text_level0": "フリーカルチャーってのは、直訳するとですね",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "フリーカルチャーってのは、まあ、直訳するとですね",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -367,7 +367,7 @@
             "start": 73.55,
             "end": 75.61,
             "data": {
-                "text_level0": "自由な文化っていう意味になります。",
+                "text_level0": "「自由な文化」っていう意味になります。",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -378,9 +378,9 @@
             "start": 76.1,
             "end": 76.32,
             "data": {
-                "text_level0": "でー、",
+                "text_level0": "で、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "でー、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -389,9 +389,9 @@
             "start": 76.32,
             "end": 77.64,
             "data": {
-                "text_level0": "まあよくある誤解としては",
+                "text_level0": "よくある誤解としては",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあよくある誤解としては",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -400,9 +400,9 @@
             "start": 77.64,
             "end": 79.78,
             "data": {
-                "text_level0": "その英語でフリーって言った時に",
+                "text_level0": "英語でフリーって言った時に",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "その英語でフリーって言った時に",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -411,9 +411,9 @@
             "start": 79.78,
             "end": 79.85,
             "data": {
-                "text_level0": "こう",
-                "kana_level0": "xx",
-                "text_level2": "",
+                "text_level0": "",
+                "kana_level0": "",
+                "text_level2": "こう",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -422,7 +422,7 @@
             "start": 79.87,
             "end": 82.36,
             "data": {
-                "text_level0": "無料って言うこと意味するフリーと",
+                "text_level0": "「無料」っていうこと意味する「フリー」と",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -433,9 +433,9 @@
             "start": 82.58,
             "end": 84.41,
             "data": {
-                "text_level0": "あと自由ってこと意味するフリーに",
+                "text_level0": "「自由」ってこと意味する「フリー」に",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "あと「自由」ってこと意味する「フリー」に",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -466,9 +466,9 @@
             "start": 87.29,
             "end": 89.84,
             "data": {
-                "text_level0": "どちらかというとこう無料を意味するフリー",
+                "text_level0": "どちらかというと、無料を意味するフリー",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "どちらかというと、こう無料を意味するフリー",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -488,7 +488,7 @@
             "start": 91.94,
             "end": 93.41,
             "data": {
-                "text_level0": "有名になっているのかなと",
+                "text_level0": "有名になっているのかなと。",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -499,9 +499,9 @@
             "start": 93.56,
             "end": 94.11,
             "data": {
-                "text_level0": "でまあ",
-                "kana_level0": "xx",
-                "text_level2": "",
+                "text_level0": "",
+                "kana_level0": "",
+                "text_level2": "でまあ",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -521,9 +521,9 @@
             "start": 94.55,
             "end": 97.11,
             "data": {
-                "text_level0": "無料じゃなくてこう自由っていう価値を",
+                "text_level0": "無料じゃなくて自由っていう価値を",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "無料じゃなくてこう自由っていう価値を",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -532,9 +532,9 @@
             "start": 97.27,
             "end": 99.27,
             "data": {
-                "text_level0": "そのインターネットはもともと持っていて",
+                "text_level0": "インターネットはもともと持っていて",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "そのインターネットはもともと持っていて",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -543,9 +543,9 @@
             "start": 99.66,
             "end": 99.91,
             "data": {
-                "text_level0": "でー、",
+                "text_level0": "",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "でー、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -554,9 +554,9 @@
             "start": 99.9,
             "end": 102.32,
             "data": {
-                "text_level0": "それを守ることこそが、あの今重要なんだ",
+                "text_level0": "それを守ることこそが、今重要なんだ",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "それを守ることこそが、あの今重要なんだ",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -565,9 +565,9 @@
             "start": 102.34,
             "end": 105.19,
             "data": {
-                "text_level0": "っていうことを主張したくてまあ今回この本を書きました",
+                "text_level0": "っていうことを主張したくて今回この本を書きました。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "っていうことを主張したくてまあ今回この本を書きました。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -576,7 +576,7 @@
             "start": 110.48,
             "end": 114.2,
             "data": {
-                "text_level0": "インターネット上の私たちみんなの自由",
+                "text_level0": "インターネット上の私たちみんなの自由。",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -598,9 +598,9 @@
             "start": 116.0,
             "end": 118.22,
             "data": {
-                "text_level0": "まあインターネットよく言われますよね。",
+                "text_level0": "インターネット、よく言われますよね。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあインターネット、よく言われますよね。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -609,7 +609,7 @@
             "start": 118.22,
             "end": 120.86,
             "data": {
-                "text_level0": "私たちは常に監視されている",
+                "text_level0": "「私たちは常に監視されている」",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -620,7 +620,7 @@
             "start": 120.99,
             "end": 121.86,
             "data": {
-                "text_level0": "とか。",
+                "text_level0": "とか、",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -631,7 +631,7 @@
             "start": 121.94,
             "end": 124.66,
             "data": {
-                "text_level0": "私たちは意識が好みなども、",
+                "text_level0": "「私たちは意識が好みなども、",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -642,9 +642,9 @@
             "start": 124.67,
             "end": 126.95,
             "data": {
-                "text_level0": "このネットによってコントロールされている。",
+                "text_level0": "ネットによってコントロールされている」。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "このネットによってコントロールされている」。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -653,9 +653,9 @@
             "start": 127.35,
             "end": 127.83,
             "data": {
-                "text_level0": "んー、",
-                "kana_level0": "xx",
-                "text_level2": "",
+                "text_level0": "",
+                "kana_level0": "",
+                "text_level2": "んー、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -686,7 +686,7 @@
             "start": 131.72,
             "end": 134.6,
             "data": {
-                "text_level0": "インターネットとそれがもたらす世界というのは",
+                "text_level0": "「インターネットとそれがもたらす世界というのは",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -697,7 +697,7 @@
             "start": 134.61,
             "end": 139.37,
             "data": {
-                "text_level0": "そもそもとても自由でフリーなマインドから始まっていたんだよ。と",
+                "text_level0": "そもそもとても自由でフリーなマインドから始まっていたんだよ」と",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -732,7 +732,7 @@
             "data": {
                 "text_level0": "まあアメリカの1970年代から1980年代にかけて起こった現象だったんですね。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあアメリカの1970年代から1980年代にかけて起こった現象だったんですね。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -763,9 +763,9 @@
             "start": 158.12,
             "end": 164.12,
             "data": {
-                "text_level0": "まあアメリカの西海岸のヒッピーカルチャーとかそう言ったものを、まあ継承して、",
+                "text_level0": "アメリカの西海岸のヒッピーカルチャーとかそう言ったものを継承して、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあアメリカの西海岸のヒッピーカルチャーとかそう言ったものを、まあ継承して、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -774,9 +774,9 @@
             "start": 164.2,
             "end": 167.7,
             "data": {
-                "text_level0": "で、とにかくこうエンジニアの人が作ったソフトウェアを、",
+                "text_level0": "で、とにかくエンジニアの人が作ったソフトウェアを、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "で、とにかくこうエンジニアの人が作ったソフトウェアを、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -785,9 +785,9 @@
             "start": 167.75,
             "end": 169.15,
             "data": {
-                "text_level0": "あの、みんなのものとして",
+                "text_level0": "みんなのものとして",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "あの、みんなのものとして",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -829,9 +829,9 @@
             "start": 173.1,
             "end": 173.75,
             "data": {
-                "text_level0": "でー",
+                "text_level0": "で、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "でー、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -851,9 +851,9 @@
             "start": 175.0,
             "end": 177.44,
             "data": {
-                "text_level0": "まあそこにこう企業とかも入ってきて",
+                "text_level0": "そこに企業とかも入ってきて、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあそこにこう企業とかも入ってきて、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -862,9 +862,9 @@
             "start": 177.44,
             "end": 178.7,
             "data": {
-                "text_level0": "で、いやソフトウェアってのは",
+                "text_level0": "いやソフトウェアってのは",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "で、いやソフトウェアってのは",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -873,9 +873,9 @@
             "start": 178.7,
             "end": 182.8,
             "data": {
-                "text_level0": "こうもっとビジネスとして守っていかなきゃいけいけないということで、",
+                "text_level0": "もっとビジネスとして守っていかなきゃいけいけないということで、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "こうもっとビジネスとして守っていかなきゃいけいけないということで、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -884,9 +884,9 @@
             "start": 182.8,
             "end": 186.38,
             "data": {
-                "text_level0": "えーお互いをこう自由に交換し合えなくなってきたと",
+                "text_level0": "お互いを自由に交換し合えなくなってきたと。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "えーお互いをこう自由に交換し合えなくなってきたと。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -895,9 +895,9 @@
             "start": 186.38,
             "end": 192.56,
             "data": {
-                "text_level0": "で、そういう時にいやその自由を守るべきだという人たちが立ち上がって起こったのがいわゆる",
+                "text_level0": "で、そういう時に、いやその自由を守るべきだという人たちが立ち上がって起こったのがいわゆる",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "で、そういう時に、いやその自由を守るべきだという人たちが立ち上がって起こったのがいわゆる",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -906,9 +906,9 @@
             "start": 192.56,
             "end": 195.5,
             "data": {
-                "text_level0": "フリーソフトウェアの運動、えーだったんですね。",
+                "text_level0": "フリーソフトウェアの運動だったんですね。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "フリーソフトウェアの運動、えーだったんですね。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -917,9 +917,9 @@
             "start": 195.56,
             "end": 200.72,
             "data": {
-                "text_level0": "でー、そこでその著作権というものがまあ発生してしまって、",
+                "text_level0": "で、そこで著作権というものが発生してしまって、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "でー、そこでその著作権というものがまあ発生してしまって、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -961,9 +961,9 @@
             "start": 211.4,
             "end": 214.88,
             "data": {
-                "text_level0": "ま、新しい著作権の仕組みみたいなものが、まあ生み出されたと",
+                "text_level0": "新しい著作権の仕組みみたいなものが生み出されたと。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "ま、新しい著作権の仕組みみたいなものが、まあ生み出されたと。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -972,9 +972,9 @@
             "start": 214.88,
             "end": 219.08,
             "data": {
-                "text_level0": "で、それはまあコピーレフトと呼ばれてた、えー、ものだったんです。",
+                "text_level0": "で、それはコピーレフトと呼ばれてたものだったんです。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "で、それはまあコピーレフトと呼ばれてた、えー、ものだったんです。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -983,7 +983,7 @@
             "start": 219.08,
             "end": 220.16,
             "data": {
-                "text_level0": "で、コピーレストっていうのが、",
+                "text_level0": "で、コピーレフトっていうのが、",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -994,9 +994,9 @@
             "start": 220.16,
             "end": 223.16,
             "data": {
-                "text_level0": "まあコピーライトっていうのはつまり著作権のことなんです",
+                "text_level0": "コピーライトっていうのはつまり著作権のことなんです",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあコピーライトっていうのはつまり著作権のことなんです",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1005,9 +1005,9 @@
             "start": 223.16,
             "end": 225.86,
             "data": {
-                "text_level0": "けども、まあその反対語みたいなもので、",
+                "text_level0": "けども、その反対語みたいなもので、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "けども、まあその反対語みたいなもので、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1027,9 +1027,9 @@
             "start": 229.2,
             "end": 233.2,
             "data": {
-                "text_level0": "えー、それを誰でも自由に勝手に使っていいよ。と。",
+                "text_level0": "それを誰でも自由に勝手に使っていいよ、と。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "えー、それを誰でも自由に勝手に使っていいよ、と。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1060,7 +1060,7 @@
             "start": 237.29,
             "end": 240.82,
             "data": {
-                "text_level0": "新しく見出されたものに対しても同じ条件がついて、",
+                "text_level0": "新しく生み出されたものに対しても同じ条件がついて、",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -1104,9 +1104,9 @@
             "start": 250.46,
             "end": 252.56,
             "data": {
-                "text_level0": "ま、だから言ってしまうと、",
+                "text_level0": "だから言ってしまうと、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "ま、だから言ってしまうと、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1126,9 +1126,9 @@
             "start": 261.87,
             "end": 262.04,
             "data": {
-                "text_level0": "ねえ",
+                "text_level0": "",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "ねえ",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1137,7 +1137,7 @@
             "start": 262.04,
             "end": 266.5,
             "data": {
-                "text_level0": "コピーライトに対してコピーレフトこれいいですね。",
+                "text_level0": "コピーライトに対してコピーレフト、これいいですね。",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -1159,9 +1159,9 @@
             "start": 271.88,
             "end": 273.5,
             "data": {
-                "text_level0": "まあ、そういうマインドこそ、",
+                "text_level0": "そういうマインドこそ、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあ、そういうマインドこそ、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1203,7 +1203,7 @@
             "start": 459.38,
             "end": 463.2,
             "data": {
-                "text_level0": "\"J-WAVE 360 Forum ~Seek and Find~。",
+                "text_level0": "J-WAVE 360 Forum ~Seek and Find~。",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -1225,9 +1225,9 @@
             "start": 468.0,
             "end": 475.2,
             "data": {
-                "text_level0": "そもそも1960年代に、ま、こういったフリーという思想・発想がアメリカで大きく芽生えました。",
+                "text_level0": "そもそも1960年代に、こういったフリーという思想・発想がアメリカで大きく芽生えました。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "そもそも1960年代に、ま、こういったフリーという思想・発想がアメリカで大きく芽生えました。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1271,7 +1271,7 @@
             "data": {
                 "text_level0": "ま、そう語るジャーナリスト・評論家もいます。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "そう語るジャーナリスト・評論家もいます。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1291,7 +1291,7 @@
             "start": 495.14,
             "end": 496.34,
             "data": {
-                "text_level0": "ヒップムーブメント、",
+                "text_level0": "ヒッピームーブメント、",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -1456,9 +1456,9 @@
             "start": 558.44,
             "end": 561.14,
             "data": {
-                "text_level0": "まあ今もう世界中で使われている、",
+                "text_level0": "今も世界中で使われている、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあ今も世界中で使われている、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1467,7 +1467,7 @@
             "start": 561.14,
             "end": 564.2,
             "data": {
-                "text_level0": "例えばウェブページとか皆さん見てると思うんですけども。",
+                "text_level0": "例えばウェブページとか皆さん見てると思うんですけども、",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -1478,9 +1478,9 @@
             "start": 564.2,
             "end": 569.78,
             "data": {
-                "text_level0": "まあ、大体Webページを動かしてるメインのソフトってLinuxなんですね。",
+                "text_level0": "大体Webページを動かしてるメインのソフトってLinuxなんですね。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあ、大体Webページを動かしてるメインのソフトってLinuxなんですね。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1511,9 +1511,9 @@
             "start": 575.48,
             "end": 577.1,
             "data": {
-                "text_level0": "で、あのー、",
+                "text_level0": "で、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "で、あのー、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1522,9 +1522,9 @@
             "start": 577.1,
             "end": 581.4,
             "data": {
-                "text_level0": "まあ最初は北欧のリーナス・トーバルズていう1人が作ってたのを",
+                "text_level0": "最初は北欧のリーナス・トーバルズという1人が作ってたのを",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあ最初は北欧のリーナス・トーバルズていう1人が作ってたのを",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1535,7 +1535,7 @@
             "data": {
                 "text_level0": "この2タイトルをバーンと公開してこんなもん作ってんだけど、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "このタイトルをバーンと公開してこんなもん作ってんだけど、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1566,9 +1566,9 @@
             "start": 589.7,
             "end": 592.9,
             "data": {
-                "text_level0": "で、そしたら世界中のそのエンジニアたちが集まってきて、",
+                "text_level0": "で、そしたら世界中のエンジニアたちが集まってきて、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "で、そしたら世界中のそのエンジニアたちが集まってきて、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1577,9 +1577,9 @@
             "start": 592.9,
             "end": 594.98,
             "data": {
-                "text_level0": "まあメールでやり取りをして、",
+                "text_level0": "メールでやり取りをして、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあメールでやり取りをして、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1643,9 +1643,9 @@
             "start": 608.18,
             "end": 610.5,
             "data": {
-                "text_level0": "で、それがまあソフトウェアの世界だったんですね。",
+                "text_level0": "で、それがソフトウェアの世界だったんですね。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "で、それがまあソフトウェアの世界だったんですね。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1698,9 +1698,9 @@
             "start": 623.4,
             "end": 623.84,
             "data": {
-                "text_level0": "まあ、",
+                "text_level0": "",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあ、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1731,9 +1731,9 @@
             "start": 631.56,
             "end": 633.38,
             "data": {
-                "text_level0": "まあ、本当にみんなが作るものが、",
+                "text_level0": "本当にみんなが作るものが、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "まあ、本当にみんなが作るものが、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1753,9 +1753,9 @@
             "start": 636.14,
             "end": 640.64,
             "data": {
-                "text_level0": "で、そこでまたその著作権の問題っていうのが再燃してしまったと。",
+                "text_level0": "そこでまたその著作権の問題っていうのが再燃してしまったと。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "で、そこでまたその著作権の問題っていうのが再燃してしまったと。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1764,9 +1764,9 @@
             "start": 640.76,
             "end": 644.5,
             "data": {
-                "text_level0": "で、そういう時に、じゃあそのソフトウェアだけじゃなくて、",
+                "text_level0": "そういう時に、じゃあそのソフトウェアだけじゃなくて、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "で、そういう時に、じゃあそのソフトウェアだけじゃなくて、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1808,9 +1808,9 @@
             "start": 652.8,
             "end": 657.2,
             "data": {
-                "text_level0": "フリーカルチャーと総称する、おっきな運動なんですね。",
+                "text_level0": "フリーカルチャーと総称する、大きな運動なんですね。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "フリーカルチャーと総称する、おっきな運動なんですね。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1852,9 +1852,9 @@
             "start": 674.66,
             "end": 680.18,
             "data": {
-                "text_level0": "一番有名な、あの事例って言うと、例えばWikipediaっていうオンライン百科事典があります。",
+                "text_level0": "一番有名な事例って言うと、例えばWikipediaっていうオンライン百科事典があります。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "一番有名な、あの事例って言うと、例えばWikipediaっていうオンライン百科事典があります。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -1896,7 +1896,7 @@
             "start": 688.64,
             "end": 695.3,
             "data": {
-                "text_level0": "実はこの全ての記事に対して、クリエイティブコモンズライセンスというフリーのライセンスがついていて、",
+                "text_level0": "実はこの全ての記事に対して、クリエイティブ・コモンズ・ライセンスというフリーのライセンスがついていて、",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -1995,9 +1995,9 @@
             "start": 714.74,
             "end": 718.6,
             "data": {
-                "text_level0": "っていう、あのそういう文化を発信してるんですね。",
+                "text_level0": "っていう、そういう文化を発信してるんですね。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "っていう、あのそういう文化を発信してるんですね。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2006,9 +2006,9 @@
             "start": 718.6,
             "end": 721.05,
             "data": {
-                "text_level0": "YouTubeっていう、あの、動画共有サイト、",
+                "text_level0": "YouTubeっていう、動画共有サイト、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "YouTubeっていう、あの、動画共有サイト、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2028,7 +2028,7 @@
             "start": 723.0,
             "end": 729.7,
             "data": {
-                "text_level0": "YouTubeも実は昨年2011年6月からクリエイティブコモンズライセンスを選べるようになっている。",
+                "text_level0": "YouTubeも実は昨年2011年6月からクリエイティブ・コモンズ・ライセンスを選べるようになっている。",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -2039,9 +2039,9 @@
             "start": 729.7,
             "end": 731.6,
             "data": {
-                "text_level0": "それどういうことを意味するかというと、",
+                "text_level0": "それは、どういうことを意味するかというと、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "それどういうことを意味するかというと、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2050,9 +2050,9 @@
             "start": 731.6,
             "end": 740.78,
             "data": {
-                "text_level0": "えー、YouTubeに投稿されてる動画の中から、そのクリエイティブ・コモンズ・ライセンスがついてる動画を検索できるようになっていて、",
+                "text_level0": "YouTubeに投稿されてる動画の中から、そのクリエイティブ・コモンズ・ライセンスがついてる動画を検索できるようになっていて、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "えー、YouTubeに投稿されてる動画の中から、そのクリエイティブ・コモンズ・ライセンスがついてる動画を検索できるようになっていて、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2061,9 +2061,9 @@
             "start": 740.78,
             "end": 743.4,
             "data": {
-                "text_level0": "でー、それを、いわゆるマッシュアップ、",
+                "text_level0": "それをいわゆるマッシュアップ、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "でー、それを、いわゆるマッシュアップ、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2072,9 +2072,9 @@
             "start": 743.46,
             "end": 748.08,
             "data": {
-                "text_level0": "色んな動画をこう混ぜ合わせて新しい動画を作るっていうことが、ま、可能になっている。",
+                "text_level0": "色んな動画をこう混ぜ合わせて新しい動画を作るっていうことが可能になっている。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "色んな動画をこう混ぜ合わせて新しい動画を作るっていうことが、ま、可能になっている。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2094,9 +2094,9 @@
             "start": 749.9,
             "end": 751.8,
             "data": {
-                "text_level0": "あのー、フリッカーっていう",
+                "text_level0": "フリッカーっていう",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "あのー、フリッカーっていう",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2105,9 +2105,9 @@
             "start": 751.8,
             "end": 755.12,
             "data": {
-                "text_level0": "あの、今yahoo!の子会社になってますけれども、",
+                "text_level0": "今yahoo!の子会社になってますけれども、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "あの、今yahoo!の子会社になってますけれども、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2127,9 +2127,9 @@
             "start": 760.22,
             "end": 764.1,
             "data": {
-                "text_level0": "えー、もう8年ぐらい運営されてる老舗のサイトなんですけど、",
+                "text_level0": "もう8年ぐらい運営されてる老舗のサイトなんですけど、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "えー、もう8年ぐらい運営されてる老舗のサイトなんですけど、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2160,9 +2160,9 @@
             "start": 772.94,
             "end": 777.98,
             "data": {
-                "text_level0": "でー、しかもそれが結構こうクオリティの高いものがすごい多いんですね。",
+                "text_level0": "しかもそれが結構クオリティの高いものがすごい多いんですね。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "でー、しかもそれが結構こうクオリティの高いものがすごい多いんですね。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2171,9 +2171,9 @@
             "start": 778.0,
             "end": 779.77,
             "data": {
-                "text_level0": "で、まあデジカメがすごい普及して、",
+                "text_level0": "デジカメがすごい普及して、",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "で、まあデジカメがすごい普及して、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2182,9 +2182,9 @@
             "start": 779.78,
             "end": 783.8,
             "data": {
-                "text_level0": "で、誰でも結構いい写真撮れるようになってきたっていう、こう、時代背景もあると思うんですけども、",
+                "text_level0": "誰でも結構いい写真撮れるようになってきたっていう時代背景もあると思うんですけども。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "で、誰でも結構いい写真撮れるようになってきたっていう、こう、時代背景もあると思うんですけども。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2193,9 +2193,9 @@
             "start": 783.8,
             "end": 787.5,
             "data": {
-                "text_level0": "で、まあ、例えば今回の僕の出した本を絡めていうと",
+                "text_level0": "例えば今回の僕の出した本を絡めていうと",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "で、まあ、例えば今回の僕の出した本を絡めていうと",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2204,7 +2204,7 @@
             "start": 787.5,
             "end": 792.0,
             "data": {
-                "text_level0": "この僕の方の表紙っていうのは実はまさにフリッカーで探し出してきた",
+                "text_level0": "この僕の本の表紙っていうのは実はまさにフリッカーで探し出してきた",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -2226,9 +2226,9 @@
             "start": 797.7,
             "end": 802.1,
             "data": {
-                "text_level0": "これ自体がこうフリッカーがあったから作れた表紙ということになってます。",
+                "text_level0": "これ自体がフリッカーがあったから作れた表紙ということになってます。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "これ自体がこうフリッカーがあったから作れた表紙ということになってます。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2248,9 +2248,9 @@
             "start": 809.45,
             "end": 810.5,
             "data": {
-                "text_level0": "そう今、",
+                "text_level0": "",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "そう今、",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2325,9 +2325,9 @@
             "start": 1005.47,
             "end": 1009.96,
             "data": {
-                "text_level0": "えーこのフォーラムの20分前後、まるまるフリーカルチャーを実践です。",
+                "text_level0": "このフォーラムの20分前後、まるまるフリーカルチャーを実践です。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "えーこのフォーラムの20分前後、まるまるフリーカルチャーを実践です。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2336,9 +2336,9 @@
             "start": 1009.98,
             "end": 1014.84,
             "data": {
-                "text_level0": "え、今月この360 Forumでかける音楽、BGMは、全て、今日もそうです。",
+                "text_level0": "今月この360 Forumでかける音楽、BGMは、全て、今日もそうです。",
                 "kana_level0": "xx",
-                "text_level2": "",
+                "text_level2": "え、今月この360 Forumでかける音楽、BGMは、全て、今日もそうです。",
                 "kana_level3": "xx",
                 "memo": ""
             }

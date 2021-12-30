@@ -354,7 +354,7 @@
         },
         {
             "start": 71.24,
-            "end": 73.55598760143418,
+            "end": 73.56,
             "data": {
                 "text_level0": "フリーカルチャーってのはまあ直訳するとですね",
                 "kana_level0": "",
@@ -530,7 +530,7 @@
         },
         {
             "start": 97.27,
-            "end": 99.26926745503275,
+            "end": 99.27,
             "data": {
                 "text_level0": "そのインターネットはもともと持っていて",
                 "kana_level0": "",
@@ -567,6 +567,633 @@
             "data": {
                 "text_level0": "っていうことを主張したくてまあ今回この本を書きました",
                 "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 110.48,
+            "end": 114.2,
+            "data": {
+                "text_level0": "インターネット上の私たちみんなの自由",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 114.61,
+            "end": 115.89,
+            "data": {
+                "text_level0": "なるほどね。",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 116.0,
+            "end": 118.22,
+            "data": {
+                "text_level0": "まあインターネットよく言われますよね。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 118.22,
+            "end": 120.86,
+            "data": {
+                "text_level0": "私たちは常に監視されている",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 120.99,
+            "end": 121.86,
+            "data": {
+                "text_level0": "とか。",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 121.94,
+            "end": 124.66,
+            "data": {
+                "text_level0": "私たちは意識が好みなども、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 124.67,
+            "end": 126.95,
+            "data": {
+                "text_level0": "このネットによってコントロールされている。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 127.35,
+            "end": 127.83,
+            "data": {
+                "text_level0": "んー、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 127.86,
+            "end": 131.4,
+            "data": {
+                "text_level0": "ちょっと不穏な感じもします。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 131.48,
+            "end": 131.72,
+            "data": {
+                "text_level0": "けれど、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 131.72,
+            "end": 134.6,
+            "data": {
+                "text_level0": "インターネットとそれがもたらす世界というのは",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 134.61,
+            "end": 139.37,
+            "data": {
+                "text_level0": "そもそもとても自由でフリーなマインドから始まっていたんだよ。と",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 139.4,
+            "end": 141.2,
+            "data": {
+                "text_level0": "ドミニクさんは語ります。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 142.0,
+            "end": 145.7,
+            "data": {
+                "text_level0": "もともとフリーカルチャーの起源みたいなものを辿ってみると、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 145.7,
+            "end": 152.12,
+            "data": {
+                "text_level0": "まあアメリカの1970年代から1980年代にかけて起こった現象だったんですね。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 152.12,
+            "end": 156.68,
+            "data": {
+                "text_level0": "で、そもそもソフトウェアを作るっていう文化が非常にこう",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 156.68,
+            "end": 158.12,
+            "data": {
+                "text_level0": "自由な文化というか",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 158.12,
+            "end": 164.12,
+            "data": {
+                "text_level0": "まあアメリカの西海岸のヒッピーカルチャーとかそう言ったものを、まあ継承して、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 164.2,
+            "end": 167.7,
+            "data": {
+                "text_level0": "で、とにかくこうエンジニアの人が作ったソフトウェアを、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 167.75,
+            "end": 169.15,
+            "data": {
+                "text_level0": "あの、みんなのものとして",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 169.18,
+            "end": 170.11,
+            "data": {
+                "text_level0": "共有して",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 170.12,
+            "end": 171.05,
+            "data": {
+                "text_level0": "しまいましょうと。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 171.22,
+            "end": 172.9,
+            "data": {
+                "text_level0": "そういう文化があったんですね。",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 173.1,
+            "end": 173.75,
+            "data": {
+                "text_level0": "でー",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 173.75,
+            "end": 175.0,
+            "data": {
+                "text_level0": "80年代になってくると、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 175.0,
+            "end": 177.44,
+            "data": {
+                "text_level0": "まあそこにこう企業とかも入ってきて",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 177.44,
+            "end": 178.7,
+            "data": {
+                "text_level0": "で、いやソフトウェアってのは",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 178.7,
+            "end": 182.8,
+            "data": {
+                "text_level0": "こうもっとビジネスとして守っていかなきゃいけいけないということで、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 182.8,
+            "end": 186.38,
+            "data": {
+                "text_level0": "えーお互いをこう自由に交換し合えなくなってきたと",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 186.38,
+            "end": 192.56,
+            "data": {
+                "text_level0": "で、そういう時にいやその自由を守るべきだという人たちが立ち上がって起こったのがいわゆる",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 192.56,
+            "end": 195.5,
+            "data": {
+                "text_level0": "フリーソフトウェアの運動、えーだったんですね。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 195.56,
+            "end": 200.72,
+            "data": {
+                "text_level0": "でー、そこでその著作権というものがまあ発生してしまって、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 200.72,
+            "end": 205.2,
+            "data": {
+                "text_level0": "で、それを勝手にお互い使ってしまうと法律に反してしまうとか、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 205.2,
+            "end": 208.7,
+            "data": {
+                "text_level0": "あと企業に訴えられてしまうというような状況に対して、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 208.84,
+            "end": 211.4,
+            "data": {
+                "text_level0": "いやそこをこうシステム変えてしまうということで、",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 211.4,
+            "end": 214.88,
+            "data": {
+                "text_level0": "ま、新しい著作権の仕組みみたいなものが、まあ生み出されたと",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 214.88,
+            "end": 219.08,
+            "data": {
+                "text_level0": "で、それはまあコピーレフトと呼ばれてた、えー、ものだったんです。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 219.08,
+            "end": 220.16,
+            "data": {
+                "text_level0": "で、コピーレストっていうのが、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 220.16,
+            "end": 223.16,
+            "data": {
+                "text_level0": "まあコピーライトっていうのはつまり著作権のことなんです",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 223.16,
+            "end": 225.86,
+            "data": {
+                "text_level0": "けども、まあその反対語みたいなもので、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 225.86,
+            "end": 228.9,
+            "data": {
+                "text_level0": "作った人が誰かっていうのは、もちろん守るんだけれども、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 229.2,
+            "end": 233.2,
+            "data": {
+                "text_level0": "えー、それを誰でも自由に勝手に使っていいよ。と。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 233.48,
+            "end": 235.2,
+            "data": {
+                "text_level0": "で、勝手に使っていいんだけれども、",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 235.5,
+            "end": 237.28,
+            "data": {
+                "text_level0": "その勝手に使った結果、",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 237.29,
+            "end": 240.82,
+            "data": {
+                "text_level0": "新しく見出されたものに対しても同じ条件がついて、",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 241.0,
+            "end": 242.0,
+            "data": {
+                "text_level0": "で、そうするとこう",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 242.0,
+            "end": 245.5,
+            "data": {
+                "text_level0": "何世代にも渡って改変されていったものが、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 245.5,
+            "end": 250.46,
+            "data": {
+                "text_level0": "どの段階で切り取っても同じ自由度で誰でも使っていいという状態にするということで、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 250.46,
+            "end": 252.56,
+            "data": {
+                "text_level0": "ま、だから言ってしまうと、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 252.56,
+            "end": 258.6,
+            "data": {
+                "text_level0": "法律の世界に対して別の法律をぶつけて新しい世界を作りましょうということがありました。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 261.87,
+            "end": 262.04,
+            "data": {
+                "text_level0": "ねえ",
+                "kana_level0": "",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 262.04,
+            "end": 266.5,
+            "data": {
+                "text_level0": "コピーライトに対してコピーレフトこれいいですね。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 266.5,
+            "end": 271.9,
+            "data": {
+                "text_level0": "そして新しい世界を作ろうというその発想、スピリット、これもいいですよね。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 271.88,
+            "end": 273.5,
+            "data": {
+                "text_level0": "まあ、そういうマインドこそ、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 273.5,
+            "end": 278.3,
+            "data": {
+                "text_level0": "私たち今を生きるジェネレーションが、やっぱり大切にしたいことですよね。",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 278.72,
+            "end": 280.5,
+            "data": {
+                "text_level0": "でも、そんなフリーマインド、",
+                "kana_level0": "xx",
+                "text_level2": "",
+                "kana_level3": "xx",
+                "memo": ""
+            }
+        },
+        {
+            "start": 280.5,
+            "end": 286.3,
+            "data": {
+                "text_level0": "フリースピリットなネットカルチャーが、今、少しずつ変化しているようです。",
+                "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
                 "memo": ""

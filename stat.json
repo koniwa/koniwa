@@ -1,9 +1,9 @@
 {
     "total": {
         "duration": 998444.3993000019,
-        "duration_done": 3173.975551,
+        "duration_done": 4222.125451,
         "num_file": 4417,
-        "num_file_done": 4
+        "num_file_done": 5
     },
     "series": {
         "tnc": {
@@ -44,9 +44,9 @@
         },
         "free_culture_2012": {
             "duration": 3920.4027,
-            "duration_done": 0,
+            "duration_done": 1048.1499,
             "num_file": 4,
-            "num_file_done": 0
+            "num_file_done": 1
         },
         "roudoku_toshokan": {
             "duration": 6049.808774999999,

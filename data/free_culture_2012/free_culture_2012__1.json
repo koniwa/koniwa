@@ -180,7 +180,7 @@
             "start": 40.55,
             "end": 41.64,
             "data": {
-                "text_level0": "Alcohol Free",
+                "text_level0": "Alcohol free",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -2314,7 +2314,7 @@
             "start": 1000.8,
             "end": 1005.0,
             "data": {
-                "text_level0": "さあ、 今月この360 Forumもフリーカルチャー宣言です。",
+                "text_level0": "さあ、今月この360 Forumもフリーカルチャー宣言です。",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",
@@ -2325,9 +2325,9 @@
             "start": 1005.47,
             "end": 1009.96,
             "data": {
-                "text_level0": "このフォーラムの20分前後、まるまるフリーカルチャーを実践です。",
+                "text_level0": "このForumの20分前後、まるまるフリーカルチャーを実践です。",
                 "kana_level0": "xx",
-                "text_level2": "えーこのフォーラムの20分前後、まるまるフリーカルチャーを実践です。",
+                "text_level2": "えーこのForumの20分前後、まるまるフリーカルチャーを実践です。",
                 "kana_level3": "xx",
                 "memo": ""
             }
@@ -2402,7 +2402,7 @@
             "start": 1034.32,
             "end": 1035.4,
             "data": {
-                "text_level0": "360 フォーラム",
+                "text_level0": "360 Forum、",
                 "kana_level0": "xx",
                 "text_level2": "",
                 "kana_level3": "xx",

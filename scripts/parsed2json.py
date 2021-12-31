@@ -19,8 +19,7 @@ class Parsed:
         for items in d:
             self.offsets.append(offset)
             assert len(items[0]) > 0
-            assert len(items[1]) > 0
-            assert len(items[2]) > 0
+            assert len(items) == 3, items
             surf: str = items[0]
             offset += len(surf)
 
@@ -59,7 +58,9 @@ def operation(path_in: Path, path_parsed: Path, path_out: Path) -> None:
     offset: int = 0
     for item in d["annotation"]:
         s = item["data"]["text_level0"]
-        assert len(s) != 0
+        if len(s) == 0:
+            continue
+
         _, pron = parsed.get(offset, s)
         offset += len(s)
         item["data"]["kana_level0"] = pron

@@ -24,9 +24,14 @@ class Span(BaseModel):
             elif k.startswith("kana_") and len(values[k]) > 0:
                 ok_k = True
         if not ok_t:
-            raise ValueError("Text is blank")
+            raise ValueError(f"Text is blank ({values})")
         if not ok_k:
-            raise ValueError("Kana is blank")
+            raise ValueError(f"Kana is blank ({values})")
+
+        if len(values["text_level2"]) == 0 and len(values["kana_level3"]) > 0:
+            raise ValueError(f"text_level2 is blank, but kana_level3 is not blank ({values})")
+        if len(values["text_level2"]) > 0 and len(values["kana_level3"]) == 0:
+            raise ValueError(f"text_level2 is not blank, but kana_level3 is blank ({values})")
         return values
 
 
@@ -86,7 +91,7 @@ class Data(BaseModel):
 
     @validator("meta")
     def status(cls, v, values):
-        size_annotation: int = len(values["annotation"])
+        size_annotation: int = len(values.get("annotation", []))
         if v.status_annotation is None:
             if size_annotation != 0:
                 raise ValueError("Size of annotation is not 0")

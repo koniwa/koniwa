@@ -36,6 +36,8 @@ class Parsed:
             rest -= len(self.surfs[idx + cnt])
             cnt += 1
         assert rest == 0, (offset, surf, rest)
+        surf_got: str = "".join(self.surfs[idx : idx + cnt])
+        assert surf_got == surf, f"{surf} != {surf_got}"
         return (
             "".join(self.readings[idx : idx + cnt]),
             "".join(self.pronunces[idx : idx + cnt]),

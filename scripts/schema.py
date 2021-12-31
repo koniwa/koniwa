@@ -29,7 +29,9 @@ class Span(BaseModel):
             raise ValueError(f"Kana is blank ({values})")
 
         if len(values["text_level2"]) == 0 and len(values["kana_level3"]) > 0:
-            raise ValueError("text_level2 is blank, but kana_level3 is not blank")
+            raise ValueError(f"text_level2 is blank, but kana_level3 is not blank ({values})")
+        if len(values["text_level2"]) > 0 and len(values["kana_level3"]) == 0:
+            raise ValueError(f"text_level2 is not blank, but kana_level3 is blank ({values})")
         return values
 
 

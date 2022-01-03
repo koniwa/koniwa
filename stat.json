@@ -1,9 +1,9 @@
 {
     "total": {
         "duration": 998444.3993000019,
-        "duration_done": 4222.125451,
+        "duration_done": 4651.125451,
         "num_file": 4417,
-        "num_file_done": 5
+        "num_file_done": 6
     },
     "series": {
         "tnc": {
@@ -38,9 +38,9 @@
         },
         "amagasaki": {
             "duration": 38599.01599999998,
-            "duration_done": 0,
+            "duration_done": 429.0,
             "num_file": 61,
-            "num_file_done": 0
+            "num_file_done": 1
         },
         "free_culture_2012": {
             "duration": 3920.4027,

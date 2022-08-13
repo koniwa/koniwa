@@ -34,7 +34,7 @@ jobs:
           poetry run make lint_python -j $(nproc) \
            OUTPUT_STAT=${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_STAT }}
 
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v3
         with:
           node-version: '14'
           cache: npm

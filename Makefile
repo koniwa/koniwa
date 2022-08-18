@@ -1,7 +1,7 @@
 
 all: lint_node lint_python
 
-TARGET_DIRS:=./scripts
+TARGET_DIRS:=./koniwa
 OUTPUT_STAT:=/dev/stdout
 
 flake8:
@@ -18,7 +18,7 @@ yamllint:
 		| xargs yamllint --no-warnings
 
 check_json:
-	python3 ./scripts/check_json.py -i ./data -o $(OUTPUT_STAT)
+	python3 $(TARGET_DIRS)/check_json.py -i ./data -o $(OUTPUT_STAT)
 
 lint_python: flake8 black isort pydocstyle yamllint check_json
 

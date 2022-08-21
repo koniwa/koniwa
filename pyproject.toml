@@ -7,6 +7,7 @@ authors = ["Yuta Hayashibe <yuta@hayashibe.jp>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 pydantic = "^1.9.2"
+vosk = {version = "^0.3.43", extras = ["asr"]}
 
 [tool.poetry.dev-dependencies]
 coverage = ">=5.3"

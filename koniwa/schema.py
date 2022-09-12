@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from datetime import date
+import datetime
 from enum import Enum
 from typing import Dict, List, Optional
 
@@ -57,7 +57,7 @@ class Meta(BaseModel):
 
     part: Optional[int]
 
-    date: Optional[date]
+    date: Optional[datetime.date]
     speaker: Optional[str]
 
     licenser_sound: str

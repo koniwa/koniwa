@@ -18,8 +18,8 @@
 
 ## ファイルリンク
 
-- sound: 音声データ [[Google Drive]](https://drive.google.com/drive/folders/1edUnYJpT8y0ZmAQSE_fJPQ6VnNBS6qWA)
-- source: 参考データ [[Google Drive]](https://drive.google.com/drive/folders/1yLZtynAznjVepfAgEVFtbiP0xhCGMmo2) [[GitHub]](source): 原文などアノテーション時の参考になる資料
+- sound: 音声データ [[Google Drive]](<https://drive.google.com/drive/folders/1edUnYJpT8y0ZmAQSE_fJPQ6VnNBS6qWA>)
+- source: 参考データ [[Google Drive]](<https://drive.google.com/drive/folders/1yLZtynAznjVepfAgEVFtbiP0xhCGMmo2>) [[GitHub]](source): 原文などアノテーション時の参考になる資料
 - data: 書誌情報・アノテーションデータ [[GitHub]](data)
     - [Schema](koniwa/schema.py)
 

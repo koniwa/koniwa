@@ -1,55 +1,55 @@
 {
     "total": {
-        "duration": 998444.3992999996,
+        "duration": 998444.3992999989,
         "duration_done": 4651.125451,
         "num_file": 4417,
         "num_file_done": 6
     },
     "series": {
-        "nishiyodogawa": {
-            "duration": 232983.71199999985,
-            "duration_done": 0,
-            "num_file": 403,
-            "num_file_done": 0
-        },
-        "free_culture_2012": {
-            "duration": 3920.4026999999996,
-            "duration_done": 1048.1499,
+        "tnc": {
+            "duration": 3173.975551,
+            "duration_done": 3173.975551,
             "num_file": 4,
-            "num_file_done": 1
+            "num_file_done": 4
         },
         "minato": {
-            "duration": 92154.79199999999,
+            "duration": 92154.79199999993,
             "duration_done": 0,
             "num_file": 176,
             "num_file_done": 0
         },
-        "librivox": {
-            "duration": 394384.42927400005,
-            "duration_done": 0,
-            "num_file": 978,
-            "num_file_done": 0
-        },
-        "roudoku_toshokan": {
-            "duration": 6049.808775,
-            "duration_done": 0,
-            "num_file": 16,
-            "num_file_done": 0
-        },
-        "tnc": {
-            "duration": 3173.9755510000005,
-            "duration_done": 3173.9755510000005,
-            "num_file": 4,
-            "num_file_done": 4
-        },
         "amagasaki": {
-            "duration": 38599.016,
+            "duration": 38599.015999999996,
             "duration_done": 429.0,
             "num_file": 61,
             "num_file_done": 1
         },
+        "roudoku_toshokan": {
+            "duration": 6049.8087749999995,
+            "duration_done": 0,
+            "num_file": 16,
+            "num_file_done": 0
+        },
+        "librivox": {
+            "duration": 394384.4292739998,
+            "duration_done": 0,
+            "num_file": 978,
+            "num_file_done": 0
+        },
+        "free_culture_2012": {
+            "duration": 3920.4027,
+            "duration_done": 1048.1499,
+            "num_file": 4,
+            "num_file_done": 1
+        },
+        "nishiyodogawa": {
+            "duration": 232983.71199999994,
+            "duration_done": 0,
+            "num_file": 403,
+            "num_file_done": 0
+        },
         "higashiyodogawa": {
-            "duration": 227178.26299999966,
+            "duration": 227178.26299999925,
             "duration_done": 0,
             "num_file": 2775,
             "num_file_done": 0

@@ -12,6 +12,6 @@
     "devDependencies": {
         "badge-maker": "^3.3.1",
         "markdownlint-cli": "^0.34.0",
-        "pyright": "^1.1.306"
+        "pyright": "^1.1.308"
     }
 }

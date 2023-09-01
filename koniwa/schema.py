@@ -4,7 +4,7 @@ import datetime
 from enum import Enum
 from typing import Dict, List, Optional
 
-from pydantic import BaseModel, root_validator, validator
+from pydantic import BaseModel, model_validator, validator
 
 
 class Span(BaseModel):
@@ -14,7 +14,7 @@ class Span(BaseModel):
     kana_level3: str = ""
     memo: str = ""
 
-    @root_validator
+    @model_validator(mode="before")
     def check_blank(cls, values):
         ok_t: bool = False
         ok_k: bool = False

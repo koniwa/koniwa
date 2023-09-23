@@ -34,11 +34,29 @@ jobs:
           poetry run make lint_python -j $(nproc) \
            OUTPUT_STAT=${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_STAT }}
 
-      - uses: actions/setup-node@v3
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2.4.0
         with:
-          node-version: '18'
-          cache: npm
-      - run: npm install
+          version: 8
+          run_install: false
+
+      - name: Get pnpm store directory
+        shell: bash
+        run: |
+          echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
+
+      - uses: actions/cache@v3
+        name: Setup pnpm cache
+        with:
+          path: ${{ env.STORE_PATH }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+
+      - name: Install dependencies
+        run: pnpm install
+
+
       - run: poetry run make lint_node -j $(nproc)
 
       - name: Generate badge images

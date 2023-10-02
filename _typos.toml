@@ -6,4 +6,4 @@
 [default.extend-words]
 
 [files]
-extend-exclude = ['package*.json', 'bootstrap*', 'wavesurfer', 'localforage*', '*.min.js']
+extend-exclude = ['package*.json', 'node_modules', 'pnpm-lock.yaml']

@@ -12,8 +12,8 @@ devDependencies:
     specifier: ^0.35.0
     version: 0.35.0
   pyright:
-    specifier: ^1.1.334
-    version: 1.1.334
+    specifier: ^1.1.338
+    version: 1.1.338
 
 packages:
 
@@ -238,8 +238,8 @@ packages:
       uc.micro: 1.0.6
     dev: true
 
-  /lru-cache@10.0.1:
-    resolution: {integrity: sha512-IJ4uwUTi2qCccrioU6g9g/5rvvVl13bsdczUUcqbciD9iLr095yj8DQKdObriEvuNSx325N1rV1O0sJFszx75g==}
+  /lru-cache@10.1.0:
+    resolution: {integrity: sha512-/1clY/ui8CzjKFyjdvwPWJUYKiFVXG2I2cY0ssG7h4+hwk+XOIX7ZSG9Q7TW8TW3Kp3BUSqgFWBLgL4PJ+Blag==}
     engines: {node: 14 || >=16.14}
     dev: true
 
@@ -312,12 +312,12 @@ packages:
     resolution: {integrity: sha512-MkhCqzzBEpPvxxQ71Md0b1Kk51W01lrYvlMzSUaIzNsODdd7mqhiimSZlr+VegAz5Z6Vzt9Xg2ttE//XBhH3EQ==}
     engines: {node: '>=16 || 14 >=14.17'}
     dependencies:
-      lru-cache: 10.0.1
+      lru-cache: 10.1.0
       minipass: 6.0.2
     dev: true
 
-  /pyright@1.1.334:
-    resolution: {integrity: sha512-EJoW78gXPeAWd0e86P8kSIbY1pO3JJxNYu2BRlv/ZflcMvCY+zpyamuQC5EcXxXtr1WzBdcQwfo/NIBqtQPEow==}
+  /pyright@1.1.338:
+    resolution: {integrity: sha512-cY4p/LZjC3E1m6If48n19vZgBOUASIOX6zMTavIo2o2JlJRd6/+gy+aYaMdmljVF2mVP8NG6OuKiGxERSdpQOw==}
     engines: {node: '>=12.0.0'}
     hasBin: true
     optionalDependencies:

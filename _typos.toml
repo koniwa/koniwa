@@ -5,5 +5,7 @@
 
 [default.extend-words]
 
+ono = "ono"
+
 [files]
 extend-exclude = ['package*.json', 'node_modules', 'pnpm-lock.yaml']

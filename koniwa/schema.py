@@ -14,7 +14,7 @@ class Span(BaseModel):
     kana_level3: str = ""
     memo: str = ""
 
-    @model_validator(mode="before")
+    @model_validator(mode="before")  # type: ignore
     def check_blank(cls, values):
         ok_t: bool = False
         ok_k: bool = False

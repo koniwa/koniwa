@@ -5,12 +5,11 @@ import json
 import sys
 import traceback
 from pathlib import Path
-from typing import Tuple
 
 from schema import Data, Stat
 
 
-def operation(path_dir: Path, write: bool) -> Tuple[Stat, bool]:
+def operation(path_dir: Path, write: bool) -> tuple[Stat, bool]:
     assert path_dir.is_dir()
 
     stat = Stat()

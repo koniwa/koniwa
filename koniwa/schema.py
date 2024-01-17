@@ -2,7 +2,6 @@
 
 import datetime
 from enum import Enum
-from typing import Dict, List, Optional
 
 from pydantic import BaseModel, model_validator, validator
 
@@ -50,15 +49,15 @@ class Meta(BaseModel):
     duration: float
 
     series: str
-    album: Optional[str]
+    album: str | None
     title: str
-    chapter_number: Optional[int]
-    chapter_name: Optional[str]
+    chapter_number: int | None
+    chapter_name: str | None
 
-    part: Optional[int]
+    part: int | None
 
-    date: Optional[datetime.date]
-    speaker: Optional[str]
+    date: datetime.date | None
+    speaker: str | None
 
     licenser_sound: str
     license_sound: str
@@ -68,7 +67,7 @@ class Meta(BaseModel):
     url: str
     url_sound: str
 
-    status_annotation: Optional[StatusAnnotation]
+    status_annotation: StatusAnnotation | None
     note: str
 
     @validator("license_sound", "license_text")
@@ -86,7 +85,7 @@ class Meta(BaseModel):
 
 
 class Data(BaseModel):
-    annotation: List[Annotation]
+    annotation: list[Annotation]
     meta: Meta
 
     @validator("meta")
@@ -117,7 +116,7 @@ class SubStat(BaseModel):
 
 class Stat(BaseModel):
     total: SubStat = SubStat()
-    series: Dict[str, SubStat] = {}
+    series: dict[str, SubStat] = {}
 
     def add(self, name: str, meta: Meta):
         self.total.add(meta)

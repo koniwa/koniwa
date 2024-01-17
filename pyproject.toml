@@ -5,30 +5,29 @@ description = ""
 authors = ["Yuta Hayashibe <yuta@hayashibe.jp>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.11"
 pydantic = "^2.3.0"
 
-[tool.poetry.dev-dependencies]
-coverage = ">=5.3"
-flake8 = ">=3.8.4"
-isort = ">=5.6.4"
+[tool.poetry.group.dev.dependencies]
 yamllint = ">=1.25.0"
-pydocstyle = ">=5.1.1"
-black = ">=21.9b0"
-toml = "^0.10.2"
+ruff = "^0.1.13"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.pyright]
-pythonVersion = "3.9"
+pythonVersion = "3.11"
 typeCheckingMode = "basic"
-reportUnusedVariable = "warning"
+exclude = ["**/third", ".venv", "**/node_modules", "**/__pycache__",]
+reportPrivateImportUsage = "information"
+reportUnusedVariable="warning"
 
-[tool.black]
+[tool.ruff]
 line-length = 120
+target-version = "py311"
 
-[tool.isort]
-profile = "black"
-line_length = 120
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = []
+fixable = ["ALL"]

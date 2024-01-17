@@ -5,15 +5,14 @@ import bisect
 import csv
 import json
 from pathlib import Path
-from typing import List, Tuple
 
 
 class Parsed:
-    def __init__(self, d: List[List[str]]):
-        self.offsets: List[int] = []
-        self.surfs: List[str] = []
-        self.readings: List[str] = []
-        self.pronunces: List[str] = []
+    def __init__(self, d: list[list[str]]):
+        self.offsets: list[int] = []
+        self.surfs: list[str] = []
+        self.readings: list[str] = []
+        self.pronunces: list[str] = []
 
         offset = 0
         for items in d:
@@ -27,7 +26,7 @@ class Parsed:
             self.readings.append(items[1])
             self.pronunces.append(items[2])
 
-    def get(self, offset: int, surf: str) -> Tuple[str, str]:
+    def get(self, offset: int, surf: str) -> tuple[str, str]:
         idx: int = bisect.bisect_left(self.offsets, offset)
         length = len(surf)
         cnt: int = 0
@@ -46,7 +45,7 @@ class Parsed:
 
 def operation(path_in: Path, path_parsed: Path, path_out: Path) -> None:
     with path_parsed.open() as inf:
-        tmp: List[List[str]] = []
+        tmp: list[list[str]] = []
         r = csv.reader(inf, delimiter="\t")
         for items in r:
             if len(items) == 1 and items[0] == "EOS":

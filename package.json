@@ -11,7 +11,7 @@
     "version": "1.0.0",
     "devDependencies": {
         "badge-maker": "^3.3.1",
-        "markdownlint-cli": "^0.35.0",
+        "markdownlint-cli": "^0.39.0",
         "pyright": "^1.1.349"
     },
     "engines": {

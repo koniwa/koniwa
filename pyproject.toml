@@ -10,7 +10,7 @@ pydantic = "^2.3.0"
 
 [tool.poetry.group.dev.dependencies]
 yamllint = ">=1.25.0"
-ruff = "^0.1.13"
+ruff = ">=0.2.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

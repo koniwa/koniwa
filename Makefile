@@ -9,7 +9,7 @@ yamllint:
 		| xargs yamllint --no-warnings
 ruff:
 	ruff format --respect-gitignore --check
-	ruff --respect-gitignore
+	ruff check --respect-gitignore
 
 check_json:
 	python3 $(TARGET_DIRS)/check_json.py -i ./data -o $(OUTPUT_STAT)

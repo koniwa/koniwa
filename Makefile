@@ -12,7 +12,7 @@ ruff:
 	ruff check --respect-gitignore
 
 check_json:
-	python3 $(TARGET_DIRS)/check_json.py -i ./data -o $(OUTPUT_STAT)
+	python3 -m koniwa.check_json -i ./data -o $(OUTPUT_STAT)
 
 lint_python: ruff yamllint check_json
 

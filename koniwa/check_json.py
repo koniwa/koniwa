@@ -6,7 +6,7 @@ import sys
 import traceback
 from pathlib import Path
 
-from schema import Data, Stat
+from koniwa.schema import Data, Stat
 
 
 def operation(path_dir: Path, write: bool) -> tuple[Stat, bool]:

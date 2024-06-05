@@ -15,8 +15,8 @@ importers:
         specifier: ^0.41.0
         version: 0.41.0
       pyright:
-        specifier: ^1.1.365
-        version: 1.1.365
+        specifier: ^1.1.366
+        version: 1.1.366
 
 packages:
 
@@ -141,8 +141,8 @@ packages:
   isexe@2.0.0:
     resolution: {integrity: sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==}
 
-  jackspeak@3.1.2:
-    resolution: {integrity: sha512-kWmLKn2tRtfYMF/BakihVVRzBKOxz4gJMiL2Rj91WnAB5TPZumSH99R/Yf1qE1u4uRimvCSJfm6hnxohXeEXjQ==}
+  jackspeak@3.3.0:
+    resolution: {integrity: sha512-glPiBfKguqA7v8JsXO3iLjJWZ9FV1vNpoI0I9hI9Mnk5yetO9uPLSpiCEmiVijAssv2f54HpvtzvAHfhPieiDQ==}
     engines: {node: '>=14'}
 
   js-yaml@4.1.0:
@@ -206,8 +206,8 @@ packages:
     resolution: {integrity: sha512-uxFIHU0YlHYhDQtV4R9J6a52SLx28BCjT+4ieh7IGbgwVJWO+km431c4yRlREUAsAmt/uMjQUyQHNEPf0M39CA==}
     engines: {node: '>=6'}
 
-  pyright@1.1.365:
-    resolution: {integrity: sha512-A5RHXB782m2wCeazfrPGSvFUd1WAjpHrD83M/Umc/tcAhyC5pzhrh23US1yv9DH/GMilQeWdJ4W8pGxmgej4DQ==}
+  pyright@1.1.366:
+    resolution: {integrity: sha512-Kl40HoSimFGZPHuKBA9hgowwg4St7dYhG6r3fS9juIZ2TySuDWs9BzNqfK2MrJf7H6w2nNjcEJH+y2lzHWDImw==}
     engines: {node: '>=14.0.0'}
     hasBin: true
 
@@ -227,8 +227,8 @@ packages:
     resolution: {integrity: sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw==}
     engines: {node: '>=14'}
 
-  smol-toml@1.2.0:
-    resolution: {integrity: sha512-KObxdQANC/xje3OoatMbSwQf2XAvJ0RbK+4nmQRszFNZptbNRnMWqbLF/zb4sMi9xJ6HNyhWXeuZ9zC/I/XY7w==}
+  smol-toml@1.2.1:
+    resolution: {integrity: sha512-OtZKrVrGIT+m++lxyF0z5n68nkwdgZotPhy89bfA4T7nSWe0xeQtfbjM1z5VLTilJdWXH46g8i0oAcpQNkzZTg==}
     engines: {node: '>= 18', pnpm: '>= 9'}
 
   string-width@4.2.3:
@@ -361,7 +361,7 @@ snapshots:
   glob@10.4.1:
     dependencies:
       foreground-child: 3.1.1
-      jackspeak: 3.1.2
+      jackspeak: 3.3.0
       minimatch: 9.0.4
       minipass: 7.1.2
       path-scurry: 1.11.1
@@ -374,7 +374,7 @@ snapshots:
 
   isexe@2.0.0: {}
 
-  jackspeak@3.1.2:
+  jackspeak@3.3.0:
     dependencies:
       '@isaacs/cliui': 8.0.2
     optionalDependencies:
@@ -415,7 +415,7 @@ snapshots:
       markdownlint: 0.34.0
       minimatch: 9.0.4
       run-con: 1.3.2
-      smol-toml: 1.2.0
+      smol-toml: 1.2.1
 
   markdownlint-micromark@0.1.9: {}
 
@@ -443,7 +443,7 @@ snapshots:
 
   punycode.js@2.3.1: {}
 
-  pyright@1.1.365:
+  pyright@1.1.366:
     optionalDependencies:
       fsevents: 2.3.3
 
@@ -462,7 +462,7 @@ snapshots:
 
   signal-exit@4.1.0: {}
 
-  smol-toml@1.2.0: {}
+  smol-toml@1.2.1: {}
 
   string-width@4.2.3:
     dependencies:

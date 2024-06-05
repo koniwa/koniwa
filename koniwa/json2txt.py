@@ -7,7 +7,8 @@ from koniwa.schema import Data
 
 
 def operation(path_in: Path) -> None:
-    d = Data.parse_file(path_in)
+    with path_in.open() as inf:
+        d = Data.model_validate_json(inf.read())
     part = []
     for span in d.annotation:
         part.append(span.data.text_level0)

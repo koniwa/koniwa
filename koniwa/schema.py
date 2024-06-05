@@ -3,7 +3,7 @@
 import datetime
 from enum import Enum
 
-from pydantic import BaseModel, model_validator, validator
+from pydantic import BaseModel, field_validator, model_validator
 
 
 class Span(BaseModel):
@@ -70,14 +70,14 @@ class Meta(BaseModel):
     status_annotation: StatusAnnotation | None
     note: str
 
-    @validator("license_sound", "license_text")
+    @field_validator("license_sound", "license_text")
     def license(cls, v):
         allowed = ["Public Domain", "CC0 1.0", "CC BY 4.0", "CC BY 3.0", "CC BY 2.1 JP"]
         if v not in allowed:
             raise ValueError(f"Invalid license: {v}")
         return v
 
-    @validator("licenser_sound", "licenser_text")
+    @field_validator("licenser_sound", "licenser_text")
     def licenser(cls, v):
         if len(v.strip()) == 0:
             raise ValueError(f"Invalid licenser: {v}")
@@ -88,9 +88,9 @@ class Data(BaseModel):
     annotation: list[Annotation]
     meta: Meta
 
-    @validator("meta")
-    def status(cls, v, values):
-        size_annotation: int = len(values.get("annotation", []))
+    @field_validator("meta")
+    def status(cls, v, info):
+        size_annotation: int = len(info.data.get("annotation", []))
         if v.status_annotation is None:
             if size_annotation != 0:
                 raise ValueError("Size of annotation is not 0")

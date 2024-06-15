@@ -12,7 +12,7 @@
     "devDependencies": {
         "badge-maker": "^3.3.1",
         "markdownlint-cli": "^0.41.0",
-        "pyright": "^1.1.366"
+        "pyright": "^1.1.367"
     },
     "engines": {
         "npm": "Use pnpm instead of npm!"

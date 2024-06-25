@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 494.210612,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 008",
-        "title": "星",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "国木田 独歩",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-008/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_008_1306/msw008_02_hoshi_kunikida_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 494.210612,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 008",
+    "title": "星",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "国木田 独歩",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-008/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_008_1306/msw008_02_hoshi_kunikida_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 171.206531,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 005",
-        "title": "異性に対する感覚を洗練せよ",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "magicrose",
-        "licenser_sound": "magicrose",
-        "license_sound": "Public Domain",
-        "licenser_text": "岡本 かの子",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-005/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_005_1212/msw005_08_iseinitaisuru_okamoto_am.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 171.206531,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 005",
+    "title": "異性に対する感覚を洗練せよ",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "magicrose",
+    "licenser_sound": "magicrose",
+    "license_sound": "Public Domain",
+    "licenser_text": "岡本 かの子",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-005/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_005_1212/msw005_08_iseinitaisuru_okamoto_am.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

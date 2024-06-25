@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 421.0315,
-        "series": "朗読図書館",
-        "album": null,
-        "title": "桜の樹の下には",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "池田 英生",
-        "license_sound": "CC BY 2.1 JP",
-        "licenser_text": "梶井 基次郎",
-        "license_text": "Public Domain",
-        "url": "",
-        "url_sound": "",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 421.0315,
+    "series": "朗読図書館",
+    "album": null,
+    "title": "桜の樹の下には",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "池田 英生",
+    "license_sound": "CC BY 2.1 JP",
+    "licenser_text": "梶井 基次郎",
+    "license_text": "Public Domain",
+    "url": "",
+    "url_sound": "",
+    "status_annotation": null,
+    "note": ""
+  }
 }

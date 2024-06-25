@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 487.526,
-        "series": "「広報みなと」 音声版",
-        "album": null,
-        "title": "特集号 上手に活用!子育てサポート",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 港区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 港区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/minato/cmsfiles/contents/0000517/517956/2020_11_P6.wma",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 487.526,
+    "series": "「広報みなと」 音声版",
+    "album": null,
+    "title": "特集号 上手に活用!子育てサポート",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 港区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 港区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/minato/cmsfiles/contents/0000517/517956/2020_11_P6.wma",
+    "status_annotation": null,
+    "note": ""
+  }
 }

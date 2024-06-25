@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 675.134694,
-        "series": "LibriVox",
-        "album": "Multilingual Short Works Collection 009",
-        "title": "熊手と提灯",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "正岡 子規",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/multilingual-short-works-collection-009-by-various/",
-        "url_sound": "http://www.archive.org/download/multilingual_short_works_collection_009_1310_librivox/msw009_16_kumade_masaoka_um_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 675.134694,
+    "series": "LibriVox",
+    "album": "Multilingual Short Works Collection 009",
+    "title": "熊手と提灯",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "正岡 子規",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/multilingual-short-works-collection-009-by-various/",
+    "url_sound": "http://www.archive.org/download/multilingual_short_works_collection_009_1310_librivox/msw009_16_kumade_masaoka_um_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

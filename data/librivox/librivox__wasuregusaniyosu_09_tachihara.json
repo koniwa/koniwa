@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 77.949388,
-        "series": "LibriVox",
-        "album": null,
-        "title": "萱草に寄す",
-        "chapter_number": 9,
-        "chapter_name": "夏の弔ひ",
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "立原 道造",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/wasuregusaniyosu-by-michizou-tachihara/",
-        "url_sound": "http://www.archive.org/download/wasuregusaniyosu_1203_librivox/wasuregusaniyosu_09_tachihara.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 77.949388,
+    "series": "LibriVox",
+    "album": null,
+    "title": "萱草に寄す",
+    "chapter_number": 9,
+    "chapter_name": "夏の弔ひ",
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "立原 道造",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/wasuregusaniyosu-by-michizou-tachihara/",
+    "url_sound": "http://www.archive.org/download/wasuregusaniyosu_1203_librivox/wasuregusaniyosu_09_tachihara.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

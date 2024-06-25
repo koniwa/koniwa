@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 579.082449,
-        "series": "いなむら市長の「い～なこの街 あまがさき」",
-        "album": null,
-        "title": "教えて、尼崎! みんな知りたい、市民のホンネ(10月29日、11月1日放送分)",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "兵庫県 尼崎市",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "兵庫県 尼崎市",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 579.082449,
+    "series": "いなむら市長の「い～なこの街 あまがさき」",
+    "album": null,
+    "title": "教えて、尼崎! みんな知りたい、市民のホンネ(10月29日、11月1日放送分)",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "兵庫県 尼崎市",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "兵庫県 尼崎市",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "",
+    "status_annotation": null,
+    "note": ""
+  }
 }

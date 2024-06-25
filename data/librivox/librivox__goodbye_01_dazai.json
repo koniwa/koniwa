@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 231.627755,
-        "series": "LibriVox",
-        "album": null,
-        "title": "グッド・バイ",
-        "chapter_number": 1,
-        "chapter_name": "変心",
-        "part": 1,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "太宰 治",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/good-bye-by-osamu-dazai/",
-        "url_sound": "http://www.archive.org/download/good-bye_um_librivox/goodbye_01_dazai.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 231.627755,
+    "series": "LibriVox",
+    "album": null,
+    "title": "グッド・バイ",
+    "chapter_number": 1,
+    "chapter_name": "変心",
+    "part": 1,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "太宰 治",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/good-bye-by-osamu-dazai/",
+    "url_sound": "http://www.archive.org/download/good-bye_um_librivox/goodbye_01_dazai.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

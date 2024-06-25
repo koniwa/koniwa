@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 278.308571,
-        "series": "LibriVox",
-        "album": "LibriVox 9th Anniversary Collection",
-        "title": "九月十四日の朝",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "正岡 子規",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-9th-anniversary-collection/",
-        "url_sound": "http://www.archive.org/download/librivox_9thanniversary_1408_librivox/9anni_25_kugatsujyuyokkanoasa_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 278.308571,
+    "series": "LibriVox",
+    "album": "LibriVox 9th Anniversary Collection",
+    "title": "九月十四日の朝",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "正岡 子規",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-9th-anniversary-collection/",
+    "url_sound": "http://www.archive.org/download/librivox_9thanniversary_1408_librivox/9anni_25_kugatsujyuyokkanoasa_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

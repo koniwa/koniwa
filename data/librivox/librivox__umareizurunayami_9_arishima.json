@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 280.476735,
-        "series": "LibriVox",
-        "album": null,
-        "title": "生まれいずる悩み",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 9,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "有島 武郎",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/umareizuru-nayami-by-takeo-arishima/",
-        "url_sound": "http://www.archive.org/download/umareizuru_nayami_ez_1302/umareizurunayami_9_arishima.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 280.476735,
+    "series": "LibriVox",
+    "album": null,
+    "title": "生まれいずる悩み",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 9,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "有島 武郎",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/umareizuru-nayami-by-takeo-arishima/",
+    "url_sound": "http://www.archive.org/download/umareizuru_nayami_ez_1302/umareizurunayami_9_arishima.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 629.504,
-        "series": "広報紙「きらり☆ にしよど」 音声版",
-        "album": null,
-        "title": "みんな集まれ!第12回えほん展 えほんとあそびのふわふわランド、そんなときにはマイナンバーカード、新たな大都市制度について",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 西淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 西淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/nishiyodogawa/cmsfiles/contents/0000485/485894/0102.wma",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 629.504,
+    "series": "広報紙「きらり☆ にしよど」 音声版",
+    "album": null,
+    "title": "みんな集まれ!第12回えほん展 えほんとあそびのふわふわランド、そんなときにはマイナンバーカード、新たな大都市制度について",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 西淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 西淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/nishiyodogawa/cmsfiles/contents/0000485/485894/0102.wma",
+    "status_annotation": null,
+    "note": ""
+  }
 }

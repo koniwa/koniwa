@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 224.4865,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "所得税・復興特別所得税、個人市・府民税の申告が始まります",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000458/458500/a000009.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 224.4865,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "所得税・復興特別所得税、個人市・府民税の申告が始まります",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000458/458500/a000009.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

@@ -1,20 +1,25 @@
 {
-    "author": "",
-    "description": "",
-    "license": "",
-    "main": "",
-    "name": "pyright-exec",
-    "scripts": {
-        "preinstall": "npx only-allow pnpm",
-        "pyright": "pyright"
-    },
-    "version": "1.0.0",
-    "devDependencies": {
-        "badge-maker": "^4.0.0",
-        "markdownlint-cli": "^0.41.0",
-        "pyright": "^1.1.368"
-    },
-    "engines": {
-        "npm": "Use pnpm instead of npm!"
-    }
+  "author": "",
+  "description": "",
+  "license": "",
+  "main": "",
+  "name": "pyright-exec",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "pyright": "pyright",
+    "format": "biome format --write",
+    "test:biome": "biome check",
+    "test:md": "markdownlint *.md",
+    "test": "run-s test:biome test:md"
+  },
+  "version": "1.0.0",
+  "devDependencies": {
+    "badge-maker": "^4.0.0",
+    "markdownlint-cli": "^0.41.0",
+    "pyright": "^1.1.368",
+    "npm-run-all": "^4.1.5"
+  },
+  "engines": {
+    "npm": "Use pnpm instead of npm!"
+  }
 }

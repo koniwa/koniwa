@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 585.038367,
-        "series": "LibriVox",
-        "album": null,
-        "title": "雁",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 1,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "森 鴎外",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/gan-by-ogai-mori/",
-        "url_sound": "http://www.archive.org/download/gan_1311_librivox/gan_01_mori_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 585.038367,
+    "series": "LibriVox",
+    "album": null,
+    "title": "雁",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 1,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "森 鴎外",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/gan-by-ogai-mori/",
+    "url_sound": "http://www.archive.org/download/gan_1311_librivox/gan_01_mori_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

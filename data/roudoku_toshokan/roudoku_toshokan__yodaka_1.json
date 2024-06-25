@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 347.37625,
-        "series": "朗読図書館",
-        "album": null,
-        "title": "よだかの星",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 1,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "池田 英生",
-        "license_sound": "CC BY 2.1 JP",
-        "licenser_text": "宮沢 賢治",
-        "license_text": "Public Domain",
-        "url": "",
-        "url_sound": "",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 347.37625,
+    "series": "朗読図書館",
+    "album": null,
+    "title": "よだかの星",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 1,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "池田 英生",
+    "license_sound": "CC BY 2.1 JP",
+    "licenser_text": "宮沢 賢治",
+    "license_text": "Public Domain",
+    "url": "",
+    "url_sound": "",
+    "status_annotation": null,
+    "note": ""
+  }
 }

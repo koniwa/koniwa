@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 138.5905,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "ひがしよどがわ新聞「こんにちは赤ちゃん訪問事業」 地域の中で、子どもたちが健やかに育つ環境づくりを!",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000471/471190/a000046.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 138.5905,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "ひがしよどがわ新聞「こんにちは赤ちゃん訪問事業」 地域の中で、子どもたちが健やかに育つ環境づくりを!",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000471/471190/a000046.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

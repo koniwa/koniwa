@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 1528.685714,
-        "series": "LibriVox",
-        "album": null,
-        "title": "恩讐の彼方に",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 3,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "菊池 寛",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/onsyuu-no-kanatani-by-kikuchi-kan/",
-        "url_sound": "http://www.archive.org/download/onsyuu_no_kanatani_1303_librivox/onsyuunokanatani_03_kikuchi.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 1528.685714,
+    "series": "LibriVox",
+    "album": null,
+    "title": "恩讐の彼方に",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 3,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "菊池 寛",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/onsyuu-no-kanatani-by-kikuchi-kan/",
+    "url_sound": "http://www.archive.org/download/onsyuu_no_kanatani_1303_librivox/onsyuunokanatani_03_kikuchi.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

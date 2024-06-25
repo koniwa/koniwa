@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 187.8745,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "2018生涯学習フェスティバル in 東淀川 防災フェアも同時開催します!",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000450/450148/a000035.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 187.8745,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "2018生涯学習フェスティバル in 東淀川 防災フェアも同時開催します!",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000450/450148/a000035.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

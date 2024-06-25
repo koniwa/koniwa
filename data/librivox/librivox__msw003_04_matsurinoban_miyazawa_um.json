@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 688.352653,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 003",
-        "title": "祭の晩",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "宮沢 賢治",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-003/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_003_1210_lv/msw003_04_matsurinoban_miyazawa_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 688.352653,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 003",
+    "title": "祭の晩",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "宮沢 賢治",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-003/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_003_1210_lv/msw003_04_matsurinoban_miyazawa_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

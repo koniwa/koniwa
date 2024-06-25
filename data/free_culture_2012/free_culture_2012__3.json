@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 989.973,
-        "series": "J-WAVE 360°",
-        "album": null,
-        "title": "360 Forum ~Seek and Find~",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 3,
-        "date": "2012-08-18",
-        "speaker": null,
-        "licenser_sound": "J-WAVE",
-        "license_sound": "CC BY 3.0",
-        "licenser_text": "J-WAVE",
-        "license_text": "CC BY 3.0",
-        "url": "",
-        "url_sound": "https://soundcloud.com/jwave360/360-forum-seek-and-find-vol-3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 989.973,
+    "series": "J-WAVE 360°",
+    "album": null,
+    "title": "360 Forum ~Seek and Find~",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 3,
+    "date": "2012-08-18",
+    "speaker": null,
+    "licenser_sound": "J-WAVE",
+    "license_sound": "CC BY 3.0",
+    "licenser_text": "J-WAVE",
+    "license_text": "CC BY 3.0",
+    "url": "",
+    "url_sound": "https://soundcloud.com/jwave360/360-forum-seek-and-find-vol-3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

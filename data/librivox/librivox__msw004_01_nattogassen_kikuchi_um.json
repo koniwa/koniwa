@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 614.791837,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 004",
-        "title": "納豆合戦",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "菊池 寛",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-004/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_004_1210_lv/msw004_01_nattogassen_kikuchi_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 614.791837,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 004",
+    "title": "納豆合戦",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "菊池 寛",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-004/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_004_1210_lv/msw004_01_nattogassen_kikuchi_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

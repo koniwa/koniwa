@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 449.6,
-        "series": "広報紙「きらり☆ にしよど」 音声版",
-        "album": null,
-        "title": "に~よんナビ、総合区・特別区ってなんだろう?",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 西淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 西淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/nishiyodogawa/cmsfiles/contents/0000452/452476/12.wma",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 449.6,
+    "series": "広報紙「きらり☆ にしよど」 音声版",
+    "album": null,
+    "title": "に~よんナビ、総合区・特別区ってなんだろう?",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 西淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 西淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/nishiyodogawa/cmsfiles/contents/0000452/452476/12.wma",
+    "status_annotation": null,
+    "note": ""
+  }
 }

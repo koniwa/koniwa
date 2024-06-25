@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 244.18525,
-        "series": "朗読図書館",
-        "album": null,
-        "title": "山月記",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 3,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "池田 英生",
-        "license_sound": "CC BY 2.1 JP",
-        "licenser_text": "中島 敦",
-        "license_text": "Public Domain",
-        "url": "",
-        "url_sound": "",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 244.18525,
+    "series": "朗読図書館",
+    "album": null,
+    "title": "山月記",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 3,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "池田 英生",
+    "license_sound": "CC BY 2.1 JP",
+    "licenser_text": "中島 敦",
+    "license_text": "Public Domain",
+    "url": "",
+    "url_sound": "",
+    "status_annotation": null,
+    "note": ""
+  }
 }

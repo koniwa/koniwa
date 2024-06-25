@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 224.49,
-        "series": "「広報みなと」 音声版",
-        "album": null,
-        "title": "区長コラム／ミナト百景／新型コロナウイルス感染症拡大防止のための避難場所について",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 港区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 港区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/minato/cmsfiles/contents/0000508/508424/2020_07_P8_01.wma",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 224.49,
+    "series": "「広報みなと」 音声版",
+    "album": null,
+    "title": "区長コラム／ミナト百景／新型コロナウイルス感染症拡大防止のための避難場所について",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 港区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 港区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/minato/cmsfiles/contents/0000508/508424/2020_07_P8_01.wma",
+    "status_annotation": null,
+    "note": ""
+  }
 }

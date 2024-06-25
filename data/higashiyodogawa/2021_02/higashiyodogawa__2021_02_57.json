@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 21.4825,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "「広報ひがしよどがわ」2月号は52,000部発行し、1部あたりの発行単価(配付費用含む)は約23円です(そのうち約4.1円を広告収入で賄っています)",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000526/526262/a000058.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 21.4825,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "「広報ひがしよどがわ」2月号は52,000部発行し、1部あたりの発行単価(配付費用含む)は約23円です(そのうち約4.1円を広告収入で賄っています)",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000526/526262/a000058.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

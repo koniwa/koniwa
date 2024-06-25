@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 668.682449,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 001",
-        "title": "蜘蛛の糸",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "tibimama",
-        "licenser_sound": "tibimama",
-        "license_sound": "Public Domain",
-        "licenser_text": "芥川 龍之介",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-001-by-various/",
-        "url_sound": "http://www.archive.org/download/mshortworks_001_1202_librivox/msw001_05_kumonoito_akutagawa_cs.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 668.682449,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 001",
+    "title": "蜘蛛の糸",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "tibimama",
+    "licenser_sound": "tibimama",
+    "license_sound": "Public Domain",
+    "licenser_text": "芥川 龍之介",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-001-by-various/",
+    "url_sound": "http://www.archive.org/download/mshortworks_001_1202_librivox/msw001_05_kumonoito_akutagawa_cs.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

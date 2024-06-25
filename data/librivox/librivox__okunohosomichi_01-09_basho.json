@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 740.448875,
-        "series": "LibriVox",
-        "album": null,
-        "title": "おくのほそ道",
-        "chapter_number": 1,
-        "chapter_name": "01-09",
-        "part": null,
-        "date": null,
-        "speaker": "kaseumin",
-        "licenser_sound": "kaseumin",
-        "license_sound": "Public Domain",
-        "licenser_text": "松尾 芭蕉",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/oku-no-hosomichi-by-matsuo-basho/",
-        "url_sound": "http://www.archive.org/download/oku_no_hosomichi_librivox/okunohosomichi_01-09_basho.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 740.448875,
+    "series": "LibriVox",
+    "album": null,
+    "title": "おくのほそ道",
+    "chapter_number": 1,
+    "chapter_name": "01-09",
+    "part": null,
+    "date": null,
+    "speaker": "kaseumin",
+    "licenser_sound": "kaseumin",
+    "license_sound": "Public Domain",
+    "licenser_text": "松尾 芭蕉",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/oku-no-hosomichi-by-matsuo-basho/",
+    "url_sound": "http://www.archive.org/download/oku_no_hosomichi_librivox/okunohosomichi_01-09_basho.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

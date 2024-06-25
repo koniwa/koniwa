@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 57.409,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "空家問題の解決にも、区役所で行っている専門相談(無料)もご活用ください",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000515/515516/a000068.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 57.409,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "空家問題の解決にも、区役所で行っている専門相談(無料)もご活用ください",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000515/515516/a000068.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

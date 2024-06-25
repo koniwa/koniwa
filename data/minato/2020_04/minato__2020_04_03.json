@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 375.42,
-        "series": "「広報みなと」 音声版",
-        "album": null,
-        "title": "特集号 地域の身近な活動に参加してみませんか?",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 港区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 港区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/minato/cmsfiles/contents/0000499/499213/2020_04_P4.wma",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 375.42,
+    "series": "「広報みなと」 音声版",
+    "album": null,
+    "title": "特集号 地域の身近な活動に参加してみませんか?",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 港区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 港区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/minato/cmsfiles/contents/0000499/499213/2020_04_P4.wma",
+    "status_annotation": null,
+    "note": ""
+  }
 }

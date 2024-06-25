@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 1176.732688,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 001",
-        "title": "羅生門",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "dill",
-        "licenser_sound": "dill",
-        "license_sound": "Public Domain",
-        "licenser_text": "芥川 龍之介",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-001-by-various/",
-        "url_sound": "http://www.archive.org/download/mshortworks_001_1202_librivox/msw001_03_rashomon_akutagawa_mt.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 1176.732688,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 001",
+    "title": "羅生門",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "dill",
+    "licenser_sound": "dill",
+    "license_sound": "Public Domain",
+    "licenser_text": "芥川 龍之介",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-001-by-various/",
+    "url_sound": "http://www.archive.org/download/mshortworks_001_1202_librivox/msw001_03_rashomon_akutagawa_mt.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

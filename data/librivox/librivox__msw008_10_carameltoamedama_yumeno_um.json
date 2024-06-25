@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 199.732245,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 008",
-        "title": "キャラメルと飴玉",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "夢野 久作",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-008/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_008_1306/msw008_10_carameltoamedama_yumeno_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 199.732245,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 008",
+    "title": "キャラメルと飴玉",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "夢野 久作",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-008/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_008_1306/msw008_10_carameltoamedama_yumeno_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

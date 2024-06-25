@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 592.143673,
-        "series": "LibriVox",
-        "album": null,
-        "title": "春の潮",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 10,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "伊藤 左千夫",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/haru-no-ushio-by-sachio-ito/",
-        "url_sound": "http://www.archive.org/download/haru_no_ushio_1305_librivox/harunoushio_10_ito.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 592.143673,
+    "series": "LibriVox",
+    "album": null,
+    "title": "春の潮",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 10,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "伊藤 左千夫",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/haru-no-ushio-by-sachio-ito/",
+    "url_sound": "http://www.archive.org/download/haru_no_ushio_1305_librivox/harunoushio_10_ito.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 674.638367,
-        "series": "LibriVox",
-        "album": null,
-        "title": "今戸心中",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 1,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "広津 柳浪",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/imado-shinjyuu-by-ryuro-hirotsu/",
-        "url_sound": "http://www.archive.org/download/imado_shinjyuu_1406_librivox/imadoshinjyuu_01_hirotsu_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 674.638367,
+    "series": "LibriVox",
+    "album": null,
+    "title": "今戸心中",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 1,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "広津 柳浪",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/imado-shinjyuu-by-ryuro-hirotsu/",
+    "url_sound": "http://www.archive.org/download/imado_shinjyuu_1406_librivox/imadoshinjyuu_01_hirotsu_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

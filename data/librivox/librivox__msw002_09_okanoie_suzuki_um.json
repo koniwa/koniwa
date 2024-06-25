@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 441.103673,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 002",
-        "title": "岡の家",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "鈴木 三重吉",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-002/",
-        "url_sound": "http://www.archive.org/download/multilingual_shortworks_002_librivox/msw002_09_okanoie_suzuki_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 441.103673,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 002",
+    "title": "岡の家",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "鈴木 三重吉",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-002/",
+    "url_sound": "http://www.archive.org/download/multilingual_shortworks_002_librivox/msw002_09_okanoie_suzuki_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

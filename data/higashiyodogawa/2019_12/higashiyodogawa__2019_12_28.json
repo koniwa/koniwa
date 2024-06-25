@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 85.5335,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "いざという時のために聞いて体験!!OSAKA(オオサカ)5GO!(ゴーゴー)WALK(ウオーク)で防災を学ぼう",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000486/486018/a000036.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 85.5335,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "いざという時のために聞いて体験!!OSAKA(オオサカ)5GO!(ゴーゴー)WALK(ウオーク)で防災を学ぼう",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000486/486018/a000036.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

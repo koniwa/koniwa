@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 341.812245,
-        "series": "LibriVox",
-        "album": null,
-        "title": "明暗",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 85,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "夏目漱石",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/meian-by-soseki-natsume/",
-        "url_sound": "http://www.archive.org/download/meian_1403_librivox/meian_085_natsume_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 341.812245,
+    "series": "LibriVox",
+    "album": null,
+    "title": "明暗",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 85,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "夏目漱石",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/meian-by-soseki-natsume/",
+    "url_sound": "http://www.archive.org/download/meian_1403_librivox/meian_085_natsume_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 1882.749388,
-        "series": "LibriVox",
-        "album": null,
-        "title": "二百十日",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 4,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "夏目漱石",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/nihyakutouka-by-natsume-soseki/",
-        "url_sound": "http://www.archive.org/download/nihyakutouka_ez_librivox/nihyakutouka_04_natsume.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 1882.749388,
+    "series": "LibriVox",
+    "album": null,
+    "title": "二百十日",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 4,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "夏目漱石",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/nihyakutouka-by-natsume-soseki/",
+    "url_sound": "http://www.archive.org/download/nihyakutouka_ez_librivox/nihyakutouka_04_natsume.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

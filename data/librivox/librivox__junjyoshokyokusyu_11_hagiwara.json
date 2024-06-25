@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 65.28,
-        "series": "LibriVox",
-        "album": null,
-        "title": "純情小曲集",
-        "chapter_number": 11,
-        "chapter_name": "濱邊",
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "萩原 朔太郎",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/junjyoshokyokusyu-by-sakutaro-hagiwara/",
-        "url_sound": "http://www.archive.org/download/junjyoshokyokusyu_ez_librivox/junjyoshokyokusyu_11_hagiwara.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 65.28,
+    "series": "LibriVox",
+    "album": null,
+    "title": "純情小曲集",
+    "chapter_number": 11,
+    "chapter_name": "濱邊",
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "萩原 朔太郎",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/junjyoshokyokusyu-by-sakutaro-hagiwara/",
+    "url_sound": "http://www.archive.org/download/junjyoshokyokusyu_ez_librivox/junjyoshokyokusyu_11_hagiwara.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

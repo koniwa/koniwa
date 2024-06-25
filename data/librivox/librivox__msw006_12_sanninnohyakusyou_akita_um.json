@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 1089.253878,
-        "series": "LibriVox",
-        "album": "LibriVox Multilingual Short Works Collection 006",
-        "title": "三人の百姓",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "秋田 雨雀",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-006/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_006_1303/msw006_12_sanninnohyakusyou_akita_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 1089.253878,
+    "series": "LibriVox",
+    "album": "LibriVox Multilingual Short Works Collection 006",
+    "title": "三人の百姓",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "秋田 雨雀",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-006/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_006_1303/msw006_12_sanninnohyakusyou_akita_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

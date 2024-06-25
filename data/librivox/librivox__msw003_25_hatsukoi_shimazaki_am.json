@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 77.113469,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 003",
-        "title": "初恋",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "magicrose",
-        "licenser_sound": "magicrose",
-        "license_sound": "Public Domain",
-        "licenser_text": "島崎 藤村",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-003/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_003_1210_lv/msw003_25_hatsukoi_shimazaki_am.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 77.113469,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 003",
+    "title": "初恋",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "magicrose",
+    "licenser_sound": "magicrose",
+    "license_sound": "Public Domain",
+    "licenser_text": "島崎 藤村",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-003/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_003_1210_lv/msw003_25_hatsukoi_shimazaki_am.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

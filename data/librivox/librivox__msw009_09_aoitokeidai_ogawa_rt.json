@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 598.857143,
-        "series": "LibriVox",
-        "album": "Multilingual Short Works Collection 009",
-        "title": "青い時計台",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ryoko",
-        "licenser_sound": "ryoko",
-        "license_sound": "Public Domain",
-        "licenser_text": "小川 未明",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/multilingual-short-works-collection-009-by-various/",
-        "url_sound": "http://www.archive.org/download/multilingual_short_works_collection_009_1310_librivox/msw009_09_aoitokeidai_ogawa_rt_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 598.857143,
+    "series": "LibriVox",
+    "album": "Multilingual Short Works Collection 009",
+    "title": "青い時計台",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ryoko",
+    "licenser_sound": "ryoko",
+    "license_sound": "Public Domain",
+    "licenser_text": "小川 未明",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/multilingual-short-works-collection-009-by-various/",
+    "url_sound": "http://www.archive.org/download/multilingual_short_works_collection_009_1310_librivox/msw009_09_aoitokeidai_ogawa_rt_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

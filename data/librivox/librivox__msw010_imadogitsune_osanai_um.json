@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 133.511837,
-        "series": "LibriVox",
-        "album": "Multilingual Short Works Collection 010",
-        "title": "今戸狐",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "小山内 薫",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/multilingual-short-works-collection-010-by-various/",
-        "url_sound": "http://www.archive.org/download/multilingual_short_works_collection_010_1312_librivox/msw010_imadogitsune_osanai_um_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 133.511837,
+    "series": "LibriVox",
+    "album": "Multilingual Short Works Collection 010",
+    "title": "今戸狐",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "小山内 薫",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/multilingual-short-works-collection-010-by-various/",
+    "url_sound": "http://www.archive.org/download/multilingual_short_works_collection_010_1312_librivox/msw010_imadogitsune_osanai_um_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 157.675102,
-        "series": "LibriVox",
-        "album": null,
-        "title": "仔牛",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "新美 南吉",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/yonen-dowa-by-nankichi-niimi/",
-        "url_sound": "http://www.archive.org/download/yonen_dowa1_um_librivox/yonendowa1_14_koushi_niimi.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 157.675102,
+    "series": "LibriVox",
+    "album": null,
+    "title": "仔牛",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "新美 南吉",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/yonen-dowa-by-nankichi-niimi/",
+    "url_sound": "http://www.archive.org/download/yonen_dowa1_um_librivox/yonendowa1_14_koushi_niimi.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

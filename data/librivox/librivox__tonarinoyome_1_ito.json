@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 850.625306,
-        "series": "LibriVox",
-        "album": null,
-        "title": "隣の嫁",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 1,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "伊藤 左千夫",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/tonari-no-yome-by-ito-sachio/",
-        "url_sound": "http://www.archive.org/download/tonari_no_yome_sachio_1305_lv/tonarinoyome_1_ito.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 850.625306,
+    "series": "LibriVox",
+    "album": null,
+    "title": "隣の嫁",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 1,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "伊藤 左千夫",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/tonari-no-yome-by-ito-sachio/",
+    "url_sound": "http://www.archive.org/download/tonari_no_yome_sachio_1305_lv/tonarinoyome_1_ito.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

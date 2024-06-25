@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 69.041633,
-        "series": "LibriVox",
-        "album": null,
-        "title": "萱草に寄す",
-        "chapter_number": 3,
-        "chapter_name": "晩き日の夕べに",
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "立原 道造",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/wasuregusaniyosu-by-michizou-tachihara/",
-        "url_sound": "http://www.archive.org/download/wasuregusaniyosu_1203_librivox/wasuregusaniyosu_03_tachihara.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 69.041633,
+    "series": "LibriVox",
+    "album": null,
+    "title": "萱草に寄す",
+    "chapter_number": 3,
+    "chapter_name": "晩き日の夕べに",
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "立原 道造",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/wasuregusaniyosu-by-michizou-tachihara/",
+    "url_sound": "http://www.archive.org/download/wasuregusaniyosu_1203_librivox/wasuregusaniyosu_03_tachihara.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

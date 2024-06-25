@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 818.337959,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 007",
-        "title": "普請中",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "森 鴎外",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-007/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_007_1304/msw007_01_fushinchuu_mori_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 818.337959,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 007",
+    "title": "普請中",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "森 鴎外",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-007/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_007_1304/msw007_01_fushinchuu_mori_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

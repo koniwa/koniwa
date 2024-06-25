@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 1121.227755,
-        "series": "LibriVox",
-        "album": "LibriVox 8th Anniversary Collection",
-        "title": "碁石を呑んだ八っちゃん",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "有島 武郎",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-8th-anniversary-collection/",
-        "url_sound": "http://www.archive.org/download/8thanniversary_1308_librivox/10_goishiwonondayattyan_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 1121.227755,
+    "series": "LibriVox",
+    "album": "LibriVox 8th Anniversary Collection",
+    "title": "碁石を呑んだ八っちゃん",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "有島 武郎",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-8th-anniversary-collection/",
+    "url_sound": "http://www.archive.org/download/8thanniversary_1308_librivox/10_goishiwonondayattyan_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

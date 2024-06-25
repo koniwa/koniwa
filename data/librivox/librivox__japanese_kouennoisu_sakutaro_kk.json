@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 101.21925,
-        "series": "LibriVox",
-        "album": "Multilingual Poetry Collection 001",
-        "title": "公園の椅子",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "kaseumin",
-        "licenser_sound": "kaseumin",
-        "license_sound": "Public Domain",
-        "licenser_text": "萩原 朔太郎",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/multilingual-poetry-collection-001/",
-        "url_sound": "http://www.archive.org/download/multilingual_poetry_collection_001_librivox/japanese_kouennoisu_sakutaro_kk.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 101.21925,
+    "series": "LibriVox",
+    "album": "Multilingual Poetry Collection 001",
+    "title": "公園の椅子",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "kaseumin",
+    "licenser_sound": "kaseumin",
+    "license_sound": "Public Domain",
+    "licenser_text": "萩原 朔太郎",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/multilingual-poetry-collection-001/",
+    "url_sound": "http://www.archive.org/download/multilingual_poetry_collection_001_librivox/japanese_kouennoisu_sakutaro_kk.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

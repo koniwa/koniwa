@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 90.1705,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "新しいことを始めてみたい方! 生涯学習ルーム紹介コーナーへお越しください",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000526/526262/a000018.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 90.1705,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "新しいことを始めてみたい方! 生涯学習ルーム紹介コーナーへお越しください",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000526/526262/a000018.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

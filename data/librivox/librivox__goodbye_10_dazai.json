@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 195.866122,
-        "series": "LibriVox",
-        "album": null,
-        "title": "グッド・バイ",
-        "chapter_number": 3,
-        "chapter_name": "怪力　（三）",
-        "part": 3,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "太宰 治",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/good-bye-by-osamu-dazai/",
-        "url_sound": "http://www.archive.org/download/good-bye_um_librivox/goodbye_10_dazai.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 195.866122,
+    "series": "LibriVox",
+    "album": null,
+    "title": "グッド・バイ",
+    "chapter_number": 3,
+    "chapter_name": "怪力　（三）",
+    "part": 3,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "太宰 治",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/good-bye-by-osamu-dazai/",
+    "url_sound": "http://www.archive.org/download/good-bye_um_librivox/goodbye_10_dazai.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

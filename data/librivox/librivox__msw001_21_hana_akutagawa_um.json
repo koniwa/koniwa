@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 1039.431375,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 001",
-        "title": "鼻",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "芥川 龍之介",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-001-by-various/",
-        "url_sound": "http://www.archive.org/download/mshortworks_001_1202_librivox/msw001_21_hana_akutagawa_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 1039.431375,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 001",
+    "title": "鼻",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "芥川 龍之介",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-001-by-various/",
+    "url_sound": "http://www.archive.org/download/mshortworks_001_1202_librivox/msw001_21_hana_akutagawa_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

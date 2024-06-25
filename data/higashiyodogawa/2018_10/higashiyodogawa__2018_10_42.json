@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 256.4185,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "すくすく子育て 地域のみんなで支える絆／休日保育／病児・病後児保育／一時保育・預かり事業",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000447/447581/a000050.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 256.4185,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "すくすく子育て 地域のみんなで支える絆／休日保育／病児・病後児保育／一時保育・預かり事業",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000447/447581/a000050.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

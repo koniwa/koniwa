@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 308.096,
-        "series": "広報紙「きらり☆ にしよど」 音声版",
-        "album": null,
-        "title": "に~よん模試、区長新年の挨拶、マイナンバーカード",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 西淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 西淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/nishiyodogawa/cmsfiles/contents/0000526/526275/2020-0101.wma",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 308.096,
+    "series": "広報紙「きらり☆ にしよど」 音声版",
+    "album": null,
+    "title": "に~よん模試、区長新年の挨拶、マイナンバーカード",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 西淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 西淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/nishiyodogawa/cmsfiles/contents/0000526/526275/2020-0101.wma",
+    "status_annotation": null,
+    "note": ""
+  }
 }

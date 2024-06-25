@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 127.2145,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "Hello!マタニティクラス(妊婦教室)／妊婦歯科健診／助産師による専門相談",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000481/481638/a000017.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 127.2145,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "Hello!マタニティクラス(妊婦教室)／妊婦歯科健診／助産師による専門相談",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000481/481638/a000017.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

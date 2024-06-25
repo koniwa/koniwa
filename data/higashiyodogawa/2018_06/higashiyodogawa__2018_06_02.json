@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 59.3545,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "特集 毎年6月は「食育月間」 毎月19日は「食育の日」 かしこく食べよう!ゲンキをつくろう!",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000435/435928/a000003.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 59.3545,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "特集 毎年6月は「食育月間」 毎月19日は「食育の日」 かしこく食べよう!ゲンキをつくろう!",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000435/435928/a000003.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

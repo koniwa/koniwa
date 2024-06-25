@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 649.926,
-        "series": "「広報みなと」 音声版",
-        "album": null,
-        "title": "食事バランスガイドを活用しよう!／区長コラム／健康通信／記事を動画で見てみよう／大阪~区~地域の魅力を世界に発信しよう など",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 港区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 港区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/minato/cmsfiles/contents/0000471/471818/minato_06_P12.wma",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 649.926,
+    "series": "「広報みなと」 音声版",
+    "album": null,
+    "title": "食事バランスガイドを活用しよう!／区長コラム／健康通信／記事を動画で見てみよう／大阪~区~地域の魅力を世界に発信しよう など",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 港区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 港区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/minato/cmsfiles/contents/0000471/471818/minato_06_P12.wma",
+    "status_annotation": null,
+    "note": ""
+  }
 }

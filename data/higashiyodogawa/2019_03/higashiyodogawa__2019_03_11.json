@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 86.9305,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "3月24日・31日(日曜日) 9:00~17:30は一部の窓口業務を行います",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000462/462449/a000012.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 86.9305,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "3月24日・31日(日曜日) 9:00~17:30は一部の窓口業務を行います",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000462/462449/a000012.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

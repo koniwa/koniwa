@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 483.73551,
-        "series": "LibriVox",
-        "album": null,
-        "title": "田舎教師",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 5,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "田山 花袋",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/inakakyoshi-by-katai-tayama/",
-        "url_sound": "http://www.archive.org/download/inakakyoshi_1311_librivox/inakakyoshi_05_tayama_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 483.73551,
+    "series": "LibriVox",
+    "album": null,
+    "title": "田舎教師",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 5,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "田山 花袋",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/inakakyoshi-by-katai-tayama/",
+    "url_sound": "http://www.archive.org/download/inakakyoshi_1311_librivox/inakakyoshi_05_tayama_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

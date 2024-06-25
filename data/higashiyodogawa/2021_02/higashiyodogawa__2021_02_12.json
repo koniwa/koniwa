@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 118.3225,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "戦没者等の遺族に対する特別弔慰金(第十一回特別弔慰金)の請求を受け付けています",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000526/526262/a000013.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 118.3225,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "戦没者等の遺族に対する特別弔慰金(第十一回特別弔慰金)の請求を受け付けています",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000526/526262/a000013.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

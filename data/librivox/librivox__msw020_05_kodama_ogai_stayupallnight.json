@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 549.01551,
-        "series": "LibriVox",
-        "album": "Multilingual Short Works Collection 020 - Poetry & Prose",
-        "title": "木精",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "stayupallnight",
-        "licenser_sound": "stayupallnight",
-        "license_sound": "Public Domain",
-        "licenser_text": "森 鴎外",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/multilingual-short-works-collection-020-poetry-prose-by-various/",
-        "url_sound": "http://www.archive.org/download/multilingual_short_works_020_poetry_prose_1810_librivox/msw020_05_kodama_ogai_stayupallnight_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 549.01551,
+    "series": "LibriVox",
+    "album": "Multilingual Short Works Collection 020 - Poetry & Prose",
+    "title": "木精",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "stayupallnight",
+    "licenser_sound": "stayupallnight",
+    "license_sound": "Public Domain",
+    "licenser_text": "森 鴎外",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/multilingual-short-works-collection-020-poetry-prose-by-various/",
+    "url_sound": "http://www.archive.org/download/multilingual_short_works_020_poetry_prose_1810_librivox/msw020_05_kodama_ogai_stayupallnight_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

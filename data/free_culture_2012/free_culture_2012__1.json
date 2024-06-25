@@ -1,2443 +1,2443 @@
 {
-    "annotation": [
-        {
-            "start": 7.65,
-            "end": 11.75,
-            "data": {
-                "text_level0": "J-WAVE 360 Forum ~Seek and Find~。",
-                "kana_level0": "ジェーウエーブスリーシックスティーフォーラムシークアンドファインド。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 12.45,
-            "end": 15.9,
-            "data": {
-                "text_level0": "8月のテーマはフリーカルチャー。",
-                "kana_level0": "ハチガツノテーマワフリーカルチャー。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 16.95,
-            "end": 17.65,
-            "data": {
-                "text_level0": "英語の",
-                "kana_level0": "エーゴノ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 18.17,
-            "end": 19.37,
-            "data": {
-                "text_level0": "F・R・E・E、",
-                "kana_level0": "エフ・アール・イー・イー、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 19.79,
-            "end": 21.96,
-            "data": {
-                "text_level0": "「フリー」には幅広い意味があります。",
-                "kana_level0": "「フリー」ニワハバヒロイイミガアリマス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 22.47,
-            "end": 23.36,
-            "data": {
-                "text_level0": "It's free.",
-                "kana_level0": "イッツフリー.",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 23.55,
-            "end": 26.19,
-            "data": {
-                "text_level0": "と言われれば、それは無料ですよという意味ですが、",
-                "kana_level0": "トイワレレバ、ソレワムリョーデスヨトユーイミデスガ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 26.35,
-            "end": 27.746736421127242,
-            "data": {
-                "text_level0": "Smoke free",
-                "kana_level0": "スモークフリー",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 27.76,
-            "end": 28.38,
-            "data": {
-                "text_level0": "は無煙、",
-                "kana_level0": "ワムエン、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 28.38,
-            "end": 29.77,
-            "data": {
-                "text_level0": "煙がないという意味。",
-                "kana_level0": "ケムリガナイトユーイミ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 30.25,
-            "end": 32.373974841900086,
-            "data": {
-                "text_level0": "無料でタバコが吸えますという意味じゃないですよ、",
-                "kana_level0": "ムリョーデタバコガスエマストユーイミジャナイデスヨ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 32.39,
-            "end": 32.66,
-            "data": {
-                "text_level0": "これ。",
-                "kana_level0": "コレ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 34.06,
-            "end": 35.14,
-            "data": {
-                "text_level0": "Free alcohol",
-                "kana_level0": "フリーアルコホール",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 35.32,
-            "end": 36.99,
-            "data": {
-                "text_level0": "と入り口に書いてあったらそれは",
-                "kana_level0": "トイリグチニカイテアッタラソレワ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 37.13,
-            "end": 39.64,
-            "data": {
-                "text_level0": "「今夜お酒は無料です」。",
-                "kana_level0": "「コンヤオサケワムリョーデス」。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 39.81,
-            "end": 40.38,
-            "data": {
-                "text_level0": "でも、",
-                "kana_level0": "デモ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 40.55,
-            "end": 41.64,
-            "data": {
-                "text_level0": "Alcohol free",
-                "kana_level0": "アルコホールフリー",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 41.64,
-            "end": 41.95,
-            "data": {
-                "text_level0": "なら",
-                "kana_level0": "ナラ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 42.39,
-            "end": 44.04,
-            "data": {
-                "text_level0": "アルコールゼロとか",
-                "kana_level0": "アルコールゼロトカ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 44.1,
-            "end": 46.58,
-            "data": {
-                "text_level0": "アルコールは出しませんという意味になります。",
-                "kana_level0": "アルコールワダシマセントユーイミニナリマス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 47.61,
-            "end": 47.98,
-            "data": {
-                "text_level0": "では",
-                "kana_level0": "デワ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 48.51,
-            "end": 49.53,
-            "data": {
-                "text_level0": "Free culture、",
-                "kana_level0": "フリーカルチャー、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 50.12,
-            "end": 51.95,
-            "data": {
-                "text_level0": "フリーカルチャーとは。",
-                "kana_level0": "フリーカルチャートワ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 53.57,
-            "end": 54.19,
-            "data": {
-                "text_level0": "先日",
-                "kana_level0": "センジツ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 54.74,
-            "end": 58.15,
-            "data": {
-                "text_level0": "フィルムアート社から「フリーカルチャーをつくるためのガイドブック」",
-                "kana_level0": "フィルムアートシャカラ「フリーカルチャーオツクルタメノガイドブック」",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 58.17,
-            "end": 59.56,
-            "data": {
-                "text_level0": "という本を出版された",
-                "kana_level0": "トユーホンオシュッパンサレタ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 60.07,
-            "end": 61.35,
-            "data": {
-                "text_level0": "NPO法人",
-                "kana_level0": "エヌピーオーホージン",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 61.43,
-            "end": 62.87,
-            "data": {
-                "text_level0": "クリエイティブ・コモンズ・ジャパン",
-                "kana_level0": "クリエーティブ・コモンズ・ジャパン",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 62.87,
-            "end": 63.2,
-            "data": {
-                "text_level0": "理事",
-                "kana_level0": "リジ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 63.71,
-            "end": 65.93,
-            "data": {
-                "text_level0": "ドミニク・チェンさんにお聞きました。",
-                "kana_level0": "ドミニク・チェンサンニオキキマシタ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 66.45,
-            "end": 67.11,
-            "data": {
-                "text_level0": "ドミニクさん、",
-                "kana_level0": "ドミニクサン、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 67.58,
-            "end": 70.02,
-            "data": {
-                "text_level0": "フリーカルチャーって何でしょうか?",
-                "kana_level0": "フリーカルチャーッテナンデショーカ?",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 71.24,
-            "end": 73.56,
-            "data": {
-                "text_level0": "フリーカルチャーってのは、直訳するとですね",
-                "kana_level0": "フリーカルチャーッテノワ、チョクヤクスルトデスネ",
-                "text_level2": "フリーカルチャーってのは、まあ、直訳するとですね",
-                "kana_level3": "フリーカルチャーッテノワ、マー、チョクヤクスルトデスネ",
-                "memo": ""
-            }
-        },
-        {
-            "start": 73.55,
-            "end": 75.61,
-            "data": {
-                "text_level0": "「自由な文化」っていう意味になります。",
-                "kana_level0": "「ジユーナブンカ」ッテユーイミニナリマス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 76.1,
-            "end": 76.32,
-            "data": {
-                "text_level0": "で、",
-                "kana_level0": "デ、",
-                "text_level2": "でー、",
-                "kana_level3": "デー、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 76.32,
-            "end": 77.64,
-            "data": {
-                "text_level0": "よくある誤解としては",
-                "kana_level0": "ヨクアルゴカイトシテワ",
-                "text_level2": "まあよくある誤解としては",
-                "kana_level3": "マー、ヨクアルゴカイトシテワ",
-                "memo": ""
-            }
-        },
-        {
-            "start": 77.64,
-            "end": 79.78,
-            "data": {
-                "text_level0": "英語でフリーって言った時に",
-                "kana_level0": "エーゴデフリーッテイッタトキニ",
-                "text_level2": "その英語でフリーって言った時に",
-                "kana_level3": "ソノエーゴデフリーッテイッタトキニ",
-                "memo": ""
-            }
-        },
-        {
-            "start": 79.78,
-            "end": 79.85,
-            "data": {
-                "text_level0": "",
-                "kana_level0": "",
-                "text_level2": "こう",
-                "kana_level3": "コー",
-                "memo": ""
-            }
-        },
-        {
-            "start": 79.87,
-            "end": 82.36,
-            "data": {
-                "text_level0": "「無料」っていうこと意味する「フリー」と",
-                "kana_level0": "「ムリョー」ッテユーコトイミスル「フリー」ト",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 82.58,
-            "end": 84.41,
-            "data": {
-                "text_level0": "「自由」ってこと意味する「フリー」に",
-                "kana_level0": "「ジユー」ッテコトイミスル「フリー」ニ",
-                "text_level2": "あと「自由」ってこと意味する「フリー」に",
-                "kana_level3": "アト「ジユー」ッテコトイミスル「フリー」ニ",
-                "memo": ""
-            }
-        },
-        {
-            "start": 84.4,
-            "end": 85.64,
-            "data": {
-                "text_level0": "2つに分かれるんですけども",
-                "kana_level0": "フタツニワカレルンデスケドモ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 85.67,
-            "end": 87.23,
-            "data": {
-                "text_level0": "最近日本だと",
-                "kana_level0": "サイキンニホンダト",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 87.29,
-            "end": 89.84,
-            "data": {
-                "text_level0": "どちらかというと、無料を意味するフリー",
-                "kana_level0": "ドチラカトイウト、ムリョーオイミスルフリー",
-                "text_level2": "どちらかというと、こう無料を意味するフリー",
-                "kana_level3": "ドチラカトイウト、コームリョーオイミスルフリー",
-                "memo": ""
-            }
-        },
-        {
-            "start": 90.05,
-            "end": 91.65,
-            "data": {
-                "text_level0": "という事の方が",
-                "kana_level0": "トユーコトノホーガ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 91.94,
-            "end": 93.41,
-            "data": {
-                "text_level0": "有名になっているのかなと。",
-                "kana_level0": "ユーメーニナッテイルノカナト。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 93.56,
-            "end": 94.11,
-            "data": {
-                "text_level0": "",
-                "kana_level0": "",
-                "text_level2": "でまあ",
-                "kana_level3": "デマー",
-                "memo": ""
-            }
-        },
-        {
-            "start": 94.13,
-            "end": 94.54791210019069,
-            "data": {
-                "text_level0": "そこで",
-                "kana_level0": "ソコデ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 94.55,
-            "end": 97.11,
-            "data": {
-                "text_level0": "無料じゃなくて自由っていう価値を",
-                "kana_level0": "ムリョージャナクテジユーッテユーカチオ",
-                "text_level2": "無料じゃなくてこう自由っていう価値を",
-                "kana_level3": "ムリョージャナクテコージユーッテユーカチオ",
-                "memo": ""
-            }
-        },
-        {
-            "start": 97.27,
-            "end": 99.27,
-            "data": {
-                "text_level0": "インターネットはもともと持っていて",
-                "kana_level0": "インターネットワモトモトモッテイテ",
-                "text_level2": "そのインターネットはもともと持っていて",
-                "kana_level3": "ソノインターネットワモトモトモッテイテ",
-                "memo": ""
-            }
-        },
-        {
-            "start": 99.66,
-            "end": 99.91,
-            "data": {
-                "text_level0": "",
-                "kana_level0": "",
-                "text_level2": "でー、",
-                "kana_level3": "デー、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 99.9,
-            "end": 102.32,
-            "data": {
-                "text_level0": "それを守ることこそが、今重要なんだ",
-                "kana_level0": "ソレオマモルコトコソガ、イマジューヨーナンダ",
-                "text_level2": "それを守ることこそが、あの今重要なんだ",
-                "kana_level3": "ソレオマモルコトコソガ、アノイマジューヨーナンダ",
-                "memo": ""
-            }
-        },
-        {
-            "start": 102.34,
-            "end": 105.19,
-            "data": {
-                "text_level0": "っていうことを主張したくて今回この本を書きました。",
-                "kana_level0": "ッテユーコトオシュチョーシタクテコンカイコノホンオカキマシタ。",
-                "text_level2": "っていうことを主張したくてまあ今回この本を書きました。",
-                "kana_level3": "ッテユーコトオシュチョーシタクテマーコンカイコノホンオカキマシタ。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 110.48,
-            "end": 114.2,
-            "data": {
-                "text_level0": "インターネット上の私たちみんなの自由。",
-                "kana_level0": "インターネットジョーノワタクシタチミンナノジユー。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 114.61,
-            "end": 115.89,
-            "data": {
-                "text_level0": "なるほどね。",
-                "kana_level0": "ナルホドネ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 116.0,
-            "end": 118.22,
-            "data": {
-                "text_level0": "インターネット、よく言われますよね。",
-                "kana_level0": "インターネット、ヨクイワレマスヨネ。",
-                "text_level2": "まあインターネット、よく言われますよね。",
-                "kana_level3": "マーインターネット、ヨクイワレマスヨネ。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 118.22,
-            "end": 120.86,
-            "data": {
-                "text_level0": "「私たちは常に監視されている」",
-                "kana_level0": "「ワタクシタチワツネニカンシサレテイル」",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 120.99,
-            "end": 121.86,
-            "data": {
-                "text_level0": "とか、",
-                "kana_level0": "トカ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 121.94,
-            "end": 124.66,
-            "data": {
-                "text_level0": "「私たちは意識が好みなども、",
-                "kana_level0": "「ワタクシタチワイシキガコノミナドモ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 124.67,
-            "end": 126.95,
-            "data": {
-                "text_level0": "ネットによってコントロールされている」。",
-                "kana_level0": "ネットニヨッテコントロールサレテイル」。",
-                "text_level2": "このネットによってコントロールされている」。",
-                "kana_level3": "コノネットニヨッテコントロールサレテイル」。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 127.35,
-            "end": 127.83,
-            "data": {
-                "text_level0": "",
-                "kana_level0": "",
-                "text_level2": "んー、",
-                "kana_level3": "ンー、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 127.86,
-            "end": 131.4,
-            "data": {
-                "text_level0": "ちょっと不穏な感じもします。",
-                "kana_level0": "チョットフオンナカンジモシマス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 131.48,
-            "end": 131.72,
-            "data": {
-                "text_level0": "けれど、",
-                "kana_level0": "ケレド、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 131.72,
-            "end": 134.6,
-            "data": {
-                "text_level0": "「インターネットとそれがもたらす世界というのは",
-                "kana_level0": "「インターネットトソレガモタラスセカイトユーノワ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 134.61,
-            "end": 139.37,
-            "data": {
-                "text_level0": "そもそもとても自由でフリーなマインドから始まっていたんだよ」と",
-                "kana_level0": "ソモソモトテモジユーデフリーナマインドカラハジマッテイタンダヨ」ト",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 139.4,
-            "end": 141.2,
-            "data": {
-                "text_level0": "ドミニクさんは語ります。",
-                "kana_level0": "ドミニクサンワカタリマス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 142.0,
-            "end": 145.7,
-            "data": {
-                "text_level0": "もともとフリーカルチャーの起源みたいなものを辿ってみると、",
-                "kana_level0": "モトモトフリーカルチャーノキゲンミタイナモノオタドッテミルト、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 145.7,
-            "end": 152.12,
-            "data": {
-                "text_level0": "アメリカの1970年代から1980年代にかけて起こった現象だったんですね。",
-                "kana_level0": "アメリカノセンキューヒャクナナジューネンダイカラセンキューヒャクハチジューネンダイニカケテオコッタゲンショーダッタンデスネ。",
-                "text_level2": "まあアメリカの1970年代から1980年代にかけて起こった現象だったんですね。",
-                "kana_level3": "マーアメリカノセンキューヒャクナナジューネンダイカラセンキューヒャクハチジューネンダイニカケテオコッタゲンショーダッタンデスネ。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 152.12,
-            "end": 156.68,
-            "data": {
-                "text_level0": "で、そもそもソフトウェアを作るっていう文化が非常にこう",
-                "kana_level0": "デ、ソモソモソフトウェアオツクルッテユーブンカガヒジョーニコー",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 156.68,
-            "end": 158.12,
-            "data": {
-                "text_level0": "自由な文化というか",
-                "kana_level0": "ジユーナブンカトイウカ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 158.12,
-            "end": 164.12,
-            "data": {
-                "text_level0": "アメリカの西海岸のヒッピーカルチャーとかそう言ったものを継承して、",
-                "kana_level0": "アメリカノニシカイガンノヒッピーカルチャートカソーイッタモノオケーショーシテ、",
-                "text_level2": "まあアメリカの西海岸のヒッピーカルチャーとかそう言ったものを、まあ継承して、",
-                "kana_level3": "マーアメリカノニシカイガンノヒッピーカルチャートカソーイッタモノオマーケーショーシテ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 164.2,
-            "end": 167.7,
-            "data": {
-                "text_level0": "で、とにかくエンジニアの人が作ったソフトウェアを、",
-                "kana_level0": "デ、トニカクエンジニアノヒトガツクッタソフトウェアオ、",
-                "text_level2": "で、とにかくこうエンジニアの人が作ったソフトウェアを、",
-                "kana_level3": "デ、トニカクコウエンジニアノヒトガツクッタソフトウェアオ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 167.75,
-            "end": 169.15,
-            "data": {
-                "text_level0": "みんなのものとして",
-                "kana_level0": "ミンナノモノトシテ",
-                "text_level2": "あの、みんなのものとして",
-                "kana_level3": "アノ、ミンナノモノトシテ",
-                "memo": ""
-            }
-        },
-        {
-            "start": 169.18,
-            "end": 170.11,
-            "data": {
-                "text_level0": "共有して",
-                "kana_level0": "キョーユーシテ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 170.12,
-            "end": 171.05,
-            "data": {
-                "text_level0": "しまいましょうと。",
-                "kana_level0": "シマイマショート。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 171.22,
-            "end": 172.9,
-            "data": {
-                "text_level0": "そういう文化があったんですね。",
-                "kana_level0": "ソーユーブンカガアッタンデスネ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 173.1,
-            "end": 173.75,
-            "data": {
-                "text_level0": "で、",
-                "kana_level0": "デ、",
-                "text_level2": "でー、",
-                "kana_level3": "デー、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 173.75,
-            "end": 175.0,
-            "data": {
-                "text_level0": "80年代になってくると、",
-                "kana_level0": "ハチジューネンダイニナッテクルト、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 175.0,
-            "end": 177.44,
-            "data": {
-                "text_level0": "そこに企業とかも入ってきて、",
-                "kana_level0": "ソコニキギョートカモハイッテキテ、",
-                "text_level2": "まあそこにこう企業とかも入ってきて、",
-                "kana_level3": "マーソコニキギョートカモハイッテキテ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 177.44,
-            "end": 178.7,
-            "data": {
-                "text_level0": "いやソフトウェアってのは",
-                "kana_level0": "イヤソフトウェアッテノワ",
-                "text_level2": "で、いやソフトウェアってのは",
-                "kana_level3": "デ、イヤソフトウェアッテノワ",
-                "memo": ""
-            }
-        },
-        {
-            "start": 178.7,
-            "end": 182.8,
-            "data": {
-                "text_level0": "もっとビジネスとして守っていかなきゃいけいけないということで、",
-                "kana_level0": "モットビジネストシテマモッテイカナキャイケイケナイトユーコトデ、",
-                "text_level2": "こうもっとビジネスとして守っていかなきゃいけいけないということで、",
-                "kana_level3": "コーモットビジネストシテマモッテイカナキャイケイケナイトユーコトデ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 182.8,
-            "end": 186.38,
-            "data": {
-                "text_level0": "お互いを自由に交換し合えなくなってきたと。",
-                "kana_level0": "オタガイオジユーニコーカンシアエナクナッテキタト。",
-                "text_level2": "えーお互いをこう自由に交換し合えなくなってきたと。",
-                "kana_level3": "エー、オタガイオジユーニコーカンシアエナクナッテキタト。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 186.38,
-            "end": 192.56,
-            "data": {
-                "text_level0": "で、そういう時に、いやその自由を守るべきだという人たちが立ち上がって起こったのがいわゆる",
-                "kana_level0": "デ、ソーユートキニ、イヤソノジユーオマモルベキダトユーヒトタチガタチアガッテオコッタノガイワユル",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 192.56,
-            "end": 195.5,
-            "data": {
-                "text_level0": "フリーソフトウェアの運動だったんですね。",
-                "kana_level0": "フリーソフトウェアノウンドーダッタンデスネ。",
-                "text_level2": "フリーソフトウェアの運動、えーだったんですね。",
-                "kana_level3": "フリーソフトウェアノウンドー、エー、ダッタンデスネ。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 195.56,
-            "end": 200.72,
-            "data": {
-                "text_level0": "で、そこで著作権というものが発生してしまって、",
-                "kana_level0": "デ、ソコデチョサクケントユーモノガハッセーシテシマッテ、",
-                "text_level2": "でー、そこでその著作権というものがまあ発生してしまって、",
-                "kana_level3": "デー、ソコデチョサクケントユーモノガハッセーシテシマッテ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 200.72,
-            "end": 205.2,
-            "data": {
-                "text_level0": "で、それを勝手にお互い使ってしまうと法律に反してしまうとか、",
-                "kana_level0": "デ、ソレオカッテニオタガイツカッテシマウトホーリツニハンシテシマウトカ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 205.2,
-            "end": 208.7,
-            "data": {
-                "text_level0": "あと企業に訴えられてしまうというような状況に対して、",
-                "kana_level0": "アトキギョーニウッタエラレテシマウトユーヨーナジョーキョーニタイシテ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 208.84,
-            "end": 211.4,
-            "data": {
-                "text_level0": "いやそこをこうシステム変えてしまうということで、",
-                "kana_level0": "イヤソコオコーシステムカエテシマウトユーコトデ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 211.4,
-            "end": 214.88,
-            "data": {
-                "text_level0": "新しい著作権の仕組みみたいなものが生み出されたと。",
-                "kana_level0": "アタラシーチョサクケンノシクミミタイナモノガウミダサレタト。",
-                "text_level2": "ま、新しい著作権の仕組みみたいなものが、まあ生み出されたと。",
-                "kana_level3": "マ、アタラシーチョサクケンノシクミミタイナモノガ、マーウミダサレタト。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 214.88,
-            "end": 219.08,
-            "data": {
-                "text_level0": "で、それはコピーレフトと呼ばれてたものだったんです。",
-                "kana_level0": "デ、ソレワコピーレフトトヨバレテタモノダッタンデス。",
-                "text_level2": "で、それはまあコピーレフトと呼ばれてた、えー、ものだったんです。",
-                "kana_level3": "デ、ソレワマーコピーレフトトヨバレテタ、エー、モノダッタンデス。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 219.08,
-            "end": 220.16,
-            "data": {
-                "text_level0": "で、コピーレフトっていうのが、",
-                "kana_level0": "デ、コピーレフトッテユーノガ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 220.16,
-            "end": 223.16,
-            "data": {
-                "text_level0": "コピーライトっていうのはつまり著作権のことなんです",
-                "kana_level0": "コピーライトッテユーノワツマリチョサクケンノコトナンデス",
-                "text_level2": "まあコピーライトっていうのはつまり著作権のことなんです",
-                "kana_level3": "マーコピーライトッテユーノワツマリチョサクケンノコトナンデス",
-                "memo": ""
-            }
-        },
-        {
-            "start": 223.16,
-            "end": 225.86,
-            "data": {
-                "text_level0": "けども、その反対語みたいなもので、",
-                "kana_level0": "ケドモ、ソノハンタイゴミタイナモノデ、",
-                "text_level2": "けども、まあその反対語みたいなもので、",
-                "kana_level3": "ケドモ、マーソノハンタイゴミタイナモノデ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 225.86,
-            "end": 228.9,
-            "data": {
-                "text_level0": "作った人が誰かっていうのは、もちろん守るんだけれども、",
-                "kana_level0": "ツクッタヒトガダレカッテユーノワ、モチロンマモルンダケレドモ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 229.2,
-            "end": 233.2,
-            "data": {
-                "text_level0": "それを誰でも自由に勝手に使っていいよ、と。",
-                "kana_level0": "ソレオダレデモジユーニカッテニツカッテイーヨ、ト。",
-                "text_level2": "えー、それを誰でも自由に勝手に使っていいよ、と。",
-                "kana_level3": "エー、ソレオダレデモジユーニカッテニツカッテイーヨ、ト。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 233.48,
-            "end": 235.2,
-            "data": {
-                "text_level0": "で、勝手に使っていいんだけれども、",
-                "kana_level0": "デ、カッテニツカッテイーンダケレドモ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 235.5,
-            "end": 237.28,
-            "data": {
-                "text_level0": "その勝手に使った結果、",
-                "kana_level0": "ソノカッテニツカッタケッカ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 237.29,
-            "end": 240.82,
-            "data": {
-                "text_level0": "新しく生み出されたものに対しても同じ条件がついて、",
-                "kana_level0": "アタラシクウミダサレタモノニタイシテモオナジジョーケンガツイテ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 241.0,
-            "end": 242.0,
-            "data": {
-                "text_level0": "で、そうするとこう",
-                "kana_level0": "デ、ソースルトコー",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 242.0,
-            "end": 245.5,
-            "data": {
-                "text_level0": "何世代にも渡って改変されていったものが、",
-                "kana_level0": "ナンセダイニモワタッテカイヘンサレテイッタモノガ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 245.5,
-            "end": 250.46,
-            "data": {
-                "text_level0": "どの段階で切り取っても同じ自由度で誰でも使っていいという状態にするということで、",
-                "kana_level0": "ドノダンカイデキリトッテモオナジジユードデダレデモツカッテイートユージョータイニスルトユーコトデ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 250.46,
-            "end": 252.56,
-            "data": {
-                "text_level0": "だから言ってしまうと、",
-                "kana_level0": "ダカライッテシマウト、",
-                "text_level2": "ま、だから言ってしまうと、",
-                "kana_level3": "マ、ダカライッテシマウト、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 252.56,
-            "end": 258.6,
-            "data": {
-                "text_level0": "法律の世界に対して別の法律をぶつけて新しい世界を作りましょうということがありました。",
-                "kana_level0": "ホーリツノセカイニタイシテベツノホーリツオブツケテアタラシーセカイオツクリマショートユーコトガアリマシタ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 261.87,
-            "end": 262.04,
-            "data": {
-                "text_level0": "",
-                "kana_level0": "",
-                "text_level2": "ねえ",
-                "kana_level3": "ネー",
-                "memo": ""
-            }
-        },
-        {
-            "start": 262.04,
-            "end": 266.5,
-            "data": {
-                "text_level0": "コピーライトに対してコピーレフト、これいいですね。",
-                "kana_level0": "コピーライトニタイシテコピーレフト、コレイーデスネ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 266.5,
-            "end": 271.9,
-            "data": {
-                "text_level0": "そして新しい世界を作ろうというその発想、スピリット、これもいいですよね。",
-                "kana_level0": "ソシテアタラシーセカイオツクロートユーソノハッソー、スピリット、コレモイーデスヨネ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 271.88,
-            "end": 273.5,
-            "data": {
-                "text_level0": "そういうマインドこそ、",
-                "kana_level0": "ソーユーマインドコソ、",
-                "text_level2": "まあ、そういうマインドこそ、",
-                "kana_level3": "マー、ソーユーマインドコソ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 273.5,
-            "end": 278.3,
-            "data": {
-                "text_level0": "私たち今を生きるジェネレーションが、やっぱり大切にしたいことですよね。",
-                "kana_level0": "ワタクシタチイマオイキルジェネレーションガ、ヤッパリタイセツニシタイコトデスヨネ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 278.72,
-            "end": 280.5,
-            "data": {
-                "text_level0": "でも、そんなフリーマインド、",
-                "kana_level0": "デモ、ソンナフリーマインド、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 280.5,
-            "end": 286.3,
-            "data": {
-                "text_level0": "フリースピリットなネットカルチャーが、今、少しずつ変化しているようです。",
-                "kana_level0": "フリースピリットナネットカルチャーガ、イマ、スコシズツヘンカシテイルヨーデス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 459.38,
-            "end": 463.2,
-            "data": {
-                "text_level0": "J-WAVE 360 Forum ~Seek and Find~。",
-                "kana_level0": "ジェーウエーブスリーシックスティーフォーラムシークアンドファインド。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 463.32,
-            "end": 467.32,
-            "data": {
-                "text_level0": "今月のテーマはフリーカルチャー。",
-                "kana_level0": "コンゲツノテーマワフリーカルチャー。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 468.0,
-            "end": 475.2,
-            "data": {
-                "text_level0": "そもそも1960年代に、こういったフリーという思想・発想がアメリカで大きく芽生えました。",
-                "kana_level0": "ソモソモセンキューヒャクロクジューネンダイニ、コーイッタフリートユーシソー・ハッソーガアメリカデオーキクメバエマシタ。",
-                "text_level2": "そもそも1960年代に、ま、こういったフリーという思想・発想がアメリカで大きく芽生えました。",
-                "kana_level3": "ソモソモセンキューヒャクロクジューネンダイニ、マ、コーイッタフリートユーシソー・ハッソーガアメリカデオーキクメバエマシタ。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 475.94,
-            "end": 477.9,
-            "data": {
-                "text_level0": "ボブディランはそれは歌にしました。",
-                "kana_level0": "ボブディランワソレワウタニシマシタ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 478.28,
-            "end": 482.7,
-            "data": {
-                "text_level0": "グレイトフルデッドは、それをバンドとファン、1つになって体現しました。",
-                "kana_level0": "グレートフルデッドワ、ソレオバンドトファン、ヒトツニナッテタイゲンシマシタ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 483.56,
-            "end": 487.1,
-            "data": {
-                "text_level0": "フリーカルチャーの起源はグレイトフルデッドとそのファンである。",
-                "kana_level0": "フリーカルチャーノキゲンワグレートフルデッドトソノファンデアル。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 487.1,
-            "end": 489.56,
-            "data": {
-                "text_level0": "そう語るジャーナリスト・評論家もいます。",
-                "kana_level0": "ソーカタルジャーナリスト・ヒョーロンカモイマス。",
-                "text_level2": "ま、そう語るジャーナリスト・評論家もいます。",
-                "kana_level3": "マ、ソーカタルジャーナリスト・ヒョーロンカモイマス。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 490.7,
-            "end": 495.14,
-            "data": {
-                "text_level0": "やがて1968年、サマーオブラブがあり、",
-                "kana_level0": "ヤガテセンキューヒャクロクジューハチネン、サマーオブラブガアリ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 495.14,
-            "end": 496.34,
-            "data": {
-                "text_level0": "ヒッピームーブメント、",
-                "kana_level0": "ヒッピームーブメント、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 496.34,
-            "end": 499.3,
-            "data": {
-                "text_level0": "フラワーチルドレンという大きな花が開き、",
-                "kana_level0": "フラワーチルドレントユーオーキナハナガヒラキ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 499.3,
-            "end": 504.6,
-            "data": {
-                "text_level0": "そして1969年のウッドストックによって1つの季節が終わりました。",
-                "kana_level0": "ソシテセンキューヒャクロクジュークネンノウッドストックニヨッテヒトツノキセツガオワリマシタ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 505.52,
-            "end": 511.1,
-            "data": {
-                "text_level0": "ウッドストックを経験した世代は、1970年代カリフォルニアを目指しました。",
-                "kana_level0": "ウッドストックオケーケンシタセダイワ、センキューヒャクナナジューネンダイカリフォルニアオメザシマシタ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 511.4,
-            "end": 515.8,
-            "data": {
-                "text_level0": "そして、その一部の人々がシリコンバレー王国を作り上げていきます。",
-                "kana_level0": "ソシテ、ソノイチブノヒトビトガシリコンバレーオーコクオツクリアゲテイキマス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 516.2,
-            "end": 520.58,
-            "data": {
-                "text_level0": "そう、アップルコンピューターもそんな世界の片隅で生まれました。",
-                "kana_level0": "ソー、アップルコンピューターモソンナセカイノカタスミデウマレマシタ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 521.5,
-            "end": 527.36,
-            "data": {
-                "text_level0": "こういった流れのソース、源に、常にあったのがフリーであること。",
-                "kana_level0": "コーイッタナガレノソース、ミナモトニ、ツネニアッタノガフリーデアルコト。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 527.36,
-            "end": 528.2,
-            "data": {
-                "text_level0": "つまり、",
-                "kana_level0": "ツマリ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 528.2,
-            "end": 534.8,
-            "data": {
-                "text_level0": "誰もが自由に、有意義に共有しようよという、ピースフルな考え方です。",
-                "kana_level0": "ダレモガジユーニ、ユーイギニキョーユーシヨーヨトイウ、ピースフルナカンガエカタデス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 536.0,
-            "end": 539.9,
-            "data": {
-                "text_level0": "フリーカルチャーというのはこのように20世紀のアメリカから続く、",
-                "kana_level0": "フリーカルチャートユーノワコノヨーニニジュッセーキノアメリカカラツズク、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 539.9,
-            "end": 543.3,
-            "data": {
-                "text_level0": "音楽や文化のヒストリーの上にある言葉であり、",
-                "kana_level0": "オンガクヤブンカノヒストリーノウエニアルコトバデアリ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 543.3,
-            "end": 544.7,
-            "data": {
-                "text_level0": "マインドだったんですね。",
-                "kana_level0": "マインドダッタンデスネ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 545.48,
-            "end": 548.6,
-            "data": {
-                "text_level0": "そして、このマインドは私たちが毎日というか、",
-                "kana_level0": "ソシテ、コノマインドワワタクシタチガマイニチトイウカ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 548.6,
-            "end": 554.6,
-            "data": {
-                "text_level0": "ほぼ毎分のように触れているインターネットというものにまっすぐ繋がっていきます。",
-                "kana_level0": "ホボマイフンノヨーニフレテイルインターネットトユーモノニマッスグツナガッテイキマス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 555.74,
-            "end": 558.44,
-            "data": {
-                "text_level0": "90年代に入ると今度Linuxっていう",
-                "kana_level0": "キュージューネンダイニハイルトコンドリナックスッテユー",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 558.44,
-            "end": 561.14,
-            "data": {
-                "text_level0": "今も世界中で使われている、",
-                "kana_level0": "イマモセカイジューデツカワレテイル、",
-                "text_level2": "まあ今も世界中で使われている、",
-                "kana_level3": "マーイマモセカイジューデツカワレテイル、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 561.14,
-            "end": 564.2,
-            "data": {
-                "text_level0": "例えばウェブページとか皆さん見てると思うんですけども、",
-                "kana_level0": "タトエバウェブページトカミナサンミテルトオモウンデスケドモ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 564.2,
-            "end": 569.78,
-            "data": {
-                "text_level0": "大体Webページを動かしてるメインのソフトってLinuxなんですね。",
-                "kana_level0": "ダイタイウェブページオウゴカシテルメインノソフトッテリナックスナンデスネ。",
-                "text_level2": "まあ、大体Webページを動かしてるメインのソフトってLinuxなんですね。",
-                "kana_level3": "マー、ダイタイウェブページオウゴカシテルメインノソフトッテリナックスナンデスネ。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 569.78,
-            "end": 573.22,
-            "data": {
-                "text_level0": "で、まあそれぐらい世界に浸透しているものがあって、で、",
-                "kana_level0": "デ、マーソレグライセカイニシントーシテイルモノガアッテ、デ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 573.22,
-            "end": 575.5,
-            "data": {
-                "text_level0": "それはもともとフリーソフトウェアだったんです。",
-                "kana_level0": "ソレワモトモトフリーソフトウェアダッタンデス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 575.48,
-            "end": 577.1,
-            "data": {
-                "text_level0": "で、",
-                "kana_level0": "デ、",
-                "text_level2": "で、あのー、",
-                "kana_level3": "デ、アノー、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 577.1,
-            "end": 581.4,
-            "data": {
-                "text_level0": "最初は北欧のリーナス・トーバルズという1人が作ってたのを",
-                "kana_level0": "サイショワホクオーノリーナス・トーバルズトユーヒトリガツクッテタノオ",
-                "text_level2": "まあ最初は北欧のリーナス・トーバルズていう1人が作ってたのを",
-                "kana_level3": "マーサイショワホクオーノリーナス・トーバルズトユーヒトリガツクッテタノオ",
-                "memo": ""
-            }
-        },
-        {
-            "start": 581.4,
-            "end": 584.84,
-            "data": {
-                "text_level0": "このタイトルをバーンと公開してこんなもん作ってんだけど、",
-                "kana_level0": "コノタイトルオバーントコーカイシテコンナモンツクッテンダケド、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 584.84,
-            "end": 585.62,
-            "data": {
-                "text_level0": "みんなどう思う？",
-                "kana_level0": "ミンナドーオモウ？",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 585.62,
-            "end": 589.7,
-            "data": {
-                "text_level0": "みたいな、今で言うと作ってみた系の走りですね。",
-                "kana_level0": "ミタイナ、イマデユートツクッテミタケーノハシリデスネ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 589.7,
-            "end": 592.9,
-            "data": {
-                "text_level0": "で、そしたら世界中のエンジニアたちが集まってきて、",
-                "kana_level0": "デ、ソシタラセカイチューノエンジニアタチガアツマッテキテ、",
-                "text_level2": "で、そしたら世界中のそのエンジニアたちが集まってきて、",
-                "kana_level3": "デ、ソシタラセカイチューノソノエンジニアタチガアツマッテキテ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 592.9,
-            "end": 594.98,
-            "data": {
-                "text_level0": "メールでやり取りをして、",
-                "kana_level0": "メールデヤリトリオシテ、",
-                "text_level2": "まあメールでやり取りをして、",
-                "kana_level3": "マーメールデヤリトリオシテ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 594.98,
-            "end": 597.56,
-            "data": {
-                "text_level0": "で、いやここはこうした方がいいんじゃないかみたいな。",
-                "kana_level0": "デ、イヤココワコーシタホーガイーンジャナイカミタイナ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 597.56,
-            "end": 599.0,
-            "data": {
-                "text_level0": "俺だったらこうするみたいな。",
-                "kana_level0": "オレダッタラコースルミタイナ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 599.0,
-            "end": 602.42,
-            "data": {
-                "text_level0": "で、どんどんどんどん1人じゃできないレベルにまでこう",
-                "kana_level0": "デ、ドンドンドンドンヒトリジャデキナイレベルニマデコー",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 602.4303997512255,
-            "end": 605.1103997512256,
-            "data": {
-                "text_level0": "ソフトウェアが広がっていったと、成長していったと。",
-                "kana_level0": "ソフトウェアガヒロガッテイッタト、セーチョーシテイッタト。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 605.1,
-            "end": 608.15,
-            "data": {
-                "text_level0": "で、世界を変えてしまうところまでいった。",
-                "kana_level0": "デ、セカイオカエテシマウトコロマデイッタ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 608.18,
-            "end": 610.5,
-            "data": {
-                "text_level0": "で、それがソフトウェアの世界だったんですね。",
-                "kana_level0": "デ、ソレガソフトウェアノセカイダッタンデスネ。",
-                "text_level2": "で、それがまあソフトウェアの世界だったんですね。",
-                "kana_level3": "デ、ソレガマーソフトウェアノセカイダッタンデスネ。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 610.52,
-            "end": 615.5,
-            "data": {
-                "text_level0": "で、それから90年代末から2000年代初頭にかけて",
-                "kana_level0": "デ、ソレカラキュージューネンダイマツカラニセンネンダイショトーニカケテ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 615.6,
-            "end": 617.4,
-            "data": {
-                "text_level0": "今度、こうインターネットっていうものに、",
-                "kana_level0": "コンド、コーインターネットッテユーモノニ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 617.4,
-            "end": 619.34,
-            "data": {
-                "text_level0": "あの、みんながアクセスするようになった。",
-                "kana_level0": "アノ、ミンナガアクセススルヨーニナッタ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 619.34,
-            "end": 623.4,
-            "data": {
-                "text_level0": "で、それは本当にもう子供からおじいちゃんまで、こうアクセスするようになってきて、",
-                "kana_level0": "デ、ソレワホントニモーコドモカラオジーチャンマデ、コーアクセススルヨーニナッテキテ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 623.4,
-            "end": 623.84,
-            "data": {
-                "text_level0": "",
-                "kana_level0": "",
-                "text_level2": "まあ、",
-                "kana_level3": "マー、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 623.84,
-            "end": 626.72,
-            "data": {
-                "text_level0": "そうすると今度そのソフトウェアだけじゃなくて、",
-                "kana_level0": "ソースルトコンドソノソフトウェアダケジャナクテ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 626.8,
-            "end": 631.42,
-            "data": {
-                "text_level0": "例えばその文章だったり画像だったり、音楽・映像といった、",
-                "kana_level0": "タトエバソノブンショーダッタリガゾーダッタリ、オンガク・エーゾートイッタ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 631.56,
-            "end": 633.38,
-            "data": {
-                "text_level0": "本当にみんなが作るものが、",
-                "kana_level0": "ホントニミンナガツクルモノガ、",
-                "text_level2": "まあ、本当にみんなが作るものが、",
-                "kana_level3": "マー、ホントニミンナガツクルモノガ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 633.38,
-            "end": 635.9,
-            "data": {
-                "text_level0": "どんどんどんどんインターネットにアップされていって、",
-                "kana_level0": "ドンドンドンドンインターネットニアップサレテイッテ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 636.14,
-            "end": 640.64,
-            "data": {
-                "text_level0": "そこでまたその著作権の問題っていうのが再燃してしまったと。",
-                "kana_level0": "ソコデマタソノチョサクケンノモンダイッテユーノガサイネンシテシマッタト。",
-                "text_level2": "で、そこでまたその著作権の問題っていうのが再燃してしまったと。",
-                "kana_level3": "デ、ソコデマタソノチョサクケンノモンダイッテユーノガサイネンシテシマッタト。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 640.76,
-            "end": 644.5,
-            "data": {
-                "text_level0": "そういう時に、じゃあそのソフトウェアだけじゃなくて、",
-                "kana_level0": "ソーユートキニ、ジャーソノソフトウェアダケジャナクテ、",
-                "text_level2": "で、そういう時に、じゃあそのソフトウェアだけじゃなくて、",
-                "kana_level3": "デ、ソーユートキニ、ジャーソノソフトウェアダケジャナクテ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 644.5,
-            "end": 645.7,
-            "data": {
-                "text_level0": "そういうコンテンツ、",
-                "kana_level0": "ソーユーコンテンツ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 645.7,
-            "end": 651.92,
-            "data": {
-                "text_level0": "その作品の世界をフリーにする自由にするっていうことが必要だという話が出てきて、",
-                "kana_level0": "ソノサクヒンノセカイオフリーニスルジユーニスルッテユーコトガヒツヨーダトユーハナシガデテキテ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 651.92,
-            "end": 652.8,
-            "data": {
-                "text_level0": "生まれたのが、",
-                "kana_level0": "ウマレタノガ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 652.8,
-            "end": 657.2,
-            "data": {
-                "text_level0": "フリーカルチャーと総称する、大きな運動なんですね。",
-                "kana_level0": "フリーカルチャートソーショースル、オーキナウンドーナンデスネ。",
-                "text_level2": "フリーカルチャーと総称する、おっきな運動なんですね。",
-                "kana_level3": "フリーカルチャートソーショースル、オッキナナウンドーナンデスネ。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 658.88,
-            "end": 661.1,
-            "data": {
-                "text_level0": "フリーカルチャームーブメント。",
-                "kana_level0": "フリーカルチャームーブメント。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 661.1,
-            "end": 664.7,
-            "data": {
-                "text_level0": "これ私達全員この大きな渦の中にいます。",
-                "kana_level0": "コレワタクシタチゼンインコノオーキナウズノナカニイマス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 665.78,
-            "end": 670.7,
-            "data": {
-                "text_level0": "私たちは毎日、そのフリーカルチャーにとてもお世話になっているからです。",
-                "kana_level0": "ワタクシタチワマイニチ、ソノフリーカルチャーニトテモオセワニナッテイルカラデス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 674.66,
-            "end": 680.18,
-            "data": {
-                "text_level0": "一番有名な事例って言うと、例えばWikipediaっていうオンライン百科事典があります。",
-                "kana_level0": "イチバンユーメーナジレーッテユート、タトエバウィキペディアッテユーオンラインヒャッカジテンガアリマス。",
-                "text_level2": "一番有名な、あの事例って言うと、例えばWikipediaっていうオンライン百科事典があります。",
-                "kana_level3": "イチバンユーメーナアノジレーッテユート、タトエバウィキペディアッテユーオンラインヒャッカジテンガアリマス。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 680.18,
-            "end": 681.7,
-            "data": {
-                "text_level0": "皆さんご存知だと思います。",
-                "kana_level0": "ミナサンゴゾンジダトオモイマス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 682.0,
-            "end": 682.28,
-            "data": {
-                "text_level0": "で、",
-                "kana_level0": "デ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 682.28,
-            "end": 688.64,
-            "data": {
-                "text_level0": "Wikipediaっていうのは全世界で数百万件の百科事典の記事からなってるんですけども、",
-                "kana_level0": "ウィキペディアッテユーノワゼンセカイデスーヒャクマンケンノヒャッカジテンノキジカラナッテルンデスケドモ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 688.64,
-            "end": 695.3,
-            "data": {
-                "text_level0": "実はこの全ての記事に対して、クリエイティブ・コモンズ・ライセンスというフリーのライセンスがついていて、",
-                "kana_level0": "ジツワコノスベテノキジニタイシテ、クリエーティブ・コモンズ・ライセンストユーフリーノライセンスガツイテイテ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 695.8,
-            "end": 697.7,
-            "data": {
-                "text_level0": "それはどういうこと意味するかというと、",
-                "kana_level0": "ソレワドーユーコトイミスルカトイウト、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 697.7,
-            "end": 700.4,
-            "data": {
-                "text_level0": "そのWikipediaに書いてある記事っていうのは、ただこう",
-                "kana_level0": "ソノウィキペディアニカイテアルキジッテユーノワ、タダコー",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 700.4,
-            "end": 702.08,
-            "data": {
-                "text_level0": "受け取って読めるよ。",
-                "kana_level0": "ウケトッテヨメルヨ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 702.08,
-            "end": 703.19,
-            "data": {
-                "text_level0": "っていうだけじゃなくて、",
-                "kana_level0": "ッテユーダケジャナクテ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 703.42,
-            "end": 705.29,
-            "data": {
-                "text_level0": "誰でもその内容を例えば",
-                "kana_level0": "ダレデモソノナイヨーオタトエバ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 705.29,
-            "end": 707.03,
-            "data": {
-                "text_level0": "違う言語に翻訳したり",
-                "kana_level0": "チガウゲンゴニホンヤクシタリ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 707.08,
-            "end": 709.8,
-            "data": {
-                "text_level0": "それを引用して例えば本を書いたり、",
-                "kana_level0": "ソレオインヨーシテタトエバホンオカイタリ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 709.9,
-            "end": 714.74,
-            "data": {
-                "text_level0": "とにかくそのWikipediaっていう場所にあるもの使って新しいものを作っていいんだよ。",
-                "kana_level0": "トニカクソノウィキペディアッテユーバショニアルモノツカッテアタラシーモノオツクッテイーンダヨ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 714.74,
-            "end": 718.6,
-            "data": {
-                "text_level0": "っていう、そういう文化を発信してるんですね。",
-                "kana_level0": "ッテユー、ソーユーブンカオハッシンシテルンデスネ。",
-                "text_level2": "っていう、あのそういう文化を発信してるんですね。",
-                "kana_level3": "ッテユー、アノソーユーブンカオハッシンシテルンデスネ。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 718.6,
-            "end": 721.05,
-            "data": {
-                "text_level0": "YouTubeっていう、動画共有サイト、",
-                "kana_level0": "ユーチューブッテユー、ドーガキョーユーサイト、",
-                "text_level2": "YouTubeっていう、あの、動画共有サイト、",
-                "kana_level3": "ユーチューブッテユー、アノ、ドーガキョーユーサイト、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 721.05,
-            "end": 723.0,
-            "data": {
-                "text_level0": "皆さん知ってると思いますけども、",
-                "kana_level0": "ミナサンシッテルトオモイマスケドモ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 723.0,
-            "end": 729.7,
-            "data": {
-                "text_level0": "YouTubeも実は昨年2011年6月からクリエイティブ・コモンズ・ライセンスを選べるようになっている。",
-                "kana_level0": "ユーチューブモジツワサクネンニセンジューイチネンロクガツカラクリエーティブ・コモンズ・ライセンスオエラベルヨーニナッテイル。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 729.7,
-            "end": 731.6,
-            "data": {
-                "text_level0": "それは、どういうことを意味するかというと、",
-                "kana_level0": "ソレワ、ドーユーコトオイミスルカトイウト、",
-                "text_level2": "それどういうことを意味するかというと、",
-                "kana_level3": "ソレ、ドーユーコトオイミスルカトイウト、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 731.6,
-            "end": 740.78,
-            "data": {
-                "text_level0": "YouTubeに投稿されてる動画の中から、そのクリエイティブ・コモンズ・ライセンスがついてる動画を検索できるようになっていて、",
-                "kana_level0": "ユーチューブニトーコーサレテルドーガノナカカラ、ソノクリエーティブ・コモンズ・ライセンスガツイテルドーガオケンサクデキルヨーニナッテイテ、",
-                "text_level2": "えー、YouTubeに投稿されてる動画の中から、そのクリエイティブ・コモンズ・ライセンスがついてる動画を検索できるようになっていて、",
-                "kana_level3": "エー、ユーチューブニトーコーサレテルドーガノナカカラ、ソノクリエーティブ・コモンズ・ライセンスガツイテルドーガオケンサクデキルヨーニナッテイテ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 740.78,
-            "end": 743.4,
-            "data": {
-                "text_level0": "それをいわゆるマッシュアップ、",
-                "kana_level0": "ソレオイワユルマッシュアップ、",
-                "text_level2": "でー、それを、いわゆるマッシュアップ、",
-                "kana_level3": "デー、ソレオイワユルマッシュアップ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 743.46,
-            "end": 748.08,
-            "data": {
-                "text_level0": "色んな動画をこう混ぜ合わせて新しい動画を作るっていうことが可能になっている。",
-                "kana_level0": "イロンナドーガオコーマゼアワセテアタラシードーガオツクルッテユーコトガカノーニナッテイル。",
-                "text_level2": "色んな動画をこう混ぜ合わせて新しい動画を作るっていうことが、ま、可能になっている。",
-                "kana_level3": "イロンナドーガオコーマゼアワセテアタラシードーガオツクルッテユーコトガ、マ、カノーニナッテイル。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 748.09,
-            "end": 749.9,
-            "data": {
-                "text_level0": "画像の世界で言うと、",
-                "kana_level0": "ガゾーノセカイデユート、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 749.9,
-            "end": 751.8,
-            "data": {
-                "text_level0": "フリッカーっていう",
-                "kana_level0": "フリッカーッテユー",
-                "text_level2": "あのー、フリッカーっていう",
-                "kana_level3": "アノー、フリッカーッテユー",
-                "memo": ""
-            }
-        },
-        {
-            "start": 751.8,
-            "end": 755.12,
-            "data": {
-                "text_level0": "今yahoo!の子会社になってますけれども、",
-                "kana_level0": "イマヤフー!ノコカイシャニナッテマスケレドモ、",
-                "text_level2": "あの、今yahoo!の子会社になってますけれども、",
-                "kana_level3": "アノ、イマヤフー!ノコカイシャニナッテマスケレドモ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 755.12,
-            "end": 760.22,
-            "data": {
-                "text_level0": "画像に今度はその同じクリエイティブ・コモンズ・ライセンスをつけるというサイトがあって、",
-                "kana_level0": "ガゾーニコンドワソノオナジクリエーティブ・コモンズ・ライセンスオツケルトユーサイトガアッテ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 760.22,
-            "end": 764.1,
-            "data": {
-                "text_level0": "もう8年ぐらい運営されてる老舗のサイトなんですけど、",
-                "kana_level0": "モーハチネングライウンエーサレテルシニセノサイトナンデスケド、",
-                "text_level2": "えー、もう8年ぐらい運営されてる老舗のサイトなんですけど、",
-                "kana_level3": "エー、モーハチネングライウンエーサレテルシニセノサイトナンデスケド、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 764.1,
-            "end": 767.9,
-            "data": {
-                "text_level0": "このフリッカーがすごいのは今およそですけども、",
-                "kana_level0": "コノフリッカーガスゴイノワイマオヨソデスケドモ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 767.92,
-            "end": 772.6,
-            "data": {
-                "text_level0": "7000万件ぐらいの写真がクリエイティブ・コモンズ・ライセンスがついてる。",
-                "kana_level0": "ナナセンマンケングライノシャシンガクリエーティブ・コモンズ・ライセンスガツイテル。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 772.94,
-            "end": 777.98,
-            "data": {
-                "text_level0": "しかもそれが結構クオリティの高いものがすごい多いんですね。",
-                "kana_level0": "シカモソレガケッコークオリティノタカイモノガスゴイオーインデスネ。",
-                "text_level2": "でー、しかもそれが結構こうクオリティの高いものがすごい多いんですね。",
-                "kana_level3": "デー、シカモソレガケッコークオリティノタカイモノガスゴイオーインデスネ。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 778.0,
-            "end": 779.77,
-            "data": {
-                "text_level0": "デジカメがすごい普及して、",
-                "kana_level0": "デジカメガスゴイフキューシテ、",
-                "text_level2": "で、まあデジカメがすごい普及して、",
-                "kana_level3": "デ、デジカメガスゴイフキューシテ、",
-                "memo": ""
-            }
-        },
-        {
-            "start": 779.78,
-            "end": 783.8,
-            "data": {
-                "text_level0": "誰でも結構いい写真撮れるようになってきたっていう時代背景もあると思うんですけども。",
-                "kana_level0": "ダレデモケッコーイーシャシントレルヨーニナッテキタッテユージダイハイケーモアルトオモウンデスケドモ。",
-                "text_level2": "で、誰でも結構いい写真撮れるようになってきたっていう、こう、時代背景もあると思うんですけども。",
-                "kana_level3": "デ、ダレデモケッコーイーシャシントレルヨーニナッテキタッテ、コー、ユージダイハイケーモアルトオモウンデスケドモ。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 783.8,
-            "end": 787.5,
-            "data": {
-                "text_level0": "例えば今回の僕の出した本を絡めていうと",
-                "kana_level0": "タトエバコンカイノボクノダシタホンオカラメテイウト",
-                "text_level2": "で、まあ、例えば今回の僕の出した本を絡めていうと",
-                "kana_level3": "デ、マー、タトエバコンカイノボクノダシタホンオカラメテイウト",
-                "memo": ""
-            }
-        },
-        {
-            "start": 787.5,
-            "end": 792.0,
-            "data": {
-                "text_level0": "この僕の本の表紙っていうのは実はまさにフリッカーで探し出してきた",
-                "kana_level0": "コノボクノホンノヒョーシッテユーノワジツワマサニフリッカーデサガシダシテキタ",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 792.0,
-            "end": 797.0,
-            "data": {
-                "text_level0": "画像十数点をリミックスしたグラフィックになっていて、",
-                "kana_level0": "ガゾージュースーテンオリミックスシタグラフィックニナッテイテ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 797.7,
-            "end": 802.1,
-            "data": {
-                "text_level0": "これ自体がフリッカーがあったから作れた表紙ということになってます。",
-                "kana_level0": "コレジタイガフリッカーガアッタカラツクレタヒョーシトユーコトニナッテマス。",
-                "text_level2": "これ自体がこうフリッカーがあったから作れた表紙ということになってます。",
-                "kana_level3": "コレジタイガコーフリッカーガアッタカラツクレタヒョーシトユーコトニナッテマス。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 804.6,
-            "end": 809.4,
-            "data": {
-                "text_level0": "フリーカルチャームーブメントによる恩恵を私たちは共有しています。",
-                "kana_level0": "フリーカルチャームーブメントニヨルオンケーオワタクシタチワキョーユーシテイマス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 809.45,
-            "end": 810.5,
-            "data": {
-                "text_level0": "そう今、",
-                "kana_level0": "ソーイマ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 810.5,
-            "end": 814.7,
-            "data": {
-                "text_level0": "私たち1人1人がフリーカルチャーの実践者になれる。",
-                "kana_level0": "ワタクシタチヒトリヒトリガフリーカルチャーノジッセンシャニナレル。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 814.87,
-            "end": 816.4,
-            "data": {
-                "text_level0": "インターネットの世界において、",
-                "kana_level0": "インターネットノセカイニオイテ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 816.83,
-            "end": 819.9,
-            "data": {
-                "text_level0": "私たちはただ利用者であるだけではなく、",
-                "kana_level0": "ワタクシタチワタダリヨーシャデアルダケデワナク、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 820.18,
-            "end": 821.8,
-            "data": {
-                "text_level0": "表現者であり、",
-                "kana_level0": "ヒョーゲンシャデアリ、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 822.4,
-            "end": 825.2,
-            "data": {
-                "text_level0": "創造者、クリエイターでもあるんですね。",
-                "kana_level0": "ソーゾーシャ、クリエーターデモアルンデスネ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 1000.8,
-            "end": 1005.0,
-            "data": {
-                "text_level0": "さあ、今月この360 Forumもフリーカルチャー宣言です。",
-                "kana_level0": "サー、コンゲツコノスリーシックスティーフォーラムモフリーカルチャーセンゲンデス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 1005.47,
-            "end": 1009.96,
-            "data": {
-                "text_level0": "このForumの20分前後、まるまるフリーカルチャーを実践です。",
-                "kana_level0": "コノフォーラムノニジュップンゼンゴ、マルマルフリーカルチャーオジッセンデス。",
-                "text_level2": "えーこのForumの20分前後、まるまるフリーカルチャーを実践です。",
-                "kana_level3": "エーコノフォーラムノニジュップンゼンゴ、マルマルフリーカルチャーオジッセンデス。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 1009.98,
-            "end": 1014.84,
-            "data": {
-                "text_level0": "今月この360 Forumでかける音楽、BGMは、全て、今日もそうです。",
-                "kana_level0": "コンゲツコノスリーシックスティーフォーラムデカケルオンガク、ビージーエムワ、スベテ、キョーモソーデス。",
-                "text_level2": "え、今月この360 Forumでかける音楽、BGMは、全て、今日もそうです。",
-                "kana_level3": "エ、コンゲツコノスリーシックスティーフォーラムデカケルオンガク、ビージーエムワ、スベテ、キョーモソーデス。",
-                "memo": ""
-            }
-        },
-        {
-            "start": 1014.87,
-            "end": 1018.6,
-            "data": {
-                "text_level0": "クリエイティブ・コモンズ・ライセンスで公開されているものばかりです。",
-                "kana_level0": "クリエーティブ・コモンズ・ライセンスデコーカイサレテイルモノバカリデス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 1018.64,
-            "end": 1022.9,
-            "data": {
-                "text_level0": "360 Forum、全てクリエイティブ・コモンズ・ライセンスで公開します。",
-                "kana_level0": "スリーシックスティーフォーラム、スベテクリエーティブ・コモンズ・ライセンスデコーカイシマス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 1023.19,
-            "end": 1024.68,
-            "data": {
-                "text_level0": "皆さん自由に使ってください。",
-                "kana_level0": "ミナサンジユーニツカッテクダサイ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 1025.14,
-            "end": 1028.8,
-            "data": {
-                "text_level0": "マッシュアップやリミックス、DJミックスもウェルカムです。",
-                "kana_level0": "マッシュアップヤリミックス、ディージェーミックスモウェルカムデス。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 1028.85,
-            "end": 1033.8,
-            "data": {
-                "text_level0": "使用の条件は必ずJ-WAVE 360のウェブサイトで確認してください。",
-                "kana_level0": "シヨーノジョーケンワカナラズジェーウエーブスリーシックスティーノウェブサイトデカクニンシテクダサイ。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 1034.32,
-            "end": 1035.4,
-            "data": {
-                "text_level0": "360 Forum、",
-                "kana_level0": "スリーシックスティーフォーラム、",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        },
-        {
-            "start": 1035.42,
-            "end": 1039.0,
-            "data": {
-                "text_level0": "今月はフリーカルチャーをSeek and Find。",
-                "kana_level0": "コンゲツワフリーカルチャーオシークアンドファインド。",
-                "text_level2": "",
-                "kana_level3": "",
-                "memo": ""
-            }
-        }
-    ],
-    "meta": {
-        "duration": 1048.1499,
-        "series": "J-WAVE 360°",
-        "album": null,
-        "title": "360 Forum ~Seek and Find~",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 1,
-        "date": "2012-08-04",
-        "speaker": "アンドレア・ポンピリオ, ドミニク・チェン",
-        "licenser_sound": "J-WAVE",
-        "license_sound": "CC BY 3.0",
-        "licenser_text": "J-WAVE",
-        "license_text": "CC BY 3.0",
-        "url": "",
-        "url_sound": "https://soundcloud.com/jwave360/360-forum-seek-and-find-vol-1",
-        "status_annotation": "done",
-        "note": ""
+  "annotation": [
+    {
+      "start": 7.65,
+      "end": 11.75,
+      "data": {
+        "text_level0": "J-WAVE 360 Forum ~Seek and Find~。",
+        "kana_level0": "ジェーウエーブスリーシックスティーフォーラムシークアンドファインド。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 12.45,
+      "end": 15.9,
+      "data": {
+        "text_level0": "8月のテーマはフリーカルチャー。",
+        "kana_level0": "ハチガツノテーマワフリーカルチャー。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 16.95,
+      "end": 17.65,
+      "data": {
+        "text_level0": "英語の",
+        "kana_level0": "エーゴノ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 18.17,
+      "end": 19.37,
+      "data": {
+        "text_level0": "F・R・E・E、",
+        "kana_level0": "エフ・アール・イー・イー、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 19.79,
+      "end": 21.96,
+      "data": {
+        "text_level0": "「フリー」には幅広い意味があります。",
+        "kana_level0": "「フリー」ニワハバヒロイイミガアリマス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 22.47,
+      "end": 23.36,
+      "data": {
+        "text_level0": "It's free.",
+        "kana_level0": "イッツフリー.",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 23.55,
+      "end": 26.19,
+      "data": {
+        "text_level0": "と言われれば、それは無料ですよという意味ですが、",
+        "kana_level0": "トイワレレバ、ソレワムリョーデスヨトユーイミデスガ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 26.35,
+      "end": 27.746736421127242,
+      "data": {
+        "text_level0": "Smoke free",
+        "kana_level0": "スモークフリー",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 27.76,
+      "end": 28.38,
+      "data": {
+        "text_level0": "は無煙、",
+        "kana_level0": "ワムエン、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 28.38,
+      "end": 29.77,
+      "data": {
+        "text_level0": "煙がないという意味。",
+        "kana_level0": "ケムリガナイトユーイミ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 30.25,
+      "end": 32.373974841900086,
+      "data": {
+        "text_level0": "無料でタバコが吸えますという意味じゃないですよ、",
+        "kana_level0": "ムリョーデタバコガスエマストユーイミジャナイデスヨ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 32.39,
+      "end": 32.66,
+      "data": {
+        "text_level0": "これ。",
+        "kana_level0": "コレ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 34.06,
+      "end": 35.14,
+      "data": {
+        "text_level0": "Free alcohol",
+        "kana_level0": "フリーアルコホール",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 35.32,
+      "end": 36.99,
+      "data": {
+        "text_level0": "と入り口に書いてあったらそれは",
+        "kana_level0": "トイリグチニカイテアッタラソレワ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 37.13,
+      "end": 39.64,
+      "data": {
+        "text_level0": "「今夜お酒は無料です」。",
+        "kana_level0": "「コンヤオサケワムリョーデス」。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 39.81,
+      "end": 40.38,
+      "data": {
+        "text_level0": "でも、",
+        "kana_level0": "デモ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 40.55,
+      "end": 41.64,
+      "data": {
+        "text_level0": "Alcohol free",
+        "kana_level0": "アルコホールフリー",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 41.64,
+      "end": 41.95,
+      "data": {
+        "text_level0": "なら",
+        "kana_level0": "ナラ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 42.39,
+      "end": 44.04,
+      "data": {
+        "text_level0": "アルコールゼロとか",
+        "kana_level0": "アルコールゼロトカ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 44.1,
+      "end": 46.58,
+      "data": {
+        "text_level0": "アルコールは出しませんという意味になります。",
+        "kana_level0": "アルコールワダシマセントユーイミニナリマス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 47.61,
+      "end": 47.98,
+      "data": {
+        "text_level0": "では",
+        "kana_level0": "デワ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 48.51,
+      "end": 49.53,
+      "data": {
+        "text_level0": "Free culture、",
+        "kana_level0": "フリーカルチャー、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 50.12,
+      "end": 51.95,
+      "data": {
+        "text_level0": "フリーカルチャーとは。",
+        "kana_level0": "フリーカルチャートワ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 53.57,
+      "end": 54.19,
+      "data": {
+        "text_level0": "先日",
+        "kana_level0": "センジツ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 54.74,
+      "end": 58.15,
+      "data": {
+        "text_level0": "フィルムアート社から「フリーカルチャーをつくるためのガイドブック」",
+        "kana_level0": "フィルムアートシャカラ「フリーカルチャーオツクルタメノガイドブック」",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 58.17,
+      "end": 59.56,
+      "data": {
+        "text_level0": "という本を出版された",
+        "kana_level0": "トユーホンオシュッパンサレタ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 60.07,
+      "end": 61.35,
+      "data": {
+        "text_level0": "NPO法人",
+        "kana_level0": "エヌピーオーホージン",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 61.43,
+      "end": 62.87,
+      "data": {
+        "text_level0": "クリエイティブ・コモンズ・ジャパン",
+        "kana_level0": "クリエーティブ・コモンズ・ジャパン",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 62.87,
+      "end": 63.2,
+      "data": {
+        "text_level0": "理事",
+        "kana_level0": "リジ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 63.71,
+      "end": 65.93,
+      "data": {
+        "text_level0": "ドミニク・チェンさんにお聞きました。",
+        "kana_level0": "ドミニク・チェンサンニオキキマシタ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 66.45,
+      "end": 67.11,
+      "data": {
+        "text_level0": "ドミニクさん、",
+        "kana_level0": "ドミニクサン、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 67.58,
+      "end": 70.02,
+      "data": {
+        "text_level0": "フリーカルチャーって何でしょうか?",
+        "kana_level0": "フリーカルチャーッテナンデショーカ?",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 71.24,
+      "end": 73.56,
+      "data": {
+        "text_level0": "フリーカルチャーってのは、直訳するとですね",
+        "kana_level0": "フリーカルチャーッテノワ、チョクヤクスルトデスネ",
+        "text_level2": "フリーカルチャーってのは、まあ、直訳するとですね",
+        "kana_level3": "フリーカルチャーッテノワ、マー、チョクヤクスルトデスネ",
+        "memo": ""
+      }
+    },
+    {
+      "start": 73.55,
+      "end": 75.61,
+      "data": {
+        "text_level0": "「自由な文化」っていう意味になります。",
+        "kana_level0": "「ジユーナブンカ」ッテユーイミニナリマス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 76.1,
+      "end": 76.32,
+      "data": {
+        "text_level0": "で、",
+        "kana_level0": "デ、",
+        "text_level2": "でー、",
+        "kana_level3": "デー、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 76.32,
+      "end": 77.64,
+      "data": {
+        "text_level0": "よくある誤解としては",
+        "kana_level0": "ヨクアルゴカイトシテワ",
+        "text_level2": "まあよくある誤解としては",
+        "kana_level3": "マー、ヨクアルゴカイトシテワ",
+        "memo": ""
+      }
+    },
+    {
+      "start": 77.64,
+      "end": 79.78,
+      "data": {
+        "text_level0": "英語でフリーって言った時に",
+        "kana_level0": "エーゴデフリーッテイッタトキニ",
+        "text_level2": "その英語でフリーって言った時に",
+        "kana_level3": "ソノエーゴデフリーッテイッタトキニ",
+        "memo": ""
+      }
+    },
+    {
+      "start": 79.78,
+      "end": 79.85,
+      "data": {
+        "text_level0": "",
+        "kana_level0": "",
+        "text_level2": "こう",
+        "kana_level3": "コー",
+        "memo": ""
+      }
+    },
+    {
+      "start": 79.87,
+      "end": 82.36,
+      "data": {
+        "text_level0": "「無料」っていうこと意味する「フリー」と",
+        "kana_level0": "「ムリョー」ッテユーコトイミスル「フリー」ト",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 82.58,
+      "end": 84.41,
+      "data": {
+        "text_level0": "「自由」ってこと意味する「フリー」に",
+        "kana_level0": "「ジユー」ッテコトイミスル「フリー」ニ",
+        "text_level2": "あと「自由」ってこと意味する「フリー」に",
+        "kana_level3": "アト「ジユー」ッテコトイミスル「フリー」ニ",
+        "memo": ""
+      }
+    },
+    {
+      "start": 84.4,
+      "end": 85.64,
+      "data": {
+        "text_level0": "2つに分かれるんですけども",
+        "kana_level0": "フタツニワカレルンデスケドモ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 85.67,
+      "end": 87.23,
+      "data": {
+        "text_level0": "最近日本だと",
+        "kana_level0": "サイキンニホンダト",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 87.29,
+      "end": 89.84,
+      "data": {
+        "text_level0": "どちらかというと、無料を意味するフリー",
+        "kana_level0": "ドチラカトイウト、ムリョーオイミスルフリー",
+        "text_level2": "どちらかというと、こう無料を意味するフリー",
+        "kana_level3": "ドチラカトイウト、コームリョーオイミスルフリー",
+        "memo": ""
+      }
+    },
+    {
+      "start": 90.05,
+      "end": 91.65,
+      "data": {
+        "text_level0": "という事の方が",
+        "kana_level0": "トユーコトノホーガ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 91.94,
+      "end": 93.41,
+      "data": {
+        "text_level0": "有名になっているのかなと。",
+        "kana_level0": "ユーメーニナッテイルノカナト。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 93.56,
+      "end": 94.11,
+      "data": {
+        "text_level0": "",
+        "kana_level0": "",
+        "text_level2": "でまあ",
+        "kana_level3": "デマー",
+        "memo": ""
+      }
+    },
+    {
+      "start": 94.13,
+      "end": 94.54791210019069,
+      "data": {
+        "text_level0": "そこで",
+        "kana_level0": "ソコデ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 94.55,
+      "end": 97.11,
+      "data": {
+        "text_level0": "無料じゃなくて自由っていう価値を",
+        "kana_level0": "ムリョージャナクテジユーッテユーカチオ",
+        "text_level2": "無料じゃなくてこう自由っていう価値を",
+        "kana_level3": "ムリョージャナクテコージユーッテユーカチオ",
+        "memo": ""
+      }
+    },
+    {
+      "start": 97.27,
+      "end": 99.27,
+      "data": {
+        "text_level0": "インターネットはもともと持っていて",
+        "kana_level0": "インターネットワモトモトモッテイテ",
+        "text_level2": "そのインターネットはもともと持っていて",
+        "kana_level3": "ソノインターネットワモトモトモッテイテ",
+        "memo": ""
+      }
+    },
+    {
+      "start": 99.66,
+      "end": 99.91,
+      "data": {
+        "text_level0": "",
+        "kana_level0": "",
+        "text_level2": "でー、",
+        "kana_level3": "デー、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 99.9,
+      "end": 102.32,
+      "data": {
+        "text_level0": "それを守ることこそが、今重要なんだ",
+        "kana_level0": "ソレオマモルコトコソガ、イマジューヨーナンダ",
+        "text_level2": "それを守ることこそが、あの今重要なんだ",
+        "kana_level3": "ソレオマモルコトコソガ、アノイマジューヨーナンダ",
+        "memo": ""
+      }
+    },
+    {
+      "start": 102.34,
+      "end": 105.19,
+      "data": {
+        "text_level0": "っていうことを主張したくて今回この本を書きました。",
+        "kana_level0": "ッテユーコトオシュチョーシタクテコンカイコノホンオカキマシタ。",
+        "text_level2": "っていうことを主張したくてまあ今回この本を書きました。",
+        "kana_level3": "ッテユーコトオシュチョーシタクテマーコンカイコノホンオカキマシタ。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 110.48,
+      "end": 114.2,
+      "data": {
+        "text_level0": "インターネット上の私たちみんなの自由。",
+        "kana_level0": "インターネットジョーノワタクシタチミンナノジユー。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 114.61,
+      "end": 115.89,
+      "data": {
+        "text_level0": "なるほどね。",
+        "kana_level0": "ナルホドネ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 116.0,
+      "end": 118.22,
+      "data": {
+        "text_level0": "インターネット、よく言われますよね。",
+        "kana_level0": "インターネット、ヨクイワレマスヨネ。",
+        "text_level2": "まあインターネット、よく言われますよね。",
+        "kana_level3": "マーインターネット、ヨクイワレマスヨネ。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 118.22,
+      "end": 120.86,
+      "data": {
+        "text_level0": "「私たちは常に監視されている」",
+        "kana_level0": "「ワタクシタチワツネニカンシサレテイル」",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 120.99,
+      "end": 121.86,
+      "data": {
+        "text_level0": "とか、",
+        "kana_level0": "トカ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 121.94,
+      "end": 124.66,
+      "data": {
+        "text_level0": "「私たちは意識が好みなども、",
+        "kana_level0": "「ワタクシタチワイシキガコノミナドモ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 124.67,
+      "end": 126.95,
+      "data": {
+        "text_level0": "ネットによってコントロールされている」。",
+        "kana_level0": "ネットニヨッテコントロールサレテイル」。",
+        "text_level2": "このネットによってコントロールされている」。",
+        "kana_level3": "コノネットニヨッテコントロールサレテイル」。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 127.35,
+      "end": 127.83,
+      "data": {
+        "text_level0": "",
+        "kana_level0": "",
+        "text_level2": "んー、",
+        "kana_level3": "ンー、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 127.86,
+      "end": 131.4,
+      "data": {
+        "text_level0": "ちょっと不穏な感じもします。",
+        "kana_level0": "チョットフオンナカンジモシマス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 131.48,
+      "end": 131.72,
+      "data": {
+        "text_level0": "けれど、",
+        "kana_level0": "ケレド、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 131.72,
+      "end": 134.6,
+      "data": {
+        "text_level0": "「インターネットとそれがもたらす世界というのは",
+        "kana_level0": "「インターネットトソレガモタラスセカイトユーノワ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 134.61,
+      "end": 139.37,
+      "data": {
+        "text_level0": "そもそもとても自由でフリーなマインドから始まっていたんだよ」と",
+        "kana_level0": "ソモソモトテモジユーデフリーナマインドカラハジマッテイタンダヨ」ト",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 139.4,
+      "end": 141.2,
+      "data": {
+        "text_level0": "ドミニクさんは語ります。",
+        "kana_level0": "ドミニクサンワカタリマス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 142.0,
+      "end": 145.7,
+      "data": {
+        "text_level0": "もともとフリーカルチャーの起源みたいなものを辿ってみると、",
+        "kana_level0": "モトモトフリーカルチャーノキゲンミタイナモノオタドッテミルト、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 145.7,
+      "end": 152.12,
+      "data": {
+        "text_level0": "アメリカの1970年代から1980年代にかけて起こった現象だったんですね。",
+        "kana_level0": "アメリカノセンキューヒャクナナジューネンダイカラセンキューヒャクハチジューネンダイニカケテオコッタゲンショーダッタンデスネ。",
+        "text_level2": "まあアメリカの1970年代から1980年代にかけて起こった現象だったんですね。",
+        "kana_level3": "マーアメリカノセンキューヒャクナナジューネンダイカラセンキューヒャクハチジューネンダイニカケテオコッタゲンショーダッタンデスネ。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 152.12,
+      "end": 156.68,
+      "data": {
+        "text_level0": "で、そもそもソフトウェアを作るっていう文化が非常にこう",
+        "kana_level0": "デ、ソモソモソフトウェアオツクルッテユーブンカガヒジョーニコー",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 156.68,
+      "end": 158.12,
+      "data": {
+        "text_level0": "自由な文化というか",
+        "kana_level0": "ジユーナブンカトイウカ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 158.12,
+      "end": 164.12,
+      "data": {
+        "text_level0": "アメリカの西海岸のヒッピーカルチャーとかそう言ったものを継承して、",
+        "kana_level0": "アメリカノニシカイガンノヒッピーカルチャートカソーイッタモノオケーショーシテ、",
+        "text_level2": "まあアメリカの西海岸のヒッピーカルチャーとかそう言ったものを、まあ継承して、",
+        "kana_level3": "マーアメリカノニシカイガンノヒッピーカルチャートカソーイッタモノオマーケーショーシテ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 164.2,
+      "end": 167.7,
+      "data": {
+        "text_level0": "で、とにかくエンジニアの人が作ったソフトウェアを、",
+        "kana_level0": "デ、トニカクエンジニアノヒトガツクッタソフトウェアオ、",
+        "text_level2": "で、とにかくこうエンジニアの人が作ったソフトウェアを、",
+        "kana_level3": "デ、トニカクコウエンジニアノヒトガツクッタソフトウェアオ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 167.75,
+      "end": 169.15,
+      "data": {
+        "text_level0": "みんなのものとして",
+        "kana_level0": "ミンナノモノトシテ",
+        "text_level2": "あの、みんなのものとして",
+        "kana_level3": "アノ、ミンナノモノトシテ",
+        "memo": ""
+      }
+    },
+    {
+      "start": 169.18,
+      "end": 170.11,
+      "data": {
+        "text_level0": "共有して",
+        "kana_level0": "キョーユーシテ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 170.12,
+      "end": 171.05,
+      "data": {
+        "text_level0": "しまいましょうと。",
+        "kana_level0": "シマイマショート。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 171.22,
+      "end": 172.9,
+      "data": {
+        "text_level0": "そういう文化があったんですね。",
+        "kana_level0": "ソーユーブンカガアッタンデスネ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 173.1,
+      "end": 173.75,
+      "data": {
+        "text_level0": "で、",
+        "kana_level0": "デ、",
+        "text_level2": "でー、",
+        "kana_level3": "デー、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 173.75,
+      "end": 175.0,
+      "data": {
+        "text_level0": "80年代になってくると、",
+        "kana_level0": "ハチジューネンダイニナッテクルト、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 175.0,
+      "end": 177.44,
+      "data": {
+        "text_level0": "そこに企業とかも入ってきて、",
+        "kana_level0": "ソコニキギョートカモハイッテキテ、",
+        "text_level2": "まあそこにこう企業とかも入ってきて、",
+        "kana_level3": "マーソコニキギョートカモハイッテキテ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 177.44,
+      "end": 178.7,
+      "data": {
+        "text_level0": "いやソフトウェアってのは",
+        "kana_level0": "イヤソフトウェアッテノワ",
+        "text_level2": "で、いやソフトウェアってのは",
+        "kana_level3": "デ、イヤソフトウェアッテノワ",
+        "memo": ""
+      }
+    },
+    {
+      "start": 178.7,
+      "end": 182.8,
+      "data": {
+        "text_level0": "もっとビジネスとして守っていかなきゃいけいけないということで、",
+        "kana_level0": "モットビジネストシテマモッテイカナキャイケイケナイトユーコトデ、",
+        "text_level2": "こうもっとビジネスとして守っていかなきゃいけいけないということで、",
+        "kana_level3": "コーモットビジネストシテマモッテイカナキャイケイケナイトユーコトデ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 182.8,
+      "end": 186.38,
+      "data": {
+        "text_level0": "お互いを自由に交換し合えなくなってきたと。",
+        "kana_level0": "オタガイオジユーニコーカンシアエナクナッテキタト。",
+        "text_level2": "えーお互いをこう自由に交換し合えなくなってきたと。",
+        "kana_level3": "エー、オタガイオジユーニコーカンシアエナクナッテキタト。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 186.38,
+      "end": 192.56,
+      "data": {
+        "text_level0": "で、そういう時に、いやその自由を守るべきだという人たちが立ち上がって起こったのがいわゆる",
+        "kana_level0": "デ、ソーユートキニ、イヤソノジユーオマモルベキダトユーヒトタチガタチアガッテオコッタノガイワユル",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 192.56,
+      "end": 195.5,
+      "data": {
+        "text_level0": "フリーソフトウェアの運動だったんですね。",
+        "kana_level0": "フリーソフトウェアノウンドーダッタンデスネ。",
+        "text_level2": "フリーソフトウェアの運動、えーだったんですね。",
+        "kana_level3": "フリーソフトウェアノウンドー、エー、ダッタンデスネ。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 195.56,
+      "end": 200.72,
+      "data": {
+        "text_level0": "で、そこで著作権というものが発生してしまって、",
+        "kana_level0": "デ、ソコデチョサクケントユーモノガハッセーシテシマッテ、",
+        "text_level2": "でー、そこでその著作権というものがまあ発生してしまって、",
+        "kana_level3": "デー、ソコデチョサクケントユーモノガハッセーシテシマッテ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 200.72,
+      "end": 205.2,
+      "data": {
+        "text_level0": "で、それを勝手にお互い使ってしまうと法律に反してしまうとか、",
+        "kana_level0": "デ、ソレオカッテニオタガイツカッテシマウトホーリツニハンシテシマウトカ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 205.2,
+      "end": 208.7,
+      "data": {
+        "text_level0": "あと企業に訴えられてしまうというような状況に対して、",
+        "kana_level0": "アトキギョーニウッタエラレテシマウトユーヨーナジョーキョーニタイシテ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 208.84,
+      "end": 211.4,
+      "data": {
+        "text_level0": "いやそこをこうシステム変えてしまうということで、",
+        "kana_level0": "イヤソコオコーシステムカエテシマウトユーコトデ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 211.4,
+      "end": 214.88,
+      "data": {
+        "text_level0": "新しい著作権の仕組みみたいなものが生み出されたと。",
+        "kana_level0": "アタラシーチョサクケンノシクミミタイナモノガウミダサレタト。",
+        "text_level2": "ま、新しい著作権の仕組みみたいなものが、まあ生み出されたと。",
+        "kana_level3": "マ、アタラシーチョサクケンノシクミミタイナモノガ、マーウミダサレタト。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 214.88,
+      "end": 219.08,
+      "data": {
+        "text_level0": "で、それはコピーレフトと呼ばれてたものだったんです。",
+        "kana_level0": "デ、ソレワコピーレフトトヨバレテタモノダッタンデス。",
+        "text_level2": "で、それはまあコピーレフトと呼ばれてた、えー、ものだったんです。",
+        "kana_level3": "デ、ソレワマーコピーレフトトヨバレテタ、エー、モノダッタンデス。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 219.08,
+      "end": 220.16,
+      "data": {
+        "text_level0": "で、コピーレフトっていうのが、",
+        "kana_level0": "デ、コピーレフトッテユーノガ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 220.16,
+      "end": 223.16,
+      "data": {
+        "text_level0": "コピーライトっていうのはつまり著作権のことなんです",
+        "kana_level0": "コピーライトッテユーノワツマリチョサクケンノコトナンデス",
+        "text_level2": "まあコピーライトっていうのはつまり著作権のことなんです",
+        "kana_level3": "マーコピーライトッテユーノワツマリチョサクケンノコトナンデス",
+        "memo": ""
+      }
+    },
+    {
+      "start": 223.16,
+      "end": 225.86,
+      "data": {
+        "text_level0": "けども、その反対語みたいなもので、",
+        "kana_level0": "ケドモ、ソノハンタイゴミタイナモノデ、",
+        "text_level2": "けども、まあその反対語みたいなもので、",
+        "kana_level3": "ケドモ、マーソノハンタイゴミタイナモノデ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 225.86,
+      "end": 228.9,
+      "data": {
+        "text_level0": "作った人が誰かっていうのは、もちろん守るんだけれども、",
+        "kana_level0": "ツクッタヒトガダレカッテユーノワ、モチロンマモルンダケレドモ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 229.2,
+      "end": 233.2,
+      "data": {
+        "text_level0": "それを誰でも自由に勝手に使っていいよ、と。",
+        "kana_level0": "ソレオダレデモジユーニカッテニツカッテイーヨ、ト。",
+        "text_level2": "えー、それを誰でも自由に勝手に使っていいよ、と。",
+        "kana_level3": "エー、ソレオダレデモジユーニカッテニツカッテイーヨ、ト。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 233.48,
+      "end": 235.2,
+      "data": {
+        "text_level0": "で、勝手に使っていいんだけれども、",
+        "kana_level0": "デ、カッテニツカッテイーンダケレドモ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 235.5,
+      "end": 237.28,
+      "data": {
+        "text_level0": "その勝手に使った結果、",
+        "kana_level0": "ソノカッテニツカッタケッカ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 237.29,
+      "end": 240.82,
+      "data": {
+        "text_level0": "新しく生み出されたものに対しても同じ条件がついて、",
+        "kana_level0": "アタラシクウミダサレタモノニタイシテモオナジジョーケンガツイテ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 241.0,
+      "end": 242.0,
+      "data": {
+        "text_level0": "で、そうするとこう",
+        "kana_level0": "デ、ソースルトコー",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 242.0,
+      "end": 245.5,
+      "data": {
+        "text_level0": "何世代にも渡って改変されていったものが、",
+        "kana_level0": "ナンセダイニモワタッテカイヘンサレテイッタモノガ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 245.5,
+      "end": 250.46,
+      "data": {
+        "text_level0": "どの段階で切り取っても同じ自由度で誰でも使っていいという状態にするということで、",
+        "kana_level0": "ドノダンカイデキリトッテモオナジジユードデダレデモツカッテイートユージョータイニスルトユーコトデ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 250.46,
+      "end": 252.56,
+      "data": {
+        "text_level0": "だから言ってしまうと、",
+        "kana_level0": "ダカライッテシマウト、",
+        "text_level2": "ま、だから言ってしまうと、",
+        "kana_level3": "マ、ダカライッテシマウト、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 252.56,
+      "end": 258.6,
+      "data": {
+        "text_level0": "法律の世界に対して別の法律をぶつけて新しい世界を作りましょうということがありました。",
+        "kana_level0": "ホーリツノセカイニタイシテベツノホーリツオブツケテアタラシーセカイオツクリマショートユーコトガアリマシタ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 261.87,
+      "end": 262.04,
+      "data": {
+        "text_level0": "",
+        "kana_level0": "",
+        "text_level2": "ねえ",
+        "kana_level3": "ネー",
+        "memo": ""
+      }
+    },
+    {
+      "start": 262.04,
+      "end": 266.5,
+      "data": {
+        "text_level0": "コピーライトに対してコピーレフト、これいいですね。",
+        "kana_level0": "コピーライトニタイシテコピーレフト、コレイーデスネ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 266.5,
+      "end": 271.9,
+      "data": {
+        "text_level0": "そして新しい世界を作ろうというその発想、スピリット、これもいいですよね。",
+        "kana_level0": "ソシテアタラシーセカイオツクロートユーソノハッソー、スピリット、コレモイーデスヨネ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 271.88,
+      "end": 273.5,
+      "data": {
+        "text_level0": "そういうマインドこそ、",
+        "kana_level0": "ソーユーマインドコソ、",
+        "text_level2": "まあ、そういうマインドこそ、",
+        "kana_level3": "マー、ソーユーマインドコソ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 273.5,
+      "end": 278.3,
+      "data": {
+        "text_level0": "私たち今を生きるジェネレーションが、やっぱり大切にしたいことですよね。",
+        "kana_level0": "ワタクシタチイマオイキルジェネレーションガ、ヤッパリタイセツニシタイコトデスヨネ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 278.72,
+      "end": 280.5,
+      "data": {
+        "text_level0": "でも、そんなフリーマインド、",
+        "kana_level0": "デモ、ソンナフリーマインド、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 280.5,
+      "end": 286.3,
+      "data": {
+        "text_level0": "フリースピリットなネットカルチャーが、今、少しずつ変化しているようです。",
+        "kana_level0": "フリースピリットナネットカルチャーガ、イマ、スコシズツヘンカシテイルヨーデス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 459.38,
+      "end": 463.2,
+      "data": {
+        "text_level0": "J-WAVE 360 Forum ~Seek and Find~。",
+        "kana_level0": "ジェーウエーブスリーシックスティーフォーラムシークアンドファインド。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 463.32,
+      "end": 467.32,
+      "data": {
+        "text_level0": "今月のテーマはフリーカルチャー。",
+        "kana_level0": "コンゲツノテーマワフリーカルチャー。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 468.0,
+      "end": 475.2,
+      "data": {
+        "text_level0": "そもそも1960年代に、こういったフリーという思想・発想がアメリカで大きく芽生えました。",
+        "kana_level0": "ソモソモセンキューヒャクロクジューネンダイニ、コーイッタフリートユーシソー・ハッソーガアメリカデオーキクメバエマシタ。",
+        "text_level2": "そもそも1960年代に、ま、こういったフリーという思想・発想がアメリカで大きく芽生えました。",
+        "kana_level3": "ソモソモセンキューヒャクロクジューネンダイニ、マ、コーイッタフリートユーシソー・ハッソーガアメリカデオーキクメバエマシタ。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 475.94,
+      "end": 477.9,
+      "data": {
+        "text_level0": "ボブディランはそれは歌にしました。",
+        "kana_level0": "ボブディランワソレワウタニシマシタ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 478.28,
+      "end": 482.7,
+      "data": {
+        "text_level0": "グレイトフルデッドは、それをバンドとファン、1つになって体現しました。",
+        "kana_level0": "グレートフルデッドワ、ソレオバンドトファン、ヒトツニナッテタイゲンシマシタ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 483.56,
+      "end": 487.1,
+      "data": {
+        "text_level0": "フリーカルチャーの起源はグレイトフルデッドとそのファンである。",
+        "kana_level0": "フリーカルチャーノキゲンワグレートフルデッドトソノファンデアル。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 487.1,
+      "end": 489.56,
+      "data": {
+        "text_level0": "そう語るジャーナリスト・評論家もいます。",
+        "kana_level0": "ソーカタルジャーナリスト・ヒョーロンカモイマス。",
+        "text_level2": "ま、そう語るジャーナリスト・評論家もいます。",
+        "kana_level3": "マ、ソーカタルジャーナリスト・ヒョーロンカモイマス。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 490.7,
+      "end": 495.14,
+      "data": {
+        "text_level0": "やがて1968年、サマーオブラブがあり、",
+        "kana_level0": "ヤガテセンキューヒャクロクジューハチネン、サマーオブラブガアリ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 495.14,
+      "end": 496.34,
+      "data": {
+        "text_level0": "ヒッピームーブメント、",
+        "kana_level0": "ヒッピームーブメント、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 496.34,
+      "end": 499.3,
+      "data": {
+        "text_level0": "フラワーチルドレンという大きな花が開き、",
+        "kana_level0": "フラワーチルドレントユーオーキナハナガヒラキ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 499.3,
+      "end": 504.6,
+      "data": {
+        "text_level0": "そして1969年のウッドストックによって1つの季節が終わりました。",
+        "kana_level0": "ソシテセンキューヒャクロクジュークネンノウッドストックニヨッテヒトツノキセツガオワリマシタ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 505.52,
+      "end": 511.1,
+      "data": {
+        "text_level0": "ウッドストックを経験した世代は、1970年代カリフォルニアを目指しました。",
+        "kana_level0": "ウッドストックオケーケンシタセダイワ、センキューヒャクナナジューネンダイカリフォルニアオメザシマシタ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 511.4,
+      "end": 515.8,
+      "data": {
+        "text_level0": "そして、その一部の人々がシリコンバレー王国を作り上げていきます。",
+        "kana_level0": "ソシテ、ソノイチブノヒトビトガシリコンバレーオーコクオツクリアゲテイキマス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 516.2,
+      "end": 520.58,
+      "data": {
+        "text_level0": "そう、アップルコンピューターもそんな世界の片隅で生まれました。",
+        "kana_level0": "ソー、アップルコンピューターモソンナセカイノカタスミデウマレマシタ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 521.5,
+      "end": 527.36,
+      "data": {
+        "text_level0": "こういった流れのソース、源に、常にあったのがフリーであること。",
+        "kana_level0": "コーイッタナガレノソース、ミナモトニ、ツネニアッタノガフリーデアルコト。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 527.36,
+      "end": 528.2,
+      "data": {
+        "text_level0": "つまり、",
+        "kana_level0": "ツマリ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 528.2,
+      "end": 534.8,
+      "data": {
+        "text_level0": "誰もが自由に、有意義に共有しようよという、ピースフルな考え方です。",
+        "kana_level0": "ダレモガジユーニ、ユーイギニキョーユーシヨーヨトイウ、ピースフルナカンガエカタデス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 536.0,
+      "end": 539.9,
+      "data": {
+        "text_level0": "フリーカルチャーというのはこのように20世紀のアメリカから続く、",
+        "kana_level0": "フリーカルチャートユーノワコノヨーニニジュッセーキノアメリカカラツズク、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 539.9,
+      "end": 543.3,
+      "data": {
+        "text_level0": "音楽や文化のヒストリーの上にある言葉であり、",
+        "kana_level0": "オンガクヤブンカノヒストリーノウエニアルコトバデアリ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 543.3,
+      "end": 544.7,
+      "data": {
+        "text_level0": "マインドだったんですね。",
+        "kana_level0": "マインドダッタンデスネ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 545.48,
+      "end": 548.6,
+      "data": {
+        "text_level0": "そして、このマインドは私たちが毎日というか、",
+        "kana_level0": "ソシテ、コノマインドワワタクシタチガマイニチトイウカ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 548.6,
+      "end": 554.6,
+      "data": {
+        "text_level0": "ほぼ毎分のように触れているインターネットというものにまっすぐ繋がっていきます。",
+        "kana_level0": "ホボマイフンノヨーニフレテイルインターネットトユーモノニマッスグツナガッテイキマス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 555.74,
+      "end": 558.44,
+      "data": {
+        "text_level0": "90年代に入ると今度Linuxっていう",
+        "kana_level0": "キュージューネンダイニハイルトコンドリナックスッテユー",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 558.44,
+      "end": 561.14,
+      "data": {
+        "text_level0": "今も世界中で使われている、",
+        "kana_level0": "イマモセカイジューデツカワレテイル、",
+        "text_level2": "まあ今も世界中で使われている、",
+        "kana_level3": "マーイマモセカイジューデツカワレテイル、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 561.14,
+      "end": 564.2,
+      "data": {
+        "text_level0": "例えばウェブページとか皆さん見てると思うんですけども、",
+        "kana_level0": "タトエバウェブページトカミナサンミテルトオモウンデスケドモ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 564.2,
+      "end": 569.78,
+      "data": {
+        "text_level0": "大体Webページを動かしてるメインのソフトってLinuxなんですね。",
+        "kana_level0": "ダイタイウェブページオウゴカシテルメインノソフトッテリナックスナンデスネ。",
+        "text_level2": "まあ、大体Webページを動かしてるメインのソフトってLinuxなんですね。",
+        "kana_level3": "マー、ダイタイウェブページオウゴカシテルメインノソフトッテリナックスナンデスネ。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 569.78,
+      "end": 573.22,
+      "data": {
+        "text_level0": "で、まあそれぐらい世界に浸透しているものがあって、で、",
+        "kana_level0": "デ、マーソレグライセカイニシントーシテイルモノガアッテ、デ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 573.22,
+      "end": 575.5,
+      "data": {
+        "text_level0": "それはもともとフリーソフトウェアだったんです。",
+        "kana_level0": "ソレワモトモトフリーソフトウェアダッタンデス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 575.48,
+      "end": 577.1,
+      "data": {
+        "text_level0": "で、",
+        "kana_level0": "デ、",
+        "text_level2": "で、あのー、",
+        "kana_level3": "デ、アノー、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 577.1,
+      "end": 581.4,
+      "data": {
+        "text_level0": "最初は北欧のリーナス・トーバルズという1人が作ってたのを",
+        "kana_level0": "サイショワホクオーノリーナス・トーバルズトユーヒトリガツクッテタノオ",
+        "text_level2": "まあ最初は北欧のリーナス・トーバルズていう1人が作ってたのを",
+        "kana_level3": "マーサイショワホクオーノリーナス・トーバルズトユーヒトリガツクッテタノオ",
+        "memo": ""
+      }
+    },
+    {
+      "start": 581.4,
+      "end": 584.84,
+      "data": {
+        "text_level0": "このタイトルをバーンと公開してこんなもん作ってんだけど、",
+        "kana_level0": "コノタイトルオバーントコーカイシテコンナモンツクッテンダケド、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 584.84,
+      "end": 585.62,
+      "data": {
+        "text_level0": "みんなどう思う？",
+        "kana_level0": "ミンナドーオモウ？",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 585.62,
+      "end": 589.7,
+      "data": {
+        "text_level0": "みたいな、今で言うと作ってみた系の走りですね。",
+        "kana_level0": "ミタイナ、イマデユートツクッテミタケーノハシリデスネ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 589.7,
+      "end": 592.9,
+      "data": {
+        "text_level0": "で、そしたら世界中のエンジニアたちが集まってきて、",
+        "kana_level0": "デ、ソシタラセカイチューノエンジニアタチガアツマッテキテ、",
+        "text_level2": "で、そしたら世界中のそのエンジニアたちが集まってきて、",
+        "kana_level3": "デ、ソシタラセカイチューノソノエンジニアタチガアツマッテキテ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 592.9,
+      "end": 594.98,
+      "data": {
+        "text_level0": "メールでやり取りをして、",
+        "kana_level0": "メールデヤリトリオシテ、",
+        "text_level2": "まあメールでやり取りをして、",
+        "kana_level3": "マーメールデヤリトリオシテ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 594.98,
+      "end": 597.56,
+      "data": {
+        "text_level0": "で、いやここはこうした方がいいんじゃないかみたいな。",
+        "kana_level0": "デ、イヤココワコーシタホーガイーンジャナイカミタイナ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 597.56,
+      "end": 599.0,
+      "data": {
+        "text_level0": "俺だったらこうするみたいな。",
+        "kana_level0": "オレダッタラコースルミタイナ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 599.0,
+      "end": 602.42,
+      "data": {
+        "text_level0": "で、どんどんどんどん1人じゃできないレベルにまでこう",
+        "kana_level0": "デ、ドンドンドンドンヒトリジャデキナイレベルニマデコー",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 602.4303997512255,
+      "end": 605.1103997512256,
+      "data": {
+        "text_level0": "ソフトウェアが広がっていったと、成長していったと。",
+        "kana_level0": "ソフトウェアガヒロガッテイッタト、セーチョーシテイッタト。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 605.1,
+      "end": 608.15,
+      "data": {
+        "text_level0": "で、世界を変えてしまうところまでいった。",
+        "kana_level0": "デ、セカイオカエテシマウトコロマデイッタ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 608.18,
+      "end": 610.5,
+      "data": {
+        "text_level0": "で、それがソフトウェアの世界だったんですね。",
+        "kana_level0": "デ、ソレガソフトウェアノセカイダッタンデスネ。",
+        "text_level2": "で、それがまあソフトウェアの世界だったんですね。",
+        "kana_level3": "デ、ソレガマーソフトウェアノセカイダッタンデスネ。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 610.52,
+      "end": 615.5,
+      "data": {
+        "text_level0": "で、それから90年代末から2000年代初頭にかけて",
+        "kana_level0": "デ、ソレカラキュージューネンダイマツカラニセンネンダイショトーニカケテ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 615.6,
+      "end": 617.4,
+      "data": {
+        "text_level0": "今度、こうインターネットっていうものに、",
+        "kana_level0": "コンド、コーインターネットッテユーモノニ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 617.4,
+      "end": 619.34,
+      "data": {
+        "text_level0": "あの、みんながアクセスするようになった。",
+        "kana_level0": "アノ、ミンナガアクセススルヨーニナッタ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 619.34,
+      "end": 623.4,
+      "data": {
+        "text_level0": "で、それは本当にもう子供からおじいちゃんまで、こうアクセスするようになってきて、",
+        "kana_level0": "デ、ソレワホントニモーコドモカラオジーチャンマデ、コーアクセススルヨーニナッテキテ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 623.4,
+      "end": 623.84,
+      "data": {
+        "text_level0": "",
+        "kana_level0": "",
+        "text_level2": "まあ、",
+        "kana_level3": "マー、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 623.84,
+      "end": 626.72,
+      "data": {
+        "text_level0": "そうすると今度そのソフトウェアだけじゃなくて、",
+        "kana_level0": "ソースルトコンドソノソフトウェアダケジャナクテ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 626.8,
+      "end": 631.42,
+      "data": {
+        "text_level0": "例えばその文章だったり画像だったり、音楽・映像といった、",
+        "kana_level0": "タトエバソノブンショーダッタリガゾーダッタリ、オンガク・エーゾートイッタ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 631.56,
+      "end": 633.38,
+      "data": {
+        "text_level0": "本当にみんなが作るものが、",
+        "kana_level0": "ホントニミンナガツクルモノガ、",
+        "text_level2": "まあ、本当にみんなが作るものが、",
+        "kana_level3": "マー、ホントニミンナガツクルモノガ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 633.38,
+      "end": 635.9,
+      "data": {
+        "text_level0": "どんどんどんどんインターネットにアップされていって、",
+        "kana_level0": "ドンドンドンドンインターネットニアップサレテイッテ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 636.14,
+      "end": 640.64,
+      "data": {
+        "text_level0": "そこでまたその著作権の問題っていうのが再燃してしまったと。",
+        "kana_level0": "ソコデマタソノチョサクケンノモンダイッテユーノガサイネンシテシマッタト。",
+        "text_level2": "で、そこでまたその著作権の問題っていうのが再燃してしまったと。",
+        "kana_level3": "デ、ソコデマタソノチョサクケンノモンダイッテユーノガサイネンシテシマッタト。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 640.76,
+      "end": 644.5,
+      "data": {
+        "text_level0": "そういう時に、じゃあそのソフトウェアだけじゃなくて、",
+        "kana_level0": "ソーユートキニ、ジャーソノソフトウェアダケジャナクテ、",
+        "text_level2": "で、そういう時に、じゃあそのソフトウェアだけじゃなくて、",
+        "kana_level3": "デ、ソーユートキニ、ジャーソノソフトウェアダケジャナクテ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 644.5,
+      "end": 645.7,
+      "data": {
+        "text_level0": "そういうコンテンツ、",
+        "kana_level0": "ソーユーコンテンツ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 645.7,
+      "end": 651.92,
+      "data": {
+        "text_level0": "その作品の世界をフリーにする自由にするっていうことが必要だという話が出てきて、",
+        "kana_level0": "ソノサクヒンノセカイオフリーニスルジユーニスルッテユーコトガヒツヨーダトユーハナシガデテキテ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 651.92,
+      "end": 652.8,
+      "data": {
+        "text_level0": "生まれたのが、",
+        "kana_level0": "ウマレタノガ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 652.8,
+      "end": 657.2,
+      "data": {
+        "text_level0": "フリーカルチャーと総称する、大きな運動なんですね。",
+        "kana_level0": "フリーカルチャートソーショースル、オーキナウンドーナンデスネ。",
+        "text_level2": "フリーカルチャーと総称する、おっきな運動なんですね。",
+        "kana_level3": "フリーカルチャートソーショースル、オッキナナウンドーナンデスネ。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 658.88,
+      "end": 661.1,
+      "data": {
+        "text_level0": "フリーカルチャームーブメント。",
+        "kana_level0": "フリーカルチャームーブメント。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 661.1,
+      "end": 664.7,
+      "data": {
+        "text_level0": "これ私達全員この大きな渦の中にいます。",
+        "kana_level0": "コレワタクシタチゼンインコノオーキナウズノナカニイマス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 665.78,
+      "end": 670.7,
+      "data": {
+        "text_level0": "私たちは毎日、そのフリーカルチャーにとてもお世話になっているからです。",
+        "kana_level0": "ワタクシタチワマイニチ、ソノフリーカルチャーニトテモオセワニナッテイルカラデス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 674.66,
+      "end": 680.18,
+      "data": {
+        "text_level0": "一番有名な事例って言うと、例えばWikipediaっていうオンライン百科事典があります。",
+        "kana_level0": "イチバンユーメーナジレーッテユート、タトエバウィキペディアッテユーオンラインヒャッカジテンガアリマス。",
+        "text_level2": "一番有名な、あの事例って言うと、例えばWikipediaっていうオンライン百科事典があります。",
+        "kana_level3": "イチバンユーメーナアノジレーッテユート、タトエバウィキペディアッテユーオンラインヒャッカジテンガアリマス。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 680.18,
+      "end": 681.7,
+      "data": {
+        "text_level0": "皆さんご存知だと思います。",
+        "kana_level0": "ミナサンゴゾンジダトオモイマス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 682.0,
+      "end": 682.28,
+      "data": {
+        "text_level0": "で、",
+        "kana_level0": "デ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 682.28,
+      "end": 688.64,
+      "data": {
+        "text_level0": "Wikipediaっていうのは全世界で数百万件の百科事典の記事からなってるんですけども、",
+        "kana_level0": "ウィキペディアッテユーノワゼンセカイデスーヒャクマンケンノヒャッカジテンノキジカラナッテルンデスケドモ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 688.64,
+      "end": 695.3,
+      "data": {
+        "text_level0": "実はこの全ての記事に対して、クリエイティブ・コモンズ・ライセンスというフリーのライセンスがついていて、",
+        "kana_level0": "ジツワコノスベテノキジニタイシテ、クリエーティブ・コモンズ・ライセンストユーフリーノライセンスガツイテイテ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 695.8,
+      "end": 697.7,
+      "data": {
+        "text_level0": "それはどういうこと意味するかというと、",
+        "kana_level0": "ソレワドーユーコトイミスルカトイウト、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 697.7,
+      "end": 700.4,
+      "data": {
+        "text_level0": "そのWikipediaに書いてある記事っていうのは、ただこう",
+        "kana_level0": "ソノウィキペディアニカイテアルキジッテユーノワ、タダコー",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 700.4,
+      "end": 702.08,
+      "data": {
+        "text_level0": "受け取って読めるよ。",
+        "kana_level0": "ウケトッテヨメルヨ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 702.08,
+      "end": 703.19,
+      "data": {
+        "text_level0": "っていうだけじゃなくて、",
+        "kana_level0": "ッテユーダケジャナクテ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 703.42,
+      "end": 705.29,
+      "data": {
+        "text_level0": "誰でもその内容を例えば",
+        "kana_level0": "ダレデモソノナイヨーオタトエバ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 705.29,
+      "end": 707.03,
+      "data": {
+        "text_level0": "違う言語に翻訳したり",
+        "kana_level0": "チガウゲンゴニホンヤクシタリ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 707.08,
+      "end": 709.8,
+      "data": {
+        "text_level0": "それを引用して例えば本を書いたり、",
+        "kana_level0": "ソレオインヨーシテタトエバホンオカイタリ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 709.9,
+      "end": 714.74,
+      "data": {
+        "text_level0": "とにかくそのWikipediaっていう場所にあるもの使って新しいものを作っていいんだよ。",
+        "kana_level0": "トニカクソノウィキペディアッテユーバショニアルモノツカッテアタラシーモノオツクッテイーンダヨ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 714.74,
+      "end": 718.6,
+      "data": {
+        "text_level0": "っていう、そういう文化を発信してるんですね。",
+        "kana_level0": "ッテユー、ソーユーブンカオハッシンシテルンデスネ。",
+        "text_level2": "っていう、あのそういう文化を発信してるんですね。",
+        "kana_level3": "ッテユー、アノソーユーブンカオハッシンシテルンデスネ。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 718.6,
+      "end": 721.05,
+      "data": {
+        "text_level0": "YouTubeっていう、動画共有サイト、",
+        "kana_level0": "ユーチューブッテユー、ドーガキョーユーサイト、",
+        "text_level2": "YouTubeっていう、あの、動画共有サイト、",
+        "kana_level3": "ユーチューブッテユー、アノ、ドーガキョーユーサイト、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 721.05,
+      "end": 723.0,
+      "data": {
+        "text_level0": "皆さん知ってると思いますけども、",
+        "kana_level0": "ミナサンシッテルトオモイマスケドモ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 723.0,
+      "end": 729.7,
+      "data": {
+        "text_level0": "YouTubeも実は昨年2011年6月からクリエイティブ・コモンズ・ライセンスを選べるようになっている。",
+        "kana_level0": "ユーチューブモジツワサクネンニセンジューイチネンロクガツカラクリエーティブ・コモンズ・ライセンスオエラベルヨーニナッテイル。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 729.7,
+      "end": 731.6,
+      "data": {
+        "text_level0": "それは、どういうことを意味するかというと、",
+        "kana_level0": "ソレワ、ドーユーコトオイミスルカトイウト、",
+        "text_level2": "それどういうことを意味するかというと、",
+        "kana_level3": "ソレ、ドーユーコトオイミスルカトイウト、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 731.6,
+      "end": 740.78,
+      "data": {
+        "text_level0": "YouTubeに投稿されてる動画の中から、そのクリエイティブ・コモンズ・ライセンスがついてる動画を検索できるようになっていて、",
+        "kana_level0": "ユーチューブニトーコーサレテルドーガノナカカラ、ソノクリエーティブ・コモンズ・ライセンスガツイテルドーガオケンサクデキルヨーニナッテイテ、",
+        "text_level2": "えー、YouTubeに投稿されてる動画の中から、そのクリエイティブ・コモンズ・ライセンスがついてる動画を検索できるようになっていて、",
+        "kana_level3": "エー、ユーチューブニトーコーサレテルドーガノナカカラ、ソノクリエーティブ・コモンズ・ライセンスガツイテルドーガオケンサクデキルヨーニナッテイテ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 740.78,
+      "end": 743.4,
+      "data": {
+        "text_level0": "それをいわゆるマッシュアップ、",
+        "kana_level0": "ソレオイワユルマッシュアップ、",
+        "text_level2": "でー、それを、いわゆるマッシュアップ、",
+        "kana_level3": "デー、ソレオイワユルマッシュアップ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 743.46,
+      "end": 748.08,
+      "data": {
+        "text_level0": "色んな動画をこう混ぜ合わせて新しい動画を作るっていうことが可能になっている。",
+        "kana_level0": "イロンナドーガオコーマゼアワセテアタラシードーガオツクルッテユーコトガカノーニナッテイル。",
+        "text_level2": "色んな動画をこう混ぜ合わせて新しい動画を作るっていうことが、ま、可能になっている。",
+        "kana_level3": "イロンナドーガオコーマゼアワセテアタラシードーガオツクルッテユーコトガ、マ、カノーニナッテイル。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 748.09,
+      "end": 749.9,
+      "data": {
+        "text_level0": "画像の世界で言うと、",
+        "kana_level0": "ガゾーノセカイデユート、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 749.9,
+      "end": 751.8,
+      "data": {
+        "text_level0": "フリッカーっていう",
+        "kana_level0": "フリッカーッテユー",
+        "text_level2": "あのー、フリッカーっていう",
+        "kana_level3": "アノー、フリッカーッテユー",
+        "memo": ""
+      }
+    },
+    {
+      "start": 751.8,
+      "end": 755.12,
+      "data": {
+        "text_level0": "今yahoo!の子会社になってますけれども、",
+        "kana_level0": "イマヤフー!ノコカイシャニナッテマスケレドモ、",
+        "text_level2": "あの、今yahoo!の子会社になってますけれども、",
+        "kana_level3": "アノ、イマヤフー!ノコカイシャニナッテマスケレドモ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 755.12,
+      "end": 760.22,
+      "data": {
+        "text_level0": "画像に今度はその同じクリエイティブ・コモンズ・ライセンスをつけるというサイトがあって、",
+        "kana_level0": "ガゾーニコンドワソノオナジクリエーティブ・コモンズ・ライセンスオツケルトユーサイトガアッテ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 760.22,
+      "end": 764.1,
+      "data": {
+        "text_level0": "もう8年ぐらい運営されてる老舗のサイトなんですけど、",
+        "kana_level0": "モーハチネングライウンエーサレテルシニセノサイトナンデスケド、",
+        "text_level2": "えー、もう8年ぐらい運営されてる老舗のサイトなんですけど、",
+        "kana_level3": "エー、モーハチネングライウンエーサレテルシニセノサイトナンデスケド、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 764.1,
+      "end": 767.9,
+      "data": {
+        "text_level0": "このフリッカーがすごいのは今およそですけども、",
+        "kana_level0": "コノフリッカーガスゴイノワイマオヨソデスケドモ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 767.92,
+      "end": 772.6,
+      "data": {
+        "text_level0": "7000万件ぐらいの写真がクリエイティブ・コモンズ・ライセンスがついてる。",
+        "kana_level0": "ナナセンマンケングライノシャシンガクリエーティブ・コモンズ・ライセンスガツイテル。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 772.94,
+      "end": 777.98,
+      "data": {
+        "text_level0": "しかもそれが結構クオリティの高いものがすごい多いんですね。",
+        "kana_level0": "シカモソレガケッコークオリティノタカイモノガスゴイオーインデスネ。",
+        "text_level2": "でー、しかもそれが結構こうクオリティの高いものがすごい多いんですね。",
+        "kana_level3": "デー、シカモソレガケッコークオリティノタカイモノガスゴイオーインデスネ。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 778.0,
+      "end": 779.77,
+      "data": {
+        "text_level0": "デジカメがすごい普及して、",
+        "kana_level0": "デジカメガスゴイフキューシテ、",
+        "text_level2": "で、まあデジカメがすごい普及して、",
+        "kana_level3": "デ、デジカメガスゴイフキューシテ、",
+        "memo": ""
+      }
+    },
+    {
+      "start": 779.78,
+      "end": 783.8,
+      "data": {
+        "text_level0": "誰でも結構いい写真撮れるようになってきたっていう時代背景もあると思うんですけども。",
+        "kana_level0": "ダレデモケッコーイーシャシントレルヨーニナッテキタッテユージダイハイケーモアルトオモウンデスケドモ。",
+        "text_level2": "で、誰でも結構いい写真撮れるようになってきたっていう、こう、時代背景もあると思うんですけども。",
+        "kana_level3": "デ、ダレデモケッコーイーシャシントレルヨーニナッテキタッテ、コー、ユージダイハイケーモアルトオモウンデスケドモ。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 783.8,
+      "end": 787.5,
+      "data": {
+        "text_level0": "例えば今回の僕の出した本を絡めていうと",
+        "kana_level0": "タトエバコンカイノボクノダシタホンオカラメテイウト",
+        "text_level2": "で、まあ、例えば今回の僕の出した本を絡めていうと",
+        "kana_level3": "デ、マー、タトエバコンカイノボクノダシタホンオカラメテイウト",
+        "memo": ""
+      }
+    },
+    {
+      "start": 787.5,
+      "end": 792.0,
+      "data": {
+        "text_level0": "この僕の本の表紙っていうのは実はまさにフリッカーで探し出してきた",
+        "kana_level0": "コノボクノホンノヒョーシッテユーノワジツワマサニフリッカーデサガシダシテキタ",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 792.0,
+      "end": 797.0,
+      "data": {
+        "text_level0": "画像十数点をリミックスしたグラフィックになっていて、",
+        "kana_level0": "ガゾージュースーテンオリミックスシタグラフィックニナッテイテ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 797.7,
+      "end": 802.1,
+      "data": {
+        "text_level0": "これ自体がフリッカーがあったから作れた表紙ということになってます。",
+        "kana_level0": "コレジタイガフリッカーガアッタカラツクレタヒョーシトユーコトニナッテマス。",
+        "text_level2": "これ自体がこうフリッカーがあったから作れた表紙ということになってます。",
+        "kana_level3": "コレジタイガコーフリッカーガアッタカラツクレタヒョーシトユーコトニナッテマス。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 804.6,
+      "end": 809.4,
+      "data": {
+        "text_level0": "フリーカルチャームーブメントによる恩恵を私たちは共有しています。",
+        "kana_level0": "フリーカルチャームーブメントニヨルオンケーオワタクシタチワキョーユーシテイマス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 809.45,
+      "end": 810.5,
+      "data": {
+        "text_level0": "そう今、",
+        "kana_level0": "ソーイマ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 810.5,
+      "end": 814.7,
+      "data": {
+        "text_level0": "私たち1人1人がフリーカルチャーの実践者になれる。",
+        "kana_level0": "ワタクシタチヒトリヒトリガフリーカルチャーノジッセンシャニナレル。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 814.87,
+      "end": 816.4,
+      "data": {
+        "text_level0": "インターネットの世界において、",
+        "kana_level0": "インターネットノセカイニオイテ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 816.83,
+      "end": 819.9,
+      "data": {
+        "text_level0": "私たちはただ利用者であるだけではなく、",
+        "kana_level0": "ワタクシタチワタダリヨーシャデアルダケデワナク、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 820.18,
+      "end": 821.8,
+      "data": {
+        "text_level0": "表現者であり、",
+        "kana_level0": "ヒョーゲンシャデアリ、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 822.4,
+      "end": 825.2,
+      "data": {
+        "text_level0": "創造者、クリエイターでもあるんですね。",
+        "kana_level0": "ソーゾーシャ、クリエーターデモアルンデスネ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 1000.8,
+      "end": 1005.0,
+      "data": {
+        "text_level0": "さあ、今月この360 Forumもフリーカルチャー宣言です。",
+        "kana_level0": "サー、コンゲツコノスリーシックスティーフォーラムモフリーカルチャーセンゲンデス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 1005.47,
+      "end": 1009.96,
+      "data": {
+        "text_level0": "このForumの20分前後、まるまるフリーカルチャーを実践です。",
+        "kana_level0": "コノフォーラムノニジュップンゼンゴ、マルマルフリーカルチャーオジッセンデス。",
+        "text_level2": "えーこのForumの20分前後、まるまるフリーカルチャーを実践です。",
+        "kana_level3": "エーコノフォーラムノニジュップンゼンゴ、マルマルフリーカルチャーオジッセンデス。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 1009.98,
+      "end": 1014.84,
+      "data": {
+        "text_level0": "今月この360 Forumでかける音楽、BGMは、全て、今日もそうです。",
+        "kana_level0": "コンゲツコノスリーシックスティーフォーラムデカケルオンガク、ビージーエムワ、スベテ、キョーモソーデス。",
+        "text_level2": "え、今月この360 Forumでかける音楽、BGMは、全て、今日もそうです。",
+        "kana_level3": "エ、コンゲツコノスリーシックスティーフォーラムデカケルオンガク、ビージーエムワ、スベテ、キョーモソーデス。",
+        "memo": ""
+      }
+    },
+    {
+      "start": 1014.87,
+      "end": 1018.6,
+      "data": {
+        "text_level0": "クリエイティブ・コモンズ・ライセンスで公開されているものばかりです。",
+        "kana_level0": "クリエーティブ・コモンズ・ライセンスデコーカイサレテイルモノバカリデス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 1018.64,
+      "end": 1022.9,
+      "data": {
+        "text_level0": "360 Forum、全てクリエイティブ・コモンズ・ライセンスで公開します。",
+        "kana_level0": "スリーシックスティーフォーラム、スベテクリエーティブ・コモンズ・ライセンスデコーカイシマス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 1023.19,
+      "end": 1024.68,
+      "data": {
+        "text_level0": "皆さん自由に使ってください。",
+        "kana_level0": "ミナサンジユーニツカッテクダサイ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 1025.14,
+      "end": 1028.8,
+      "data": {
+        "text_level0": "マッシュアップやリミックス、DJミックスもウェルカムです。",
+        "kana_level0": "マッシュアップヤリミックス、ディージェーミックスモウェルカムデス。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 1028.85,
+      "end": 1033.8,
+      "data": {
+        "text_level0": "使用の条件は必ずJ-WAVE 360のウェブサイトで確認してください。",
+        "kana_level0": "シヨーノジョーケンワカナラズジェーウエーブスリーシックスティーノウェブサイトデカクニンシテクダサイ。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 1034.32,
+      "end": 1035.4,
+      "data": {
+        "text_level0": "360 Forum、",
+        "kana_level0": "スリーシックスティーフォーラム、",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
+    },
+    {
+      "start": 1035.42,
+      "end": 1039.0,
+      "data": {
+        "text_level0": "今月はフリーカルチャーをSeek and Find。",
+        "kana_level0": "コンゲツワフリーカルチャーオシークアンドファインド。",
+        "text_level2": "",
+        "kana_level3": "",
+        "memo": ""
+      }
     }
+  ],
+  "meta": {
+    "duration": 1048.1499,
+    "series": "J-WAVE 360°",
+    "album": null,
+    "title": "360 Forum ~Seek and Find~",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 1,
+    "date": "2012-08-04",
+    "speaker": "アンドレア・ポンピリオ, ドミニク・チェン",
+    "licenser_sound": "J-WAVE",
+    "license_sound": "CC BY 3.0",
+    "licenser_text": "J-WAVE",
+    "license_text": "CC BY 3.0",
+    "url": "",
+    "url_sound": "https://soundcloud.com/jwave360/360-forum-seek-and-find-vol-1",
+    "status_annotation": "done",
+    "note": ""
+  }
 }

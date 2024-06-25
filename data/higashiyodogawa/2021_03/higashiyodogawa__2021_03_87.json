@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 25.2265,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "救急車を呼んだ方がいい? 病院に行った方がいい? 迷った時は救急安心センターおおさか",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000529/529121/a000059.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 25.2265,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "救急車を呼んだ方がいい? 病院に行った方がいい? 迷った時は救急安心センターおおさか",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000529/529121/a000059.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

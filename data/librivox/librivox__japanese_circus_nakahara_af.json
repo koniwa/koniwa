@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 89.887347,
-        "series": "LibriVox",
-        "album": "Multilingual Poetry Collection 018",
-        "title": "サーカス",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "meronpan",
-        "licenser_sound": "meronpan",
-        "license_sound": "Public Domain",
-        "licenser_text": "中原 中也",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/multilingual-poetry-collection-018/",
-        "url_sound": "http://www.archive.org/download/multilingual_poetry_018_1112_lv/japanese_circus_nakahara_af.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 89.887347,
+    "series": "LibriVox",
+    "album": "Multilingual Poetry Collection 018",
+    "title": "サーカス",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "meronpan",
+    "licenser_sound": "meronpan",
+    "license_sound": "Public Domain",
+    "licenser_text": "中原 中也",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/multilingual-poetry-collection-018/",
+    "url_sound": "http://www.archive.org/download/multilingual_poetry_018_1112_lv/japanese_circus_nakahara_af.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

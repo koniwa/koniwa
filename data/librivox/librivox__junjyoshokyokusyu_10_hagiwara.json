@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 45.270204,
-        "series": "LibriVox",
-        "album": null,
-        "title": "純情小曲集",
-        "chapter_number": 10,
-        "chapter_name": "利根川のほとり",
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "萩原 朔太郎",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/junjyoshokyokusyu-by-sakutaro-hagiwara/",
-        "url_sound": "http://www.archive.org/download/junjyoshokyokusyu_ez_librivox/junjyoshokyokusyu_10_hagiwara.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 45.270204,
+    "series": "LibriVox",
+    "album": null,
+    "title": "純情小曲集",
+    "chapter_number": 10,
+    "chapter_name": "利根川のほとり",
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "萩原 朔太郎",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/junjyoshokyokusyu-by-sakutaro-hagiwara/",
+    "url_sound": "http://www.archive.org/download/junjyoshokyokusyu_ez_librivox/junjyoshokyokusyu_10_hagiwara.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

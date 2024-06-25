@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 271.699592,
-        "series": "LibriVox",
-        "album": "LibriVox 7th Anniversary Collection",
-        "title": "半七捕物帳の思い出",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "岡本 綺堂",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-7th-anniversary-collection-by-various/",
-        "url_sound": "http://www.archive.org/download/7th_anniversary_collection_1208_librivox/7thanniversary_06_hanshichitorimonotyonoomoide_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 271.699592,
+    "series": "LibriVox",
+    "album": "LibriVox 7th Anniversary Collection",
+    "title": "半七捕物帳の思い出",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "岡本 綺堂",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-7th-anniversary-collection-by-various/",
+    "url_sound": "http://www.archive.org/download/7th_anniversary_collection_1208_librivox/7thanniversary_06_hanshichitorimonotyonoomoide_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

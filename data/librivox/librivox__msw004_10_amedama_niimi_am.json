@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 215.196735,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 004",
-        "title": "飴だま",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "magicrose",
-        "licenser_sound": "magicrose",
-        "license_sound": "Public Domain",
-        "licenser_text": "新美 南吉",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-004/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_004_1210_lv/msw004_10_amedama_niimi_am.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 215.196735,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 004",
+    "title": "飴だま",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "magicrose",
+    "licenser_sound": "magicrose",
+    "license_sound": "Public Domain",
+    "licenser_text": "新美 南吉",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-004/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_004_1210_lv/msw004_10_amedama_niimi_am.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

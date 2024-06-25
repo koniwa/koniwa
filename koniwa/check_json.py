@@ -40,7 +40,7 @@ def operation(path_dir: Path, write: bool) -> tuple[Stat, bool]:
             json.dumps(
                 json.loads(d.model_dump_json()),
                 ensure_ascii=False,
-                indent=4,
+                indent=2,
             )
             + "\n"
         )
@@ -73,7 +73,7 @@ def main() -> None:
             json.dumps(
                 stat.model_dump(),
                 ensure_ascii=False,
-                indent=4,
+                indent=2,
             )
             + "\n"
         )

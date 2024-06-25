@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 1032.463673,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 002",
-        "title": "一房の葡萄",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "有島 武郎",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-002/",
-        "url_sound": "http://www.archive.org/download/multilingual_shortworks_002_librivox/msw002_13_hitofusanobudou_arishima_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 1032.463673,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 002",
+    "title": "一房の葡萄",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "有島 武郎",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-002/",
+    "url_sound": "http://www.archive.org/download/multilingual_shortworks_002_librivox/msw002_13_hitofusanobudou_arishima_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

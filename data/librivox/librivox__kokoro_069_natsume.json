@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 281.70449,
-        "series": "LibriVox",
-        "album": null,
-        "title": "こころ",
-        "chapter_number": 3,
-        "chapter_name": "先生と遺書",
-        "part": 15,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "夏目漱石",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/kokoro-by-soseki-natsume/",
-        "url_sound": "http://www.archive.org/download/kokoro_natsume_um_librivox/kokoro_069_natsume_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 281.70449,
+    "series": "LibriVox",
+    "album": null,
+    "title": "こころ",
+    "chapter_number": 3,
+    "chapter_name": "先生と遺書",
+    "part": 15,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "夏目漱石",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/kokoro-by-soseki-natsume/",
+    "url_sound": "http://www.archive.org/download/kokoro_natsume_um_librivox/kokoro_069_natsume_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

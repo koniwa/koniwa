@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 513.152,
-        "series": "広報紙「きらり☆ にしよど」 音声版",
-        "album": null,
-        "title": "各種検診、今月の1階窓口混雑状況予測",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 西淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 西淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/nishiyodogawa/cmsfiles/contents/0000507/507324/R2-06-05-2.wma",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 513.152,
+    "series": "広報紙「きらり☆ にしよど」 音声版",
+    "album": null,
+    "title": "各種検診、今月の1階窓口混雑状況予測",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 西淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 西淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/nishiyodogawa/cmsfiles/contents/0000507/507324/R2-06-05-2.wma",
+    "status_annotation": null,
+    "note": ""
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 79.621224,
-        "series": "LibriVox",
-        "album": null,
-        "title": "萱草に寄す",
-        "chapter_number": 5,
-        "chapter_name": "のちのおもひに",
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "立原 道造",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/wasuregusaniyosu-by-michizou-tachihara/",
-        "url_sound": "http://www.archive.org/download/wasuregusaniyosu_1203_librivox/wasuregusaniyosu_05_tachihara.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 79.621224,
+    "series": "LibriVox",
+    "album": null,
+    "title": "萱草に寄す",
+    "chapter_number": 5,
+    "chapter_name": "のちのおもひに",
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "立原 道造",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/wasuregusaniyosu-by-michizou-tachihara/",
+    "url_sound": "http://www.archive.org/download/wasuregusaniyosu_1203_librivox/wasuregusaniyosu_05_tachihara.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

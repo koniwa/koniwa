@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 254.82449,
-        "series": "LibriVox",
-        "album": null,
-        "title": "高野聖",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 22,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "泉 鏡花",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/kouyahijiri-by-kyoka-izumi/",
-        "url_sound": "http://www.archive.org/download/kouyahijiri_1303_librivox/kouyahijiri_22_izumi.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 254.82449,
+    "series": "LibriVox",
+    "album": null,
+    "title": "高野聖",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 22,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "泉 鏡花",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/kouyahijiri-by-kyoka-izumi/",
+    "url_sound": "http://www.archive.org/download/kouyahijiri_1303_librivox/kouyahijiri_22_izumi.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

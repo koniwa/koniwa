@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 460.460408,
-        "series": "LibriVox",
-        "album": null,
-        "title": "歌行灯",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 23,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "泉 鏡花",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/utaandon-by-kyoka-izumi/",
-        "url_sound": "http://www.archive.org/download/utaandon_1405_librivox/utaandon_23_izumi_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 460.460408,
+    "series": "LibriVox",
+    "album": null,
+    "title": "歌行灯",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 23,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "泉 鏡花",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/utaandon-by-kyoka-izumi/",
+    "url_sound": "http://www.archive.org/download/utaandon_1405_librivox/utaandon_23_izumi_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 428.355918,
-        "series": "LibriVox",
-        "album": null,
-        "title": "めぐりあひ",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 16,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "徳田 秋声",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/meguriai-by-shuusei-tokuda/",
-        "url_sound": "http://www.archive.org/download/meguriai_1409_librivox/meguriai_16_tokuda_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 428.355918,
+    "series": "LibriVox",
+    "album": null,
+    "title": "めぐりあひ",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 16,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "徳田 秋声",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/meguriai-by-shuusei-tokuda/",
+    "url_sound": "http://www.archive.org/download/meguriai_1409_librivox/meguriai_16_tokuda_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

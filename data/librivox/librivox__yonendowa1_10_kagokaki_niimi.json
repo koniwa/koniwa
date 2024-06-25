@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 131.448163,
-        "series": "LibriVox",
-        "album": null,
-        "title": "カゴカキ",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "新美 南吉",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/yonen-dowa-by-nankichi-niimi/",
-        "url_sound": "http://www.archive.org/download/yonen_dowa1_um_librivox/yonendowa1_10_kagokaki_niimi.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 131.448163,
+    "series": "LibriVox",
+    "album": null,
+    "title": "カゴカキ",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "新美 南吉",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/yonen-dowa-by-nankichi-niimi/",
+    "url_sound": "http://www.archive.org/download/yonen_dowa1_um_librivox/yonendowa1_10_kagokaki_niimi.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 82.860408,
-        "series": "LibriVox",
-        "album": null,
-        "title": "ふるさと",
-        "chapter_number": 6,
-        "chapter_name": "奧山に燃える火",
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "島崎 藤村",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/furusato-by-toson-shimazaki/",
-        "url_sound": "http://www.archive.org/download/furusato_1308_librivox/furusato_06_shimazaki_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 82.860408,
+    "series": "LibriVox",
+    "album": null,
+    "title": "ふるさと",
+    "chapter_number": 6,
+    "chapter_name": "奧山に燃える火",
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "島崎 藤村",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/furusato-by-toson-shimazaki/",
+    "url_sound": "http://www.archive.org/download/furusato_1308_librivox/furusato_06_shimazaki_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

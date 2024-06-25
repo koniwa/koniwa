@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 413.596735,
-        "series": "LibriVox",
-        "album": "Christmas Short Works Collection 2012",
-        "title": "クリスマスの贈物",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "竹久 夢二",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/christmas-short-works-2012/",
-        "url_sound": "http://www.archive.org/download/christmas_short_works_2012_librivox/kurisumasunookurimono_takeshita_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 413.596735,
+    "series": "LibriVox",
+    "album": "Christmas Short Works Collection 2012",
+    "title": "クリスマスの贈物",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "竹久 夢二",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/christmas-short-works-2012/",
+    "url_sound": "http://www.archive.org/download/christmas_short_works_2012_librivox/kurisumasunookurimono_takeshita_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

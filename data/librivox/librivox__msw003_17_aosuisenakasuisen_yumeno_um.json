@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 249.521633,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 003",
-        "title": "青水仙、赤水仙",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "夢野 久作",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-003/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_003_1210_lv/msw003_17_aosuisenakasuisen_yumeno_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 249.521633,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 003",
+    "title": "青水仙、赤水仙",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "夢野 久作",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-003/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_003_1210_lv/msw003_17_aosuisenakasuisen_yumeno_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

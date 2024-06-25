@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 769.959184,
-        "series": "LibriVox",
-        "album": null,
-        "title": "蒲団",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 2,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "田山 花袋",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/futon-by-katai-tayama/",
-        "url_sound": "http://www.archive.org/download/futon_ek_1303_librivox/futon_02_tayama.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 769.959184,
+    "series": "LibriVox",
+    "album": null,
+    "title": "蒲団",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 2,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "田山 花袋",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/futon-by-katai-tayama/",
+    "url_sound": "http://www.archive.org/download/futon_ek_1303_librivox/futon_02_tayama.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

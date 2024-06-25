@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 72.825,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "平成31年4月に小・中学校へ入学する方へ 学校選択制希望調査票の提出締切日は10月31日です!",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000447/447581/a000018.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 72.825,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "平成31年4月に小・中学校へ入学する方へ 学校選択制希望調査票の提出締切日は10月31日です!",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000447/447581/a000018.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

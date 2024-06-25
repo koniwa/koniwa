@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 59.2465,
-        "series": "「広報ひがしよどがわ」 音声版",
-        "album": null,
-        "title": "一生に一度の成人式を、思い出に残る式典にしてみませんか?新成人または同年代の協力者募集中!",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 東淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 東淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000435/435928/a000016.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 59.2465,
+    "series": "「広報ひがしよどがわ」 音声版",
+    "album": null,
+    "title": "一生に一度の成人式を、思い出に残る式典にしてみませんか?新成人または同年代の協力者募集中!",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 東淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 東淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/higashiyodogawa/cmsfiles/contents/0000435/435928/a000016.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

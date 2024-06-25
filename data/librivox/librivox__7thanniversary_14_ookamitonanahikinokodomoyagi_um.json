@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 573.805714,
-        "series": "LibriVox",
-        "album": "LibriVox 7th Anniversary Collection",
-        "title": "狼と七匹の子山羊",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "グリム兄弟",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-7th-anniversary-collection-by-various/",
-        "url_sound": "http://www.archive.org/download/7th_anniversary_collection_1208_librivox/7thanniversary_14_ookamitonanahikinokodomoyagi_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 573.805714,
+    "series": "LibriVox",
+    "album": "LibriVox 7th Anniversary Collection",
+    "title": "狼と七匹の子山羊",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "グリム兄弟",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-7th-anniversary-collection-by-various/",
+    "url_sound": "http://www.archive.org/download/7th_anniversary_collection_1208_librivox/7thanniversary_14_ookamitonanahikinokodomoyagi_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

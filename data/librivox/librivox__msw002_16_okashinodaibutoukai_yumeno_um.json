@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 424.933878,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 002",
-        "title": "お菓子の大舞踏会",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "夢野 久作",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-002/",
-        "url_sound": "http://www.archive.org/download/multilingual_shortworks_002_librivox/msw002_16_okashinodaibutoukai_yumeno_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 424.933878,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 002",
+    "title": "お菓子の大舞踏会",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "夢野 久作",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-002/",
+    "url_sound": "http://www.archive.org/download/multilingual_shortworks_002_librivox/msw002_16_okashinodaibutoukai_yumeno_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

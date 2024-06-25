@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 596.532245,
-        "series": "LibriVox",
-        "album": null,
-        "title": "何處へ",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 2,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "正宗 白鳥",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/doko-e-by-hakucho-masamune/",
-        "url_sound": "http://www.archive.org/download/doko_e_1404_librivox/dokoe_02_masamune_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 596.532245,
+    "series": "LibriVox",
+    "album": null,
+    "title": "何處へ",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 2,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "正宗 白鳥",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/doko-e-by-hakucho-masamune/",
+    "url_sound": "http://www.archive.org/download/doko_e_1404_librivox/dokoe_02_masamune_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

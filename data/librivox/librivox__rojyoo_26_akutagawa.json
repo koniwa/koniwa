@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 249.756735,
-        "series": "LibriVox",
-        "album": null,
-        "title": "路上",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 26,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "芥川 龍之介",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/rojyoo-by-ryunosuke-akutagawa/",
-        "url_sound": "http://www.archive.org/download/rojyoo_1306_librivox/rojyoo_26_akutagawa.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 249.756735,
+    "series": "LibriVox",
+    "album": null,
+    "title": "路上",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 26,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "芥川 龍之介",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/rojyoo-by-ryunosuke-akutagawa/",
+    "url_sound": "http://www.archive.org/download/rojyoo_1306_librivox/rojyoo_26_akutagawa.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

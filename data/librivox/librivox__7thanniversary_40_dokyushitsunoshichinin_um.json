@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 972.852245,
-        "series": "LibriVox",
-        "album": "LibriVox 7th Anniversary Collection",
-        "title": "撞球室の七人",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "橋本 五郎",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-7th-anniversary-collection-by-various/",
-        "url_sound": "http://www.archive.org/download/7th_anniversary_collection_1208_librivox/7thanniversary_40_dokyushitsunoshichinin_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 972.852245,
+    "series": "LibriVox",
+    "album": "LibriVox 7th Anniversary Collection",
+    "title": "撞球室の七人",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "橋本 五郎",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-7th-anniversary-collection-by-various/",
+    "url_sound": "http://www.archive.org/download/7th_anniversary_collection_1208_librivox/7thanniversary_40_dokyushitsunoshichinin_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

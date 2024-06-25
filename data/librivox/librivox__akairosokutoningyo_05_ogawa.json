@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 260.336327,
-        "series": "LibriVox",
-        "album": null,
-        "title": "赤いろうそくと人魚",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 5,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "小川 未明",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/akai-rosoku-to-ningyo-by-mimei-ogawa/",
-        "url_sound": "http://www.archive.org/download/akai_rosoku_um_librivox/akairosokutoningyo_05_ogawa.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 260.336327,
+    "series": "LibriVox",
+    "album": null,
+    "title": "赤いろうそくと人魚",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 5,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "小川 未明",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/akai-rosoku-to-ningyo-by-mimei-ogawa/",
+    "url_sound": "http://www.archive.org/download/akai_rosoku_um_librivox/akairosokutoningyo_05_ogawa.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 1190.060408,
-        "series": "LibriVox",
-        "album": "LibriVox Multilingual Short Works Collection 006",
-        "title": "溺れかけた兄妹",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "有島 武郎",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-006/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_006_1303/msw006_13_oborekaketakyodai_arishima_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 1190.060408,
+    "series": "LibriVox",
+    "album": "LibriVox Multilingual Short Works Collection 006",
+    "title": "溺れかけた兄妹",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "有島 武郎",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-006/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_006_1303/msw006_13_oborekaketakyodai_arishima_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

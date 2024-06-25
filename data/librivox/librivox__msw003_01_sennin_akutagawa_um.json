@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 583.915102,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 003",
-        "title": "仙人",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "芥川 龍之介",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-003/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_003_1210_lv/msw003_01_sennin_akutagawa_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 583.915102,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 003",
+    "title": "仙人",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "芥川 龍之介",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-003/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_003_1210_lv/msw003_01_sennin_akutagawa_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

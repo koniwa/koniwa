@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 465.984,
-        "series": "広報紙「きらり☆ にしよど」 音声版",
-        "album": null,
-        "title": "認知症とは、認知症の人に寄り添うまち西淀川、マイナンバーカードについて、新たな大都市制度について",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": null,
-        "licenser_sound": "大阪市 西淀川区",
-        "license_sound": "CC BY 4.0",
-        "licenser_text": "大阪市 西淀川区",
-        "license_text": "CC BY 4.0",
-        "url": "",
-        "url_sound": "https://www.city.osaka.lg.jp/nishiyodogawa/cmsfiles/contents/0000515/515708/0209-01.02-01.wma",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 465.984,
+    "series": "広報紙「きらり☆ にしよど」 音声版",
+    "album": null,
+    "title": "認知症とは、認知症の人に寄り添うまち西淀川、マイナンバーカードについて、新たな大都市制度について",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": null,
+    "licenser_sound": "大阪市 西淀川区",
+    "license_sound": "CC BY 4.0",
+    "licenser_text": "大阪市 西淀川区",
+    "license_text": "CC BY 4.0",
+    "url": "",
+    "url_sound": "https://www.city.osaka.lg.jp/nishiyodogawa/cmsfiles/contents/0000515/515708/0209-01.02-01.wma",
+    "status_annotation": null,
+    "note": ""
+  }
 }

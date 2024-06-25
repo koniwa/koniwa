@@ -67,7 +67,7 @@ def operation(path_in: Path, path_parsed: Path, path_out: Path) -> None:
         item["data"]["kana_level0"] = pron
 
     with path_out.open("w") as outf:
-        outf.write(json.dumps(d, ensure_ascii=False, indent=4))
+        outf.write(json.dumps(d, ensure_ascii=False, indent=2))
         outf.write("\n")
 
 

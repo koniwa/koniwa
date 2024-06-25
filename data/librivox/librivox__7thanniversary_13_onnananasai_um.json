@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 236.59102,
-        "series": "LibriVox",
-        "album": "LibriVox 7th Anniversary Collection",
-        "title": "女七歳",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "岸田 國士",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-7th-anniversary-collection-by-various/",
-        "url_sound": "http://www.archive.org/download/7th_anniversary_collection_1208_librivox/7thanniversary_13_onnananasai_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 236.59102,
+    "series": "LibriVox",
+    "album": "LibriVox 7th Anniversary Collection",
+    "title": "女七歳",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "岸田 國士",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-7th-anniversary-collection-by-various/",
+    "url_sound": "http://www.archive.org/download/7th_anniversary_collection_1208_librivox/7thanniversary_13_onnananasai_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

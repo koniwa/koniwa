@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 1132.69551,
-        "series": "LibriVox",
-        "album": "LibriVox Multilingual Short Works Collection 006",
-        "title": "山月記",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "中島 敦",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-006/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_006_1303/msw006_04_sangetsuki_nakajima_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 1132.69551,
+    "series": "LibriVox",
+    "album": "LibriVox Multilingual Short Works Collection 006",
+    "title": "山月記",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "中島 敦",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-006/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_006_1303/msw006_04_sangetsuki_nakajima_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

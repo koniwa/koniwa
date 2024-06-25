@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 230.112653,
-        "series": "LibriVox",
-        "album": "Librivox Multilingual Short Works Collection 005",
-        "title": "この手に限るよ",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "萩原 朔太郎",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-005/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_005_1212/msw005_03_konotenikagiruyo_hagiwara_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 230.112653,
+    "series": "LibriVox",
+    "album": "Librivox Multilingual Short Works Collection 005",
+    "title": "この手に限るよ",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "萩原 朔太郎",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-005/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_005_1212/msw005_03_konotenikagiruyo_hagiwara_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

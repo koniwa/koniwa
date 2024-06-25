@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 59.480816,
-        "series": "LibriVox",
-        "album": "Christmas Short Works Collection 2012",
-        "title": "クリスマス",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "萩原 朔太郎",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/christmas-short-works-2012/",
-        "url_sound": "http://www.archive.org/download/christmas_short_works_2012_librivox/christmas_hagiwara_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 59.480816,
+    "series": "LibriVox",
+    "album": "Christmas Short Works Collection 2012",
+    "title": "クリスマス",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "萩原 朔太郎",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/christmas-short-works-2012/",
+    "url_sound": "http://www.archive.org/download/christmas_short_works_2012_librivox/christmas_hagiwara_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 265.038367,
-        "series": "LibriVox",
-        "album": null,
-        "title": "眼鏡",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": 19,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "島崎 藤村",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/megane-by-toson-shimazaki/",
-        "url_sound": "http://www.archive.org/download/megane_1407_librivox/megane_19_shimazaki_128kb.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 265.038367,
+    "series": "LibriVox",
+    "album": null,
+    "title": "眼鏡",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": 19,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "島崎 藤村",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/megane-by-toson-shimazaki/",
+    "url_sound": "http://www.archive.org/download/megane_1407_librivox/megane_19_shimazaki_128kb.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

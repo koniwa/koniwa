@@ -1,22 +1,22 @@
 {
-    "annotation": [],
-    "meta": {
-        "duration": 314.200816,
-        "series": "LibriVox",
-        "album": "LibriVox Multilingual Short Works Collection 006",
-        "title": "思索者の日記",
-        "chapter_number": null,
-        "chapter_name": null,
-        "part": null,
-        "date": null,
-        "speaker": "ekzemplaro",
-        "licenser_sound": "ekzemplaro",
-        "license_sound": "Public Domain",
-        "licenser_text": "三木 清",
-        "license_text": "Public Domain",
-        "url": "https://librivox.org/librivox-multilingual-short-works-collection-006/",
-        "url_sound": "http://www.archive.org/download/multilingual_shorts_006_1303/msw006_10_shisakusyanonikki_miki_um.mp3",
-        "status_annotation": null,
-        "note": ""
-    }
+  "annotation": [],
+  "meta": {
+    "duration": 314.200816,
+    "series": "LibriVox",
+    "album": "LibriVox Multilingual Short Works Collection 006",
+    "title": "思索者の日記",
+    "chapter_number": null,
+    "chapter_name": null,
+    "part": null,
+    "date": null,
+    "speaker": "ekzemplaro",
+    "licenser_sound": "ekzemplaro",
+    "license_sound": "Public Domain",
+    "licenser_text": "三木 清",
+    "license_text": "Public Domain",
+    "url": "https://librivox.org/librivox-multilingual-short-works-collection-006/",
+    "url_sound": "http://www.archive.org/download/multilingual_shorts_006_1303/msw006_10_shisakusyanonikki_miki_um.mp3",
+    "status_annotation": null,
+    "note": ""
+  }
 }

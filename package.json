@@ -10,9 +10,9 @@
     },
     "version": "1.0.0",
     "devDependencies": {
-        "badge-maker": "^3.3.1",
+        "badge-maker": "^4.0.0",
         "markdownlint-cli": "^0.41.0",
-        "pyright": "^1.1.367"
+        "pyright": "^1.1.368"
     },
     "engines": {
         "npm": "Use pnpm instead of npm!"

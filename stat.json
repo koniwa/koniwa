@@ -1,31 +1,13 @@
 {
   "total": {
-    "duration": 998444.3993000007,
+    "duration": 998444.3993,
     "duration_done": 4651.125451,
     "num_file": 4417,
     "num_file_done": 6
   },
   "series": {
-    "tnc": {
-      "duration": 3173.9755510000005,
-      "duration_done": 3173.9755510000005,
-      "num_file": 4,
-      "num_file_done": 4
-    },
-    "librivox": {
-      "duration": 394384.4292740005,
-      "duration_done": 0,
-      "num_file": 978,
-      "num_file_done": 0
-    },
-    "roudoku_toshokan": {
-      "duration": 6049.808775000001,
-      "duration_done": 0,
-      "num_file": 16,
-      "num_file_done": 0
-    },
     "amagasaki": {
-      "duration": 38599.016,
+      "duration": 38599.01600000001,
       "duration_done": 429.0,
       "num_file": 61,
       "num_file_done": 1
@@ -36,22 +18,40 @@
       "num_file": 4,
       "num_file_done": 1
     },
-    "higashiyodogawa": {
-      "duration": 227178.26299999954,
+    "roudoku_toshokan": {
+      "duration": 6049.808774999999,
       "duration_done": 0,
-      "num_file": 2775,
+      "num_file": 16,
       "num_file_done": 0
     },
-    "minato": {
-      "duration": 92154.792,
+    "tnc": {
+      "duration": 3173.975551,
+      "duration_done": 3173.975551,
+      "num_file": 4,
+      "num_file_done": 4
+    },
+    "librivox": {
+      "duration": 394384.4292739998,
       "duration_done": 0,
-      "num_file": 176,
+      "num_file": 978,
       "num_file_done": 0
     },
     "nishiyodogawa": {
       "duration": 232983.7119999999,
       "duration_done": 0,
       "num_file": 403,
+      "num_file_done": 0
+    },
+    "minato": {
+      "duration": 92154.79199999997,
+      "duration_done": 0,
+      "num_file": 176,
+      "num_file_done": 0
+    },
+    "higashiyodogawa": {
+      "duration": 227178.26299999963,
+      "duration_done": 0,
+      "num_file": 2775,
       "num_file_done": 0
     }
   }

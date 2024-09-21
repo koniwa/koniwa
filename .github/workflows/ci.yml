@@ -10,28 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
 
-      - name: Install Poetry Action
-        uses: snok/install-poetry@v1.4.1
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v3
         with:
-          virtualenvs-create: true
-          virtualenvs-in-project: true
+          enable-cache: true
+      - run: uv sync
 
-      - name: Load cached venv
-        id: cached-poetry-dependencies
-        uses: actions/cache@v4
-        with:
-          path: .venv
-          key: venv-${{ runner.os }}-${{ hashFiles('**/poetry.lock') }}
-
-      - run: pip install poetry
-      - run: poetry install
       - run: mkdir -p ${{ env.OUTPUT_DIR }}
       - run: >-
-          poetry run make lint_python -j $(nproc) \
+          uv run make lint_python -j $(nproc) \
            OUTPUT_STAT=${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_STAT }}
 
       - name: Setup pnpm
@@ -57,7 +45,7 @@ jobs:
         run: pnpm install
 
 
-      - run: poetry run make lint_node -j $(nproc)
+      - run: uv run make lint_node -j $(nproc)
 
       - name: Generate badge images
         if: github.ref == 'refs/heads/master'

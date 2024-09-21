@@ -28,5 +28,8 @@
     "rules": {
       "recommended": true
     }
+  },
+  "files": {
+    "ignore": ["**/.venv/**"]
   }
 }

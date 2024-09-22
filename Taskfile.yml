@@ -1,0 +1,48 @@
+version: '3'
+
+vars:
+  OUTPUT_STAT: /dev/stdout
+
+tasks:
+  default:
+    deps: [all_for_ci, typo_check]
+
+  all_for_ci:
+    deps: [lint_node, lint_python]
+
+  lint_python:
+    deps: [ruff, yamllint]
+
+  lint_node:
+    deps: [markdownlint, pyright]
+
+  check_json:
+    cmds:
+      - python3 -m koniwa.check_json -i ./data -o {{ .OUTPUT_STAT }}
+
+  yamllint:
+    cmds:
+      - >-
+        find . \( -name node_modules -o -name .venv \) \
+          -prune -o -type f -name '*.yml' -print \
+        | xargs yamllint --no-warnings -c .yamllint.yml
+
+  ruff:
+    cmds:
+      - ruff format --respect-gitignore --check
+      - ruff check --respect-gitignore
+
+  pyright:
+    cmds:
+      - npx pyright
+
+  markdownlint:
+    cmds:
+      - >-
+        find . -type d \( -name node_modules -o -name .venv \) \
+          -prune -o -type f -name '*.md' -print \
+        | xargs npx markdownlint --config ./.markdownlint.json
+
+  typo_check:
+    cmds:
+      - typos -V && typos

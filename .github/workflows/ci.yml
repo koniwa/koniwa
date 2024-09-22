@@ -11,6 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install Task
+        uses: arduino/setup-task@v2
+        with:
+          version: 3.x
+
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v3
         with:
@@ -19,8 +24,7 @@ jobs:
 
       - run: mkdir -p ${{ env.OUTPUT_DIR }}
       - run: >-
-          uv run make lint_python -j $(nproc) \
-           OUTPUT_STAT=${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_STAT }}
+          uv run task lint_python -p OUTPUT_STAT=${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_STAT }}
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v4.0.0
@@ -45,7 +49,7 @@ jobs:
         run: pnpm install
 
 
-      - run: uv run make lint_node -j $(nproc)
+      - run: uv run task -p lint_node
 
       - name: Generate badge images
         if: github.ref == 'refs/heads/master'

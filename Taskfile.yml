@@ -11,7 +11,7 @@ tasks:
     deps: [lint_node, lint_python]
 
   lint_python:
-    deps: [ruff, yamllint]
+    deps: [ruff, yamllint, check_json]
 
   lint_node:
     deps: [markdownlint, pyright]

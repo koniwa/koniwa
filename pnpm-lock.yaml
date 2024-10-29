@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       badge-maker:
-        specifier: ^4.0.0
-        version: 4.0.0
+        specifier: ^4.1.0
+        version: 4.1.0
       markdownlint-cli:
         specifier: ^0.42.0
         version: 0.42.0
@@ -18,8 +18,8 @@ importers:
         specifier: ^4.1.5
         version: 4.1.5
       pyright:
-        specifier: ^1.1.383
-        version: 1.1.383
+        specifier: ^1.1.386
+        version: 1.1.386
 
 packages:
 
@@ -65,8 +65,8 @@ packages:
     resolution: {integrity: sha512-wvUjBtSGN7+7SjNpq/9M2Tg350UZD3q62IFZLbRAR1bSMlCo1ZaeW+BJ+D090e4hIIZLBcTDWe4Mh4jvUDajzQ==}
     engines: {node: '>= 0.4'}
 
-  badge-maker@4.0.0:
-    resolution: {integrity: sha512-iq5WneL40H9WiT7fJQjYhIiFzYPXeO3FT+FMMTTljE4ZOSEZvw58WimIrFHyKRc0v5q4z3d/666RkQwZgAO/Xg==}
+  badge-maker@4.1.0:
+    resolution: {integrity: sha512-qYImXoz0WZRMaauqSMo6QNurKp26K3RcOhefuGfno50xmAzHEJsgHbP4gnHs6Ps53KgQgFi4MJKB6Rq8H7siww==}
     engines: {node: '>=16'}
     hasBin: true
 
@@ -492,8 +492,8 @@ packages:
     resolution: {integrity: sha512-uxFIHU0YlHYhDQtV4R9J6a52SLx28BCjT+4ieh7IGbgwVJWO+km431c4yRlREUAsAmt/uMjQUyQHNEPf0M39CA==}
     engines: {node: '>=6'}
 
-  pyright@1.1.383:
-    resolution: {integrity: sha512-b540vUDWGXFlVwhxREgCrvKYT9bnUUPiDtSv5s7sUGxIokTxc06bPC2vfnGunUqaUu6hgIqlv1GRFdOKIEb09A==}
+  pyright@1.1.386:
+    resolution: {integrity: sha512-mpVeXb12CtDC5EIm6lbrEjD6tD/qIpRSmkYZB16Vl5xWgYvFcgAFKgbCBSiy9D1h4eQBmqAP/9oFatmZ2hjTPw==}
     engines: {node: '>=14.0.0'}
     hasBin: true
 
@@ -501,8 +501,8 @@ packages:
     resolution: {integrity: sha512-BLq/cCO9two+lBgiTYNqD6GdtK8s4NpaWrl6/rCO9w0TUS8oJl7cmToOZfRYllKTISY6nt1U7jQ53brmKqY6BA==}
     engines: {node: '>=4'}
 
-  regexp.prototype.flags@1.5.2:
-    resolution: {integrity: sha512-NcDiDkTLuPR+++OCKB0nWafEmhg/Da8aUPLPMQbK+bxKKCm1/S5he+AqYa4PlMCVBalb4/yxIRub6qkEx5yJbw==}
+  regexp.prototype.flags@1.5.3:
+    resolution: {integrity: sha512-vqlC04+RQoFalODCbCumG2xIOvapzVMHwsyIGM/SIE8fRhFFsXeH8/QQ+s0T0kDAhKc4k30s73/0ydkHQz6HlQ==}
     engines: {node: '>= 0.4'}
 
   resolve@1.22.8:
@@ -723,7 +723,7 @@ snapshots:
     dependencies:
       possible-typed-array-names: 1.0.0
 
-  badge-maker@4.0.0:
+  badge-maker@4.1.0:
     dependencies:
       anafanafo: 2.0.0
       css-color-converter: 2.0.0
@@ -879,7 +879,7 @@ snapshots:
       object-inspect: 1.13.2
       object-keys: 1.1.1
       object.assign: 4.1.5
-      regexp.prototype.flags: 1.5.2
+      regexp.prototype.flags: 1.5.3
       safe-array-concat: 1.1.2
       safe-regex-test: 1.0.3
       string.prototype.trim: 1.2.9
@@ -1209,7 +1209,7 @@ snapshots:
 
   punycode.js@2.3.1: {}
 
-  pyright@1.1.383:
+  pyright@1.1.386:
     optionalDependencies:
       fsevents: 2.3.3
 
@@ -1219,7 +1219,7 @@ snapshots:
       normalize-package-data: 2.5.0
       path-type: 3.0.0
 
-  regexp.prototype.flags@1.5.2:
+  regexp.prototype.flags@1.5.3:
     dependencies:
       call-bind: 1.0.7
       define-properties: 1.2.1

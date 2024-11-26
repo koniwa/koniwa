@@ -14,10 +14,10 @@
   },
   "version": "1.0.0",
   "devDependencies": {
-    "badge-maker": "^4.1.0",
-    "markdownlint-cli": "^0.42.0",
-    "npm-run-all2": "^7.0.1",
     "@biomejs/biome": "1.9.4",
+    "badge-maker": "^4.1.0",
+    "markdownlint-cli": "^0.43.0",
+    "npm-run-all2": "^7.0.1",
     "pyright": "^1.1.389"
   },
   "engines": {

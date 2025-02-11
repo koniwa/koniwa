@@ -21,6 +21,15 @@ jobs:
         uses: astral-sh/setup-uv@v5
         with:
           enable-cache: true
+
+      - uses: actions/cache@v4
+        name: Setup uv cache
+        with:
+          path: .venv
+          key: ${{ runner.os }}-uv-store-${{ hashFiles('**/uv.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-uv-store-
+
       - run: uv sync
 
       - run: mkdir -p ${{ env.OUTPUT_DIR }}

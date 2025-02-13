@@ -32,10 +32,6 @@ jobs:
 
       - run: uv sync
 
-      - run: mkdir -p ${{ env.OUTPUT_DIR }}
-      - run: >-
-          uv run task lint_python -p OUTPUT_STAT=${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_STAT }}
-
       - name: Setup pnpm
         uses: pnpm/action-setup@v4.0.0
 
@@ -55,8 +51,10 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-
-      - run: uv run task -p lint_node
+      - run: mkdir -p ${{ env.OUTPUT_DIR }}
+      - run: uv run task check_json -p OUTPUT_STAT=${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_STAT }}
+      - run: uv run task lint
+      - run: uv run task test
 
       - name: Generate badge images
         if: github.ref == 'refs/heads/master'

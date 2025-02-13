@@ -17,7 +17,7 @@ class Span(BaseModel):
     def check_blank(cls, values):
         ok_t: bool = False
         ok_k: bool = False
-        for k in cls.schema()["properties"].keys():
+        for k in cls.model_json_schema()["properties"].keys():
             if k.startswith("text_") and len(values[k]) > 0:
                 ok_t = True
             elif k.startswith("kana_") and len(values[k]) > 0:

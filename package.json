@@ -1,27 +1,34 @@
 {
   "author": "",
   "description": "",
-  "license": "",
-  "main": "",
-  "name": "pyright-exec",
-  "scripts": {
-    "preinstall": "npx only-allow pnpm",
-    "pyright": "pyright",
-    "format": "biome format --write",
-    "test:biome": "biome check",
-    "test:md": "markdownlint *.md",
-    "test": "run-s test:biome test:md"
-  },
-  "version": "1.0.0",
   "devDependencies": {
-    "@biomejs/biome": "1.9.4",
     "badge-maker": "^4.1.0",
+    "@taplo/cli": "^0.7.0",
+    "@biomejs/biome": "1.9.4",
+    "markdown-it": "^14.1.0",
     "markdownlint-cli": "^0.44.0",
     "npm-run-all2": "^7.0.2",
-    "pyright": "^1.1.393"
+    "pyright": "^1.1.394"
   },
   "engines": {
     "npm": "Use pnpm instead of npm!"
   },
-  "packageManager": "pnpm@9.11.0+sha512.0a203ffaed5a3f63242cd064c8fb5892366c103e328079318f78062f24ea8c9d50bc6a47aa3567cabefd824d170e78fa2745ed1f16b132e16436146b7688f19b"
+  "license": "",
+  "main": "",
+  "name": "koniwa",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "format": "run-s format:biome format:markdownlint format:toml",
+    "format:biome": "biome check --write",
+    "format:markdownlint": "markdownlint -f ./*.md doc/*.md",
+    "format:toml": "taplo format *.toml",
+    "test": ":",
+    "lint": "run-s lint:biome lint:md lint:pyright lint:toml",
+    "lint:biome": "biome check",
+    "lint:md": "npx markdownlint *.md docs/*.md",
+    "lint:pyright": "pyright",
+    "lint:toml": "taplo format --check *.toml"
+  },
+  "version": "1.0.0",
+  "packageManager": "pnpm@9.12.0+sha512.4abf725084d7bcbafbd728bfc7bee61f2f791f977fd87542b3579dcb23504d170d46337945e4c66485cd12d588a0c0e570ed9c477e7ccdd8507cf05f3f92eaca"
 }

@@ -5,7 +5,6 @@
     "badge-maker": "^4.1.0",
     "@taplo/cli": "^0.7.0",
     "@biomejs/biome": "1.9.4",
-    "markdown-it": "^14.1.0",
     "markdownlint-cli": "^0.44.0",
     "npm-run-all2": "^7.0.2",
     "pyright": "^1.1.394"

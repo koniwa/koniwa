@@ -33,7 +33,7 @@ jobs:
       - run: uv sync
 
       - name: Setup pnpm
-        uses: pnpm/action-setup@v4.0.0
+        uses: pnpm/action-setup@v4.1.0
 
       - name: Get pnpm store directory
         shell: bash

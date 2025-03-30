@@ -24,8 +24,8 @@ importers:
         specifier: ^7.0.2
         version: 7.0.2
       pyright:
-        specifier: ^1.1.397
-        version: 1.1.397
+        specifier: ^1.1.398
+        version: 1.1.398
 
 packages:
 
@@ -431,8 +431,8 @@ packages:
     resolution: {integrity: sha512-uxFIHU0YlHYhDQtV4R9J6a52SLx28BCjT+4ieh7IGbgwVJWO+km431c4yRlREUAsAmt/uMjQUyQHNEPf0M39CA==}
     engines: {node: '>=6'}
 
-  pyright@1.1.397:
-    resolution: {integrity: sha512-15cBWI3rRBHJIxUrltN8H/GkVtJ54s2rH6aQUZdOjnoa41H9rNs1OfJJFzYT8nvCNgjRL8NjsuKu6GqZAgYLOw==}
+  pyright@1.1.398:
+    resolution: {integrity: sha512-KrqCYCw+p+mtoQ7kOiIKyEvfJxi4rMbJAvjSGjtScMaOHVqHVKYOFlchgiePj9AbjmkR/iNzWOodYJfXLjpHtQ==}
     engines: {node: '>=14.0.0'}
     hasBin: true
 
@@ -979,7 +979,7 @@ snapshots:
 
   punycode.js@2.3.1: {}
 
-  pyright@1.1.397:
+  pyright@1.1.398:
     optionalDependencies:
       fsevents: 2.3.3
 

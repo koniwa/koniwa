@@ -24,7 +24,7 @@
     "test": ":",
     "lint": "run-s lint:biome lint:md lint:pyright lint:toml",
     "lint:biome": "biome check",
-    "lint:md": "npx markdownlint *.md docs/*.md",
+    "lint:md": "markdownlint *.md docs/*.md",
     "lint:pyright": "pyright",
     "lint:toml": "taplo format --check *.toml"
   },

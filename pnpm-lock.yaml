@@ -24,8 +24,8 @@ importers:
         specifier: ^7.0.2
         version: 7.0.2
       pyright:
-        specifier: ^1.1.398
-        version: 1.1.398
+        specifier: ^1.1.399
+        version: 1.1.399
 
 packages:
 
@@ -280,8 +280,8 @@ packages:
     resolution: {integrity: sha512-p/nXbhSEcu3pZRdkW1OfJhpsVtW1gd4Wa1fnQc9YLiTfAjn0312eMKimbdIQzuZl9aa9xUGaRlP9T/CJE/ditQ==}
     engines: {node: '>=0.10.0'}
 
-  katex@0.16.21:
-    resolution: {integrity: sha512-XvqR7FgOHtWupfMiigNzmh+MgUVmDGU2kXZm899ZkPfcuoPuFxyHmXsgATDpFZDAXCI8tvinaVcDo8PIIJSo4A==}
+  katex@0.16.22:
+    resolution: {integrity: sha512-XCHRdUw4lf3SKBaJe4EvgqIuWwkPSo9XoeO8GjQW94Bp7TWv9hNhzZjZ+OH9yf1UmLygb7DIT5GSFQiyt16zYg==}
     hasBin: true
 
   linkify-it@5.0.0:
@@ -431,8 +431,8 @@ packages:
     resolution: {integrity: sha512-uxFIHU0YlHYhDQtV4R9J6a52SLx28BCjT+4ieh7IGbgwVJWO+km431c4yRlREUAsAmt/uMjQUyQHNEPf0M39CA==}
     engines: {node: '>=6'}
 
-  pyright@1.1.398:
-    resolution: {integrity: sha512-KrqCYCw+p+mtoQ7kOiIKyEvfJxi4rMbJAvjSGjtScMaOHVqHVKYOFlchgiePj9AbjmkR/iNzWOodYJfXLjpHtQ==}
+  pyright@1.1.399:
+    resolution: {integrity: sha512-roYApcOUEraOc2gTZX052/cw/AZ5rQGkdG/2DtU1/KyhfP+C5zHDlvOT24qRgPXDDkh76AvFwq5quZ1SMahq7w==}
     engines: {node: '>=14.0.0'}
     hasBin: true
 
@@ -709,7 +709,7 @@ snapshots:
 
   jsonpointer@5.0.1: {}
 
-  katex@0.16.21:
+  katex@0.16.22:
     dependencies:
       commander: 8.3.0
 
@@ -820,7 +820,7 @@ snapshots:
     dependencies:
       '@types/katex': 0.16.7
       devlop: 1.1.0
-      katex: 0.16.21
+      katex: 0.16.22
       micromark-factory-space: 2.0.1
       micromark-util-character: 2.1.1
       micromark-util-symbol: 2.0.1
@@ -979,7 +979,7 @@ snapshots:
 
   punycode.js@2.3.1: {}
 
-  pyright@1.1.398:
+  pyright@1.1.399:
     optionalDependencies:
       fsevents: 2.3.3
 
